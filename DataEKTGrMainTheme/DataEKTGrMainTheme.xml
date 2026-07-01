@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/DataEKTGrMainTheme"><dc:title xml:lang="en">Data EKT Gr Main Theme</dc:title>
+<dc:creator xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</dc:creator>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-01-19T17:02:02</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-01-19T17:02:02</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/DataEKTGrMainTheme/1990009920"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/DataEKTGrMainTheme/1106240160"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/DataEKTGrMainTheme/1176399040"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/DataEKTGrMainTheme/1416951744"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/DataEKTGrMainTheme/1990009920"><skos:prefLabel xml:lang="en">Culture, history and arts</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολιτισμός, ιστορία και τέχνη</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/DataEKTGrMainTheme/1106240160"><skos:prefLabel xml:lang="el">Λεξιλόγια και κατάλογοι καθιερωμένων όρων</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/DataEKTGrMainTheme/1176399040"><skos:prefLabel xml:lang="el">Στατιστικές</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/DataEKTGrMainTheme/1416951744"><skos:prefLabel xml:lang="el">Επιστημονικές δημοσιεύσεις και διατριβές</skos:prefLabel>
+</skos:Concept>
+</rdf:RDF>
