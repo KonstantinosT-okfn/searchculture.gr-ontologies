@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/openarchives-item-types"><dc:title xml:lang="en">Openarchives.gr item types</dc:title>
+<dc:title xml:lang="el">Λεξιλόγιο τύπων τεκμηρίων openarchives.gr</dc:title>
+<dc:creator xml:lang="en">National Documentation Center (EKT)</dc:creator>
+<dc:creator xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</dc:creator>
+<dc:description xml:lang="en">The vocabulary "Openarchives.gr item types" is developed by the National Documentation Centre (EKT). It is hierarchical and bilingual. It was created as a documentation tool for the scientific content that is aggregated by Openarchives.gr</dc:description>
+<dc:description xml:lang="el">Το λεξιλόγιο «Λεξιλόγιο τύπων τεκμηρίων openarchives.gr» αναπτύσσεται από το Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ). Είναι ιεραρχικό, δίγλωσσο. Δημιουργήθηκε προκειμενου να χρησιμοποιηθεί για την τεκμηρίωση του επιστημονικού υλικού που συσσωρεύεται στην υποδομή Openarchives.gr.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-10-24T11:32:44</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-19T17:56:59</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Manuscript"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Video"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Proceedings"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Index--Catalogue"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Drawing"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Document"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Study"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Journal-issue"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Image"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Presentation"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-item"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Sound-recording"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/GuideManual"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/pinakas-dedomena"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Educational-material"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Map"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/book"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/arthro"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Essay"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Curriculum-vitae"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Interview"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Newspaper-issue"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Tribute"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Press-release"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Ephemera"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Report"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Dataset"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Yearbook"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/DiaryNotebook"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Leaflet"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Score"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logos--dialeksh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Patent"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Abstract"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Event-item"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Research-Paper-"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Bulletin"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Obituary"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Review"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/openarchives-item-types/epistolh"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Newspaper-part"><skos:prefLabel xml:lang="en">Newspaper part</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τμήμα εφημερίδας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Newspaper-page"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Newspaper-front-page"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Manuscript"><skos:prefLabel xml:lang="el">Χειρόγραφο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Manuscript</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300028569"><rdfs:label xml:lang="en">manuscripts (documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Video"><skos:prefLabel xml:lang="en">Video</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κινούμενη εικόνα / Βίντεο</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300263857"><rdfs:label xml:lang="en">video recordings (physical artifacts)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Κινούμενες εικόνες / Βίντεο</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Videos</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Monograph"><skos:prefLabel xml:lang="el">Μονογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Monograph</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Monograph"><rdfs:label xml:lang="en">Monograph</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300060417"><rdfs:label xml:lang="en">monographs</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Μονογραφίες</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Monographs</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Fairt-tale"><skos:prefLabel xml:lang="el">Παραμύθι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Fairy tale / Folk tale</skos:prefLabel>
+<skos:altLabel xml:lang="en">Folktale</skos:altLabel>
+<skos:altLabel xml:lang="en">Folk tale</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300055922"><rdfs:label xml:lang="en">folk tales</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Fairy tales/ Folk tales</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Παραμύθια</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"><skos:prefLabel xml:lang="en">Partial document</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τμήμα έκδοσης</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Newspaper-part"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/pinakas-periexomenwn"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Journal-part"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/shmeiwma-ekdoth"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Page"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/tmhma-biblioy"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Appendix"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Back-matter"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Front-matter"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Prologue"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/kefalaio"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300055027"><rdfs:label xml:lang="en">partial documents</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Front-matter"><skos:prefLabel xml:lang="el">Αρχικές σελίδες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Front matter</skos:prefLabel>
+<skos:altLabel xml:lang="en">Preliminaries</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300195174"><rdfs:label xml:lang="en">preliminaries</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/poihsh"><skos:prefLabel xml:lang="el">Ποίημα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Poem</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026451"><rdfs:label xml:lang="en">poems</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Ποιήματα</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Poems</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Proceedings"><skos:prefLabel xml:lang="en">Proceedings</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρακτικά</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027316"><rdfs:label xml:lang="en">proceedings (reports)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Conference-poster"><skos:prefLabel xml:lang="el">Αναρτημένη ανακοίνωση συνεδρίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Conference poster</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-item"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Chart"><skos:prefLabel xml:lang="el">Διάγραμμα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Chart</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Drawing"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Organization-chart"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026848"><rdfs:label xml:lang="en">charts (graphic documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Index--Catalogue"><skos:prefLabel xml:lang="el">Ευρετήριο / Κατάλογος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Index / Catalogue</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026554"><rdfs:label xml:lang="en">indexes (reference sources)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026059"><rdfs:label xml:lang="en">catalogs (documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Ευρετήρια / Κατάλογοι</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Indexes / Catalogues</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Prologue"><skos:prefLabel xml:lang="el">Προλογικό σημείωμα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Prologue</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Prologue"><rdfs:label xml:lang="en">Prologue</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/PhD-thesis"><skos:prefLabel xml:lang="en">PhD thesis</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διδακτορική διατριβή</skos:prefLabel>
+<skos:altLabel xml:lang="en">Doctoral dissertations</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Research-Paper-"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300312076"><rdfs:label xml:lang="en">doctoral dissertations</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">PhD Theses</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Διδακτορικές διατριβές</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Drawing"><skos:prefLabel xml:lang="el">Σχέδιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Drawing</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Chart"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300033973"><rdfs:label xml:lang="en">drawings (visual works)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Case-study"><skos:prefLabel xml:lang="en">Case study</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μελέτη περίπτωσης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Study"/>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Case_study"><rdfs:label xml:lang="en">Case study</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Μελέτες περίπτωσης</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Case studies</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Newspaper-front-page"><skos:prefLabel xml:lang="el">Πρωτοσέλιδο εφημερίδας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Newspaper front page</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Newspaper-part"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Announcement--"><skos:prefLabel xml:lang="en">Announcement</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ανακοίνωση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Ephemera"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026707"><rdfs:label xml:lang="en">announcements</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Announcements</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Ανακοινώσεις</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/shmeiwma-ekdoth"><skos:prefLabel xml:lang="el">Σημείωμα εκδότη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Editorial</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026284"><rdfs:label xml:lang="en">editorials</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Biography"><skos:prefLabel xml:lang="el">Βιογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Biography</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300055908"><rdfs:label xml:lang="en">biography (general genre)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Βιογραφίες</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Biographies</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Play"><skos:prefLabel xml:lang="en">Play</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θεατρικό έργο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Play_(theatre)"><rdfs:label xml:lang="en">Play (theatre)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300201028"><rdfs:label xml:lang="en">plays (performed works)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Θεατρικά έργα</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Plays</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/metaptyxiakh-ergasia"><skos:prefLabel xml:lang="en">Master thesis</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μεταπτυχιακή εργασία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Research-Paper-"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300077723"><rdfs:label xml:lang="en">masters theses</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Master theses</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Μεταπτυχιακές εργασίες</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Document"><skos:prefLabel xml:lang="el">Έγγραφο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Document</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026031"><rdfs:label xml:lang="en">document genres</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Documents</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Έγγραφα</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Technical-Report"><skos:prefLabel xml:lang="en">Technical report</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τεχνική αναφορά</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Report"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027323"><rdfs:label xml:lang="en">technical reports</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Τεχνικές αναφορές</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Technical reports</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Study"><skos:prefLabel xml:lang="el">Μελέτη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Study</skos:prefLabel>
+<skos:altLabel xml:lang="en">Research</skos:altLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Case-study"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300254807"><rdfs:label xml:lang="en">research (documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Μελέτες</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Studies</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Journal-issue"><skos:prefLabel xml:lang="el">Τεύχος περιοδικού</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Journal issue</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Scientific-article"><skos:prefLabel xml:lang="el">Επιστημονικό άρθρο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Scientific article</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/arthro"/>
+<ekt:prefLabelInPlural xml:lang="el">Επιστημονικά άρθρα</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Scientific articles</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/shmeiwma--sxolio"><skos:prefLabel xml:lang="el">Σημείωμα / Σχόλιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Note / Comment</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Ephemera"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027200"><rdfs:label xml:lang="en">notes (documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Notes / Comments</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Σημειώματα / Σχόλια</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Image"><skos:prefLabel xml:lang="en">Image</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εικόνα</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300264387"><rdfs:label xml:lang="en">images (object genre)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Εικόνες</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Images</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Presentation"><skos:prefLabel xml:lang="en">Presentation</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παρουσίαση</skos:prefLabel>
+<ekt:prefLabelInPlural xml:lang="el">Presentations</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Παρουσιάσεις</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Study-guide"><skos:prefLabel xml:lang="en">Study guide</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οδηγός σπουδών</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/GuideManual"/>
+<ekt:prefLabelInPlural xml:lang="en">Study guides</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Οδηγοί Σπουδών</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/metadidaktorikh-diatribh"><skos:prefLabel xml:lang="en">Post doctoral thesis</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μεταδιδακτορική διατριβή</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Research-Paper-"/>
+<ekt:prefLabelInPlural xml:lang="en">Post doctoral theses</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Μεταδιδακτορικές διατριβές</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Conference-item"><skos:prefLabel xml:lang="en">Conference item</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τεκμήριο συνεδρίου</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-proceedings"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/-Conference-presentation"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-poster"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-article"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Sound-recording"><skos:prefLabel xml:lang="el">Ηχογράφηση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sound recording</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Music-recording"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300028633"><rdfs:label xml:lang="en">sound recordings</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Sound recordings</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Ηχογραφήσεις</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/GuideManual"><skos:prefLabel xml:lang="el">Οδηγός/Εγχειρίδιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Guide/Manual</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Study-guide"/>
+<ekt:prefLabelInPlural xml:lang="el">Οδηγοί / Εγχειρίδια</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Guides / Manuals</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/-Conference-presentation"><skos:prefLabel xml:lang="el">Παρουσίαση σε συνέδριο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Conference presentation</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-item"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Newspaper-page"><skos:prefLabel xml:lang="en">Newspaper page</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σελίδα εφημερίδας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Newspaper-part"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/pinakas-dedomena"><skos:prefLabel xml:lang="en">Table (data)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πίνακας (δεδομένα)</skos:prefLabel>
+<ekt:prefLabelInPlural xml:lang="el">Πίνακες (δεδομένα)</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Tables (data)</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Educational-material"><skos:prefLabel xml:lang="en">Educational material</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εκπαιδευτικό υλικό</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Category:Educational_materials"><rdfs:label xml:lang="en">Educational materials</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Educational materials</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Εκπαιδευτικά υλικά</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/tmhma-biblioy"><skos:prefLabel xml:lang="el">Τμήμα βιβλίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Book part</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Map"><skos:prefLabel xml:lang="en">Map</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χάρτης</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300028094"><rdfs:label xml:lang="en">maps (documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/book"><skos:prefLabel xml:lang="el">Βιβλίο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Book</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300028051"><rdfs:label xml:lang="en">books</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Book"><rdfs:label xml:lang="en">Book</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Βιβλία</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Books</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/arthro"><skos:prefLabel xml:lang="en">Article</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Άρθρο</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Newspaper-article"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Scientific-article"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300048715"><rdfs:label xml:lang="en">articles</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">΄Αρθρα</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Articles</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Essay"><skos:prefLabel xml:lang="el">Δοκίμιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Essay</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026291"><rdfs:label xml:lang="en">essays</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Essays</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Δοκίμια</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Journal-part"><skos:prefLabel xml:lang="el">Δημοσίευση σε περιοδικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Publication in journal</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Curriculum-vitae"><skos:prefLabel xml:lang="en">Curriculum vitae</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιογραφικό σημείωμα</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027451"><rdfs:label xml:lang="en">résumés (personnel records)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Βιογραφικά σημειώματα</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Curricula vitarum</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Curricula vitae</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/xronografhma"><skos:prefLabel xml:lang="en">Vignette (literature)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χρονογράφημα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Vignette_(literature)"><rdfs:label xml:lang="en">Vignette (literature)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Χρονογραφήματα</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Vignettes</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Ballot"><skos:prefLabel xml:lang="en">Ballot</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψηφοδέλτιο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Ephemera"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027428"><rdfs:label xml:lang="en">ballots</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Ψηφοδέλτια</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Ballots</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Conference-article"><skos:prefLabel xml:lang="el">Άρθρο συνεδρίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Conference article</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-item"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"><skos:prefLabel xml:lang="en">Literary work</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λογοτεχνικό έργο</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/xronografhma"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Monograph"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Play"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Biography"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Fairt-tale"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/poihsh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Fiction"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/dihghma"/>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Literature"><rdfs:label xml:lang="en">Literature</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300417585"><rdfs:label xml:lang="en">literature (general genre)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Literary works</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Λογοτεχνικά έργα</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/pinakas-periexomenwn"><skos:prefLabel xml:lang="en">Table of contents</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πίνακας περιεχομένων</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300195187"><rdfs:label xml:lang="en">tables of contents</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Interview"><skos:prefLabel xml:lang="el">Συνέντευξη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Interview</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026392"><rdfs:label xml:lang="en">interviews</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Interview"><rdfs:label xml:lang="en">Interview</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Interviews</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Συνεντεύξεις</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Newspaper-issue"><skos:prefLabel xml:lang="en">Newspaper issue</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φύλλο εφημερίδας</skos:prefLabel>
+<skos:altLabel xml:lang="el">Τεύχος εφημερίδας</skos:altLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026656"><rdfs:label xml:lang="en">newspapers</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Conference-proceedings"><skos:prefLabel xml:lang="en">Conference proceedings</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρακτικά συνεδρίου</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Conference-item"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300417790"><rdfs:label xml:lang="en">conference proceedings</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Newspaper-article"><skos:prefLabel xml:lang="el">Άρθρο εφημερίδας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Newspaper article</skos:prefLabel>
+<skos:altLabel xml:lang="en">Newspaper column</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/arthro"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026441"><rdfs:label xml:lang="en">newspaper columns</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Άρθρα εφημερίδας</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Newspaper articles</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Music-recording"><skos:prefLabel xml:lang="el">Ηχογράφηση μουσικής</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Music recording</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Sound-recording"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300054146"><rdfs:label xml:lang="en">music (performing arts genre)</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<ekt:prefLabelInPlural xml:lang="el">Ηχογραφήσεις μουσικής</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Music recordings</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Tribute"><skos:prefLabel xml:lang="en">Tribute</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αφιέρωμα</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300411650"><rdfs:label xml:lang="en">tribute records</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Tributes</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Αφιερώματα</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Back-matter"><skos:prefLabel xml:lang="el">Τελευταίες σελίδες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Back matter</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300195119"><rdfs:label xml:lang="en">back matter</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Press-release"><skos:prefLabel xml:lang="el">Δελτίο τύπου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Press release</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026437"><rdfs:label xml:lang="en">press releases</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Press releases</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Δελτία τύπου</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Ephemera"><skos:prefLabel xml:lang="en">Ephemera</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εφήμερα</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Announcement--"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Ballot"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/shmeiwma--sxolio"/>
+<skos:definition xml:lang="el">Υλικό της καθημερινής ζωής που παρήχθη σε μεγάλες ποσότητες και από ευτελείς πρώτες ύλες για να εξυπηρετήσει συγκεκριμένες και πρόσκαιρες ανάγκες. Στην κατηγορία εφήμερα ανήκουν τα ψηφοδέλτια, τα προγράμματα εκδηλώσεων, οι αφίσες, τα εισιτήρια, οι συσκευασίες τροφίμων, οι προεκλογικές αφίσες κ.ά.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Report"><skos:prefLabel xml:lang="el">Αναφορά</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Report</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Technical-Report"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027267"><rdfs:label xml:lang="en">reports</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Αναφορές</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Reports</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Dataset"><skos:prefLabel xml:lang="el">Ενιαίο σύνολο δεδομένων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Dataset</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Data_set"><rdfs:label xml:lang="en">Data set</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Datasets</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Ενιαία σύνολα δεδομένων</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Yearbook"><skos:prefLabel xml:lang="en">Yearbook</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επετηρίδα</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026646"><rdfs:label xml:lang="en">yearbooks</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Επετηρίδες</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Yearbooks</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/DiaryNotebook"><skos:prefLabel xml:lang="el">Ημερολόγιο/Σημειωματάριο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Diary/Notebook</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027112"><rdfs:label xml:lang="en">diaries</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Diaries / Notebooks</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Ημερολόγια / Σημειωματάρια</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Leaflet"><skos:prefLabel xml:lang="en">Leaflet</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φυλλάδιο</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300211825"><rdfs:label xml:lang="en">leaflets (printed works)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Appendix"><skos:prefLabel xml:lang="el">Παράρτημα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Appendix</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:broadMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026688"><rdfs:label xml:lang="en">addenda</rdfs:label>
+</rdf:Description>
+</skos:broadMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Score"><skos:prefLabel xml:lang="en">Score</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παρτιτούρα</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026427"><rdfs:label xml:lang="en">scores (documents for music)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Παρτιτούρες</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Scores</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/ptyxiakh-ergasia"><skos:prefLabel xml:lang="en">Bachelor thesis</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πτυχιακή εργασία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Research-Paper-"/>
+<skos:broadMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300028029"><rdfs:label xml:lang="en">dissertations</rdfs:label>
+</rdf:Description>
+</skos:broadMatch>
+<ekt:prefLabelInPlural xml:lang="el">Πτυχιακές εργασίες</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Bachelor theses</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/logos--dialeksh"><skos:prefLabel xml:lang="en">Speech / Lecture</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λόγος / Διάλεξη</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026673"><rdfs:label xml:lang="en">lectures (text)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Λόγοι / Διαλέξεις</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Speeches / Lectures</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Patent"><skos:prefLabel xml:lang="en">Patent</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δίπλωμα ευρεσιτεχνίας</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300027832"><rdfs:label xml:lang="en">patents</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Patents</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Διπλώματα ευρεσιτεχνίας</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Abstract"><skos:prefLabel xml:lang="en">Abstract</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περίληψη</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026032"><rdfs:label xml:lang="en">abstracts (summaries)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Abstracts</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Περιλήψεις</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Event-item"><skos:prefLabel xml:lang="en">Event item</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τεκμήριο εκδήλωσης</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Research-Paper-"><skos:prefLabel xml:lang="el">Διπλωματική εργασία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Thesis</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/metadidaktorikh-diatribh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/metaptyxiakh-ergasia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/ptyxiakh-ergasia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/PhD-thesis-summary"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/PhD-thesis"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300028028"><rdfs:label xml:lang="en">theses</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Theses</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Διπλωματικές εργασίες</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Book-review"><skos:prefLabel xml:lang="el">Βιβλιοκρισία / Βιβλιοπαρουσίαση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Book review</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Review"/>
+<ekt:prefLabelInPlural xml:lang="en">Book reviews</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Βιβλιοκρισίες / Βιβλιοπαρουσιάσεις</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Page"><skos:prefLabel xml:lang="el">Σελίδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Page</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:broadMatch><rdf:Description rdf:about="http://dbpedia.org/page/Page_(paper)"><rdfs:label xml:lang="en">Page (paper)</rdfs:label>
+</rdf:Description>
+</skos:broadMatch>
+<skos:broadMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300194222"><rdfs:label xml:lang="en">pages (components)</rdfs:label>
+</rdf:Description>
+</skos:broadMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/PhD-thesis-summary"><skos:prefLabel xml:lang="en">PhD thesis summary</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σύνοψη διδακτορικής διατριβής</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Research-Paper-"/>
+<skos:broadMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300139067"><rdfs:label xml:lang="en">summaries</rdfs:label>
+</rdf:Description>
+</skos:broadMatch>
+<ekt:prefLabelInPlural xml:lang="el">Συνόψεις διδακτορικών διατριβών</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">PhD theses summaries</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/kefalaio"><skos:prefLabel xml:lang="en">Chapter</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κεφάλαιο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Issue-segment"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300311699"><rdfs:label xml:lang="en">chapters (layout features)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/dihghma"><skos:prefLabel xml:lang="el">Διήγημα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Short story</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300202607"><rdfs:label xml:lang="en">short stories</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Short_story"><rdfs:label xml:lang="en">Short story</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Short stories</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Διηγήματα</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Fiction"><skos:prefLabel xml:lang="en">Fiction novel</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μυθιστόρημα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/logotexniko-ergo"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300055918"><rdfs:label xml:lang="en">fiction (general genre)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Μυθιστορήματα</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Fiction novels</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Organization-chart"><skos:prefLabel xml:lang="en">Organization chart</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οργανόγραμμα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Chart"/>
+<skos:exactMatch rdf:resource="http://dbpedia.org/page/Organizational_chart"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Bulletin"><skos:prefLabel xml:lang="el">Ενημερωτικό δελτίο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bulletin</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026435"><rdfs:label xml:lang="en">news bulletins</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Ενημερωτικά δελτία</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Bulletins</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Obituary"><skos:prefLabel xml:lang="en">Obituary</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νεκρολογία</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026443"><rdfs:label xml:lang="en">obituaries</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Obituarιies</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Νεκρολογίες</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/Review"><skos:prefLabel xml:lang="en">Review</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κριτική</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/openarchives-item-types/Book-review"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026480"><rdfs:label xml:lang="en">reviews (documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="el">Κριτικές</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="en">Reviews</ekt:prefLabelInPlural>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/openarchives-item-types/epistolh"><skos:prefLabel xml:lang="en">Letter</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιστολή</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300026879"><rdfs:label xml:lang="en">letters (correspondence)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Letter_(message)"><rdfs:label xml:lang="en">Letter (message)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<ekt:prefLabelInPlural xml:lang="en">Letters</ekt:prefLabelInPlural>
+<ekt:prefLabelInPlural xml:lang="el">Επιστολές</ekt:prefLabelInPlural>
+</skos:Concept>
+</rdf:RDF>
