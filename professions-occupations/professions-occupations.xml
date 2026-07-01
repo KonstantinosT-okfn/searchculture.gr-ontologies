@@ -1,0 +1,1883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/professions-occupations"><dc:title xml:lang="el">Ιδιότητες</dc:title>
+<dc:title xml:lang="en">Professions - Occupations</dc:title>
+<dc:creator><rdf:Description rdf:about="https://www.ekt.gr/"><rdfs:label xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</rdfs:label>
+<rdfs:label xml:lang="en">National Documentation Centre</rdfs:label>
+</rdf:Description>
+</dc:creator>
+<dc:description xml:lang="el">Το λεξιλόγιο «Ιδιότητες» αποτελεί ελεγχόμενο λεξιλόγιο ρόλων, αξιωμάτων, επαγγελμάτων και κοινωνικών ή ιστορικών χαρακτηρισμών, το οποίο χρησιμοποιείται για την τεκμηρίωση των προσώπων του λεξιλογίου «Πρόσωπα της Ελληνικής Ιστορίας και Τέχνης». Περιλαμβάνει ιεραρχικά οργανωμένες κατηγορίες που καλύπτουν, μεταξύ άλλων, πολιτικά και διοικητικά αξιώματα, εκκλησιαστικούς και στρατιωτικούς ρόλους, επιστημονικά και καλλιτεχνικά επαγγέλματα, επαγγελματικές ιδιότητες, συμμετοχή σε ιστορικά κινήματα ή αγώνες, καθώς και άλλους κοινωνικούς ή ιστορικούς χαρακτηρισμούς. Κάθε ιδιότητα αποδίδεται με μοναδικό URI (Semantics.gr term URI) και εντάσσεται σε σαφές ιεραρχικό πλαίσιο, διευκολύνοντας τη συνεπή περιγραφή, την αναζήτηση και τη θεματική ομαδοποίηση των περίπου 10.000 προσώπων της υποδομής.</dc:description>
+<dc:description xml:lang="en">The vocabulary "Professions - Occupations" is a controlled vocabulary of roles, offices, professions, and social or historical designations used to document the persons included in the vocabulary “Notable Persons in Greek History and Culture.” It consists of hierarchically structured categories covering, among others, political and administrative offices, ecclesiastical and military roles, scientific and artistic professions, occupational activities, participation in historical movements or struggles, as well as other social or historical characterizations. Each attribute is assigned a unique Semantics.gr term URI and is positioned within a clear hierarchical framework, supporting consistent description, retrieval, and thematic grouping of approximately 10,000 documented persons.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-06T13:36:15</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-19T18:18:58</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/418040572"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1415203116"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1835764515"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/722291281"><skos:prefLabel xml:lang="en">Palikars</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρματωλοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/615057728"><skos:prefLabel xml:lang="en">Stage designers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σκηνογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/846804746"><skos:prefLabel xml:lang="el">Επίσκοποι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bishops</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/364405280"><skos:prefLabel xml:lang="en">Ministers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Υπουργοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1530012742"><skos:prefLabel xml:lang="el">Μεσόφωνοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mezzo sopranos</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1236292108"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1152245227"><skos:prefLabel xml:lang="el">Αρθρογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Column writers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/697753236"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/378224678"><skos:prefLabel xml:lang="el">Φιλέλληνες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Phillelenes</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/81881856"><skos:prefLabel xml:lang="en">Vice-presidents of parliament</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αντιπρόεδροι Βουλής</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/457372807"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/520602212"><skos:prefLabel xml:lang="en">Students</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φοιτητές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/798779189"><skos:prefLabel xml:lang="el">Καλλιτέχνες εγκαταστάσεων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Installation artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1486612758"><skos:prefLabel xml:lang="el">Καπετάνιοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Captains</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1741648017"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/262520363"><skos:prefLabel xml:lang="en">Educationalists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παιδαγωγοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/722992219"><skos:prefLabel xml:lang="en">Grand dragoman</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μέγας διερμηνέας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1673601434"><skos:prefLabel xml:lang="en">Chief diocesesan officials</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρωτοσύγγελοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1241216835"><skos:prefLabel xml:lang="en">Craftsmen</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Applied artists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλλιτέχνες εφαρμοσμένων τεχνών</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1689663196"><skos:prefLabel xml:lang="el">Ληστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bandits</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1415203116"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/140047607"><skos:prefLabel xml:lang="en">Graphic designers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γραφίστες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2014223056"><skos:prefLabel xml:lang="el">Γενικοί γραμματείς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">General secretaries</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/426233346"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1392400805"><skos:prefLabel xml:lang="en">Prominent figures</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιφανείς προσωπικότητες</skos:prefLabel>
+<skos:altLabel>Διαπρεπείς προσωπικότητες</skos:altLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1505508931"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1699572067"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1116480159"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1712072490"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1835484230"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1621491552"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/994769242"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/726809652"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1518011712"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1362042526"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1496977309"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1821231066"><skos:prefLabel xml:lang="en">Factory owners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εργοστασιάρχες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/6359983"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1236810275"><skos:prefLabel xml:lang="en">Composers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μουσικοσυνθέτες I συνθέτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1816577301"><skos:prefLabel xml:lang="en">Political party leaders</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχηγοί κόμματος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1052385476"><skos:prefLabel xml:lang="en">Ship owners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πλοιοκτήτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1741648017"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1289151035"><skos:prefLabel xml:lang="en">Deacons</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιεροδιάκονοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1345766043"><skos:prefLabel xml:lang="en">Agents</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πράκτορες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1415203116"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/292802723"><skos:prefLabel xml:lang="el">Ερευνητές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Researchers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/515782147"><skos:prefLabel xml:lang="el">Λαογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ethnologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1426809904"><skos:prefLabel xml:lang="el">Κινηματογραφιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Cinematographers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/92574163"><skos:prefLabel xml:lang="en">Comic book illustrators</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εικονογράφοι κόμικς</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/2053696708"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1907114967"><skos:prefLabel xml:lang="en">Cotton merchants</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βαμβακέμποροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1218134270"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/177779557"><skos:prefLabel xml:lang="el">Σιδηροδρομικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Train men</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/6359983"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1249618400"><skos:prefLabel xml:lang="en">Presenters</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παρουσιαστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1821073242"><skos:prefLabel xml:lang="el">Σκιτσογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Cartoonists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/567185760"><skos:prefLabel xml:lang="en">Craftspeople</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χειροτέχνες/τεχνίτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2088301152"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/324440291"><skos:prefLabel xml:lang="el">Πρωτοψάλτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Archcantors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1365622712"><skos:prefLabel xml:lang="en">Geographers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γεωγράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1950888288"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1606314780"><skos:prefLabel xml:lang="en">Novella writers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διηγηματογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/148142975"><skos:prefLabel xml:lang="el">Θεατρικοί παραγωγοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Theater producers</skos:prefLabel>
+<skos:altLabel xml:lang="el">Θεατρικοί επιχειρηματίες</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/251287757"><skos:prefLabel xml:lang="el">Νωπογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Muralists</skos:prefLabel>
+<skos:altLabel xml:lang="el">Φρεσκογράφοι</skos:altLabel>
+<skos:altLabel xml:lang="en">Fresco painters</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1626615646"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/96234336"><skos:prefLabel xml:lang="en">Anthropologists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ανθρωπολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1486557824"><skos:prefLabel xml:lang="el">Πλοίαρχοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Captains</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/536141207"><skos:prefLabel xml:lang="en">Clerks</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διοικητικοί υπάλληλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1422151560"><skos:prefLabel xml:lang="en">Consular officers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρόξενοι</skos:prefLabel>
+<skos:altLabel xml:lang="en">Consuls</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/431923822"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/534520805"><skos:prefLabel xml:lang="en">Politicians</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολιτευτές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2059023055"><skos:prefLabel xml:lang="el">Δοκιμιογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Essayists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1741648017"><skos:prefLabel xml:lang="en">Shipping professions</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ναυτιλιακά επαγγέλματα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/217336231"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1052385476"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1486612758"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1102998572"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/178186083"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1417542592"><skos:prefLabel xml:lang="el">Αντιπρόσωποι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Representatives</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1280646757"><skos:prefLabel xml:lang="el">Δημοτικοί σύμβουλοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Town councillors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1240676260"><skos:prefLabel xml:lang="en">Admirals</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ναύαρχοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1275168057"><skos:prefLabel xml:lang="el">Πρίγκιπες | πριγκίπισσες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Princes I princesses</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1097264160"><skos:prefLabel xml:lang="el">Αρχιδούκες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Archdukes</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/103324800"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/633076720"><skos:prefLabel xml:lang="el">Ηθοποιοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Actors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1016528823"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/60257707"><skos:prefLabel xml:lang="el">Φιλόλογοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Philologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/130657905"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1073269208"><skos:prefLabel xml:lang="el">Ηγούμενοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Priors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/727200352"><skos:prefLabel xml:lang="el">Μεταβυζαντινοί ζωγράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Post-Byzantine painters</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1626615646"/>
+<skos:related rdf:resource="http://semantics.gr/authorities/professions-occupations/619126048"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/569738741"><skos:prefLabel xml:lang="el">Σοπράνο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Soptranos</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1236292108"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/111744448"><skos:prefLabel xml:lang="el">Επιχειρηματίες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Businesspeople</skos:prefLabel>
+<skos:altLabel xml:lang="en">Entrepreneurs</skos:altLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1556457145"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/6359983"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1218134270"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1744186100"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/128126769"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1599902904"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/781703628"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/182885057"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/147913502"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1169560567"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1741648017"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/145829868"/>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh96010352"><rdfs:label xml:lang="en">Businesspeople</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1062480000"><skos:prefLabel xml:lang="en">Political scientists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολιτικοί επιστήμονες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/819634158"><skos:prefLabel xml:lang="en">Critics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κριτικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1712072490"><skos:prefLabel xml:lang="el">Αθλητές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sportsmen</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1728728992"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/319398611"><skos:prefLabel xml:lang="el">Ιστορικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Historians</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2051016494"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/531484846"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/55307768"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/103329884"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/791652987"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/248551555"><skos:prefLabel xml:lang="el">Καπουτσίμπασης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lieutenant</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/20339443"><skos:prefLabel xml:lang="el">Καλλιτέχνες κινούμενων σχεδίων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Animators</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/660066241"><skos:prefLabel xml:lang="en">Principals</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λυκειάρχες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1355511294"><skos:prefLabel xml:lang="el">Καλλιτέχνες πολυμέσων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Multimedia artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2105358326"><skos:prefLabel xml:lang="en">Officers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αξιωματούχοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/343675734"><skos:prefLabel xml:lang="en">Baritones</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βαρύτονοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1236292108"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/728644057"><skos:prefLabel xml:lang="en">Numismatists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νομισματολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1549817302"><skos:prefLabel xml:lang="el">Πρέσβεις</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ambassadors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1339414880"><skos:prefLabel xml:lang="el">Φωτορεπόρτερ</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Photojournalists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/697753236"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1125769762"><skos:prefLabel xml:lang="el">Αγροτιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Argarian Sociologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/474577869"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2013896003"><skos:prefLabel xml:lang="en">Chief Secretaries of State</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχιγραμματείς</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/426233346"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1944754139"><skos:prefLabel xml:lang="en">Schoolteachers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημοδιδάσκαλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1833788511"><skos:prefLabel xml:lang="el">Μαθηματικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mathematicians</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1110953699"><skos:prefLabel xml:lang="en">Presidents</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρόεδροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1420486608"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1287274769"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/44b97b84-699e-4032-9fa1-1d98af3b9629"><skos:prefLabel xml:lang="el">Μακετίστες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Model makers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1640444491"><skos:prefLabel xml:lang="el">Αρχηγοί στόλου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Commanders of fleet</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1950888288"><skos:prefLabel xml:lang="en">Cartographers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χαρτογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1365622712"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/474577869"><skos:prefLabel xml:lang="el">Κοινωνιολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sociologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1125769762"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/477193487"><skos:prefLabel xml:lang="en">Lithographers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λιθογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1647702363"><skos:prefLabel xml:lang="el">Πολιτικά πρόσωπα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political persons</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/901786543"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/534602584"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/488515220"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1314502934"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/120723607"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1075654656"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1816577301"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2105358326"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1363382696"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/534520805"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1006475887"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1413088320"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1280954754"><skos:prefLabel xml:lang="el">Εγκληματολόγοi</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Criminologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2100551383"><skos:prefLabel xml:lang="en">Engineers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μηχανικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/291434105"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1121850875"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/378286307"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1723752256"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1946340567"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1550673610"><skos:prefLabel xml:lang="el">Καλλιτέχνες του νήματος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Textile artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2147057677"><skos:prefLabel xml:lang="el">Πολεοδομικοί σχεδιαστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Engineering designers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1946340567"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1518011712"><skos:prefLabel xml:lang="el">Ολυμπιονίκες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Olympic metalists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1413509037"><skos:prefLabel xml:lang="en">Physicists-mathematicians</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φυσικομαθηματικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/168448307"><skos:prefLabel xml:lang="el">Βιομήχανοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Industrialists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/6359983"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1331404608"><skos:prefLabel xml:lang="en">Fashion designers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σχεδιαστές μόδας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1883707881"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1770879975"><skos:prefLabel xml:lang="el">Υπεύθυνοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Managers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/590718585"><skos:prefLabel xml:lang="en">Curators</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιμελητές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/497859539"><skos:prefLabel xml:lang="el">Θεολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Theologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/120723607"><skos:prefLabel xml:lang="en">Members of parliament</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βουλευτές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1076745013"><skos:prefLabel xml:lang="en">Hellenists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ελληνιστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1441915765"><skos:prefLabel xml:lang="el">Ινδολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Indian culture specialists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1016528823"><skos:prefLabel xml:lang="en">Performers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλλιτέχνες του θεάματος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/600905613"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1454409771"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/633076720"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/924648190"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/645268989"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1409534214"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1880079936"><skos:prefLabel xml:lang="el">Θεατρολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Theatrologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1076545740"><skos:prefLabel xml:lang="en">Magistrates</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δικαστικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1363382696"><skos:prefLabel xml:lang="el">Πολιτικοί και στρατιωτικοί ηγέτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political and military leaders</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/994769242"><skos:prefLabel xml:lang="el">Εθνικοί ευεργέτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">National benefactors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1617884696"><skos:prefLabel xml:lang="el">Νοτάριοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Notaries</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/418040572"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/295162423"><skos:prefLabel xml:lang="el">Τυπογραφικοί σχεδιαστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Typography designers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1051583687"><skos:prefLabel xml:lang="en">Squires</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιπποκόμοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1093149203"><skos:prefLabel xml:lang="en">Psychiatrists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψυχίατροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1263353267"><skos:prefLabel xml:lang="en">Rulers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ηγεμόνες</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1035377945"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/103324800"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1509768576"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/78139851"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1249933849"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/258107245"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1588162179"><skos:prefLabel xml:lang="en">Doctors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιατροί</skos:prefLabel>
+<skos:altLabel xml:lang="el">Γιατροί</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/13458844"><skos:prefLabel xml:lang="el">Τυπογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Printers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/534602584"><skos:prefLabel xml:lang="en">Politicians</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολιτικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/911965270"><skos:prefLabel xml:lang="el">Πασάδες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pashas</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2005410433"><skos:prefLabel xml:lang="el">Παραγωγοί τέχνης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Art producers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1917107680"><skos:prefLabel xml:lang="en">Lyricists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Στιχουργοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1314502934"><skos:prefLabel xml:lang="en">Diplomats</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διπλωμάτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/646377889"><skos:prefLabel xml:lang="en">Collectors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Συλλέκτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/924648190"><skos:prefLabel xml:lang="el">Καραγκιοζοπαίκτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Shadow puppetry artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1016528823"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/426233346"><skos:prefLabel xml:lang="en">Secretaries</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γραμματείς</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2014223056"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2013896003"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1827146988"><skos:prefLabel xml:lang="en">Resistance fighters</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μέλη επαναστατικού αγώνα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/722291281"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1138285681"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1123837161"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/660753408"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1559970965"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/809383357"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/562167973"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/151100644"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/195582047"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2011458811"><skos:prefLabel xml:lang="el">Οπερατέρ</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Cameramen</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/809694119"><skos:prefLabel xml:lang="el">Αστρονόμοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Astronomers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/521011537"><skos:prefLabel xml:lang="el">Ιερομόναχοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Monks</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/118691564"><skos:prefLabel xml:lang="el">Συγγραφείς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Writers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/597835813"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2122923495"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/819634158"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/181371993"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1416608117"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1882493750"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2133962179"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/533908675"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1606314780"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1871400336"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2059023055"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/189463180"><skos:prefLabel xml:lang="el">Αρχίατροι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Chief medical officers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/2121708690"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/371299036"><skos:prefLabel xml:lang="el">Μητροπολίτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Metropolitan bishops</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1684283901"><skos:prefLabel xml:lang="el">Ιδιοκτήτες Βιβλιοπωλείου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bookstore owner</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1218134270"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/418040572"><skos:prefLabel xml:lang="en">Legal professions</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νομικά επαγγέλματα</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/977085995"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/866546159"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1617885627"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1617884696"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1341168019"><skos:prefLabel xml:lang="en">Costumiers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ενδυματολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1232611989"><skos:prefLabel xml:lang="en">Violin players</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιολιστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1326131706"><skos:prefLabel xml:lang="en">Men or women of Souli</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σουλιώτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1621491552"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/479953568"><skos:prefLabel xml:lang="el">Καλλιτέχνες βίντεο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Video artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1544743198"><skos:prefLabel xml:lang="en">Dukes</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δούκες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/103324800"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/378286307"><skos:prefLabel xml:lang="el">Σχεδιαστές προϊόντων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Product designers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/2100551383"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/526656814"><skos:prefLabel xml:lang="en">Philosophers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φιλόσοφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1251041668"><skos:prefLabel xml:lang="el">Κυρίες επί των τιμών</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ladies in waiting</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1882493750"><skos:prefLabel xml:lang="en">Travel writers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περιηγητές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/820189667"><skos:prefLabel xml:lang="el">Καθηγητές πανεπιστημίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">University professors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1845583533"><skos:prefLabel xml:lang="el">Αντιβασιλείς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Regents</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1249933849"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/600905613"><skos:prefLabel xml:lang="en">Artists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλλιτέχνες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1016528823"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1022591292"><skos:prefLabel xml:lang="en">Managing directors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διευθύνοντες σύμβουλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/503712870"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/644252963"><skos:prefLabel xml:lang="en">Performance artists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιτελεστικοί καλλιτέχνες</skos:prefLabel>
+<skos:altLabel xml:lang="el">Καλλιτέχνες περφόρμανς</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1835484230"><skos:prefLabel xml:lang="en">High-society persons</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κοσμικά πρόσωπα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1621491552"><skos:prefLabel xml:lang="en">Place of origin</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τόπος καταγωγής</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1326131706"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1409534214"><skos:prefLabel xml:lang="en">Choreographer</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χορογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1016528823"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2105352752"><skos:prefLabel xml:lang="en">Officers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αξιωματικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2088301152"><skos:prefLabel xml:lang="el">Αργυροχόοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Silversmiths</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/567185760"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1364595479"><skos:prefLabel xml:lang="en">Tv producers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τηλεοπτικοί παραγωγοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/602546444"><skos:prefLabel xml:lang="en">Public officers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημόσιοι λειτουργοί</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1244087193"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/457372807"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/364405280"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/600643230"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/536105713"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/739832055"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1600274703"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1770879975"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1011202247"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/426233346"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1978841917"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/536141207"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1549817302"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1011201198"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/960380682"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1076545740"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1422151560"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/503712870"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1110953699"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1417542592"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1280646757"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1075654656"><skos:prefLabel xml:lang="el">Πολιτικοί σύμβουλοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political advisers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/661781255"><skos:prefLabel xml:lang="en">Dentists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οδοντίατροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1491854367"><skos:prefLabel xml:lang="en">Archivists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχειονόμοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/62488007"><skos:prefLabel xml:lang="en">Clergy</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κλήρος</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/333991828"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/846804746"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1073269208"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/23242457"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1289151035"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1627186694"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/324440291"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1673601434"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1421271419"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1708511712"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1419737315"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/521011537"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/521012409"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1468767416"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1801962804"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1277279077"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/201910661"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1870328746"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1512793980"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/191927644"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/371299036"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1266745445"><skos:prefLabel xml:lang="el">Μεγαλέμποροι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Merchant princes</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1218134270"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/34617290"><skos:prefLabel xml:lang="en">Health professionals</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιατρικά επαγγέλματα</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1973064654"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/599783383"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1965871488"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1099531956"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/387058368"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1093149203"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/661781255"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1301392425"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1588162179"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1652140256"><skos:prefLabel xml:lang="el">Μεταλλειολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mineralogists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1649952038"><skos:prefLabel xml:lang="en">Digital artists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλλιτέχνες ψηφιακής τέχνης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1505508931"><skos:prefLabel xml:lang="en">National flighters I national heroes</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εθνικοί αγωνιστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1072603332"><skos:prefLabel xml:lang="el">Πρωθυπουργοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Prime ministers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/901786543"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1244087193"><skos:prefLabel xml:lang="en">High-commissioners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ύπατοι αρμοστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2024301409"><skos:prefLabel xml:lang="en">Zoologists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ζωολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/488515220"><skos:prefLabel xml:lang="el">Πολιτικοί επίτροποι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political commissioners</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1163610815"><skos:prefLabel xml:lang="el">Ιατροφιλόσοφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Philosopher doctors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/6359983"><skos:prefLabel xml:lang="en">Industrial occupations</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιομηχανικά επαγγέλματα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/168447532"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/100415196"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/177779557"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/168448307"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/479272096"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1821231066"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/739832055"><skos:prefLabel xml:lang="en">Mayors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δήμαρχοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1280205668"><skos:prefLabel xml:lang="el">Στρατιώτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Soldiers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2053825088"><skos:prefLabel xml:lang="en">Gallery owners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γκαλερίστες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1249933849"><skos:prefLabel xml:lang="en">Kings</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βασιλείς</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1845583533"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1419737315"><skos:prefLabel xml:lang="el">Καρδινάλιοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Cardinals</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1011202247"><skos:prefLabel xml:lang="en">Governors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κυβερνήτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1182912890"><skos:prefLabel xml:lang="el">Γεωπόνοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Agronomists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/358409596"><skos:prefLabel xml:lang="el">Πολεμικοί ζωγράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">War artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1626615646"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1287235317"><skos:prefLabel xml:lang="el">Τεχνοκριτικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Art critics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/531484846"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/521012409"><skos:prefLabel xml:lang="en">Monks</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μοναχοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/78139851"><skos:prefLabel xml:lang="en">Emperors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αυτοκράτορες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/182885057"><skos:prefLabel xml:lang="en">Hoteliers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ξενοδόχοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/470518998"><skos:prefLabel xml:lang="el">Γλωσσολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Linguists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1006475887"><skos:prefLabel xml:lang="en">Senators</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γερουσιαστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1680546963"><skos:prefLabel xml:lang="en">Celebrity killers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δολοφόνοι διασήμων</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1803990121"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/479272096"><skos:prefLabel xml:lang="en">Dyers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βαφείς</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/6359983"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/23242457"><skos:prefLabel xml:lang="el">Ιερείς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Priests</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1720109197"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/103324800"><skos:prefLabel xml:lang="en">Aristocrats</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αριστοκράτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1097264160"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/592811392"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1762059163"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1544743198"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1409700101"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1884287567"><skos:prefLabel xml:lang="en">Informants</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πληροφοριοδότες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1415203116"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/645268989"><skos:prefLabel xml:lang="el">Σκηνοθέτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Theater directors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1016528823"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/237325207"><skos:prefLabel xml:lang="en">Economists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οικονομολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1804523433"><skos:prefLabel xml:lang="el">Βιολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Biologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1121850875"><skos:prefLabel xml:lang="el">Εφευρέτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Inventors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/2100551383"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1708511712"><skos:prefLabel xml:lang="en">Byzantine Officials</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οφφικιάλιοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1946340567"><skos:prefLabel xml:lang="el">Αρχιτέκτονες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Architects</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/2100551383"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2147057677"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/183564883"><skos:prefLabel xml:lang="en">Photographers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φωτογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/290786408"><skos:prefLabel xml:lang="en">Left-wing intellectuals</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διανοούμενοι της αριστεράς</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2016977845"><skos:prefLabel xml:lang="en">Psychologists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψυχολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1874872472"><skos:prefLabel xml:lang="en">Conductors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διευθυντές ορχήστρας / μαέστροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/243889984"><skos:prefLabel xml:lang="en">Tenors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οξύφωνοι Ι τενόροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1236292108"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/781703628"><skos:prefLabel xml:lang="el">Ασφαλιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Insurers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2131125347"><skos:prefLabel xml:lang="el">Μαρξιστές διανοούμενοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Marxist intellectuals</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2053696708"><skos:prefLabel xml:lang="el">Εικονογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Illustration artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/92574163"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/334919188"><skos:prefLabel xml:lang="en">Art Directors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλλιτεχνικοί διευθυντές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1482710874"><skos:prefLabel xml:lang="el">Στρατιωτικά επαγγέλματα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Military professions</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1486557824"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2121708690"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/757103893"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1482712895"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2105352752"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1280205668"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1568923488"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1233774456"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1640444491"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1240676260"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/340509162"><skos:prefLabel xml:lang="el">Άρχοντες Ι αρχόντισσες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lords I ladies</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/272145510"><skos:prefLabel xml:lang="el">Τελετάρχες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sergeant at arms</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2122923495"><skos:prefLabel xml:lang="en">Mythographers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μυθογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/100415196"><skos:prefLabel xml:lang="en">Tobacco factory owners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καπνοβιομήχανοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/6359983"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1242307770"><skos:prefLabel xml:lang="en">Physicists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φυσικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/915060288"><skos:prefLabel xml:lang="el">Σοσιαλιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Socialists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/128126769"><skos:prefLabel xml:lang="en">Consultants</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σύμβουλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1599902904"><skos:prefLabel xml:lang="en">Bankers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τραπεζίτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1468767416"><skos:prefLabel xml:lang="el">Πρωτοπρεσβύτεροι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Deans</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1509768576"><skos:prefLabel xml:lang="el">Τύραννοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Tyrants</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/932529442"><skos:prefLabel xml:lang="en">Teachers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δάσκαλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2098529427"><skos:prefLabel xml:lang="el">Ψηφιδογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mosaic artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1568923488"><skos:prefLabel xml:lang="en">Airforce pilots</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αεροπόροι/ πιλότοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/681789285"><skos:prefLabel xml:lang="el">Λαϊκοί ζωγράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Folk painters</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1626615646"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/567947913"><skos:prefLabel xml:lang="en">Feminists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φεμινίστριες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1415203116"><skos:prefLabel xml:lang="el">Διαβόητοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Infamous people</skos:prefLabel>
+<skos:altLabel xml:lang="el">Δυσώνυμοι</skos:altLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1689663196"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1272562545"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1884287567"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1803990121"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1576385220"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1345766043"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1035377945"><skos:prefLabel xml:lang="en">Tsars</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τσάροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1110947934"><skos:prefLabel xml:lang="en">Presidents</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρόεδροι δημοκρατίας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/901786543"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1556457145"><skos:prefLabel xml:lang="en">Land owners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γαιοκτήμονες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/173882945"><skos:prefLabel xml:lang="en">Etchers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τσιγκογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1699572067"><skos:prefLabel xml:lang="el">Ιδρυτές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Founders</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1723752256"><skos:prefLabel xml:lang="el">Πολεοδόμοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Urban planners</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/2100551383"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1421271419"><skos:prefLabel xml:lang="en">Clergymen</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κληρικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/816843417"><skos:prefLabel xml:lang="en">Restorers</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Conservators</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Συντηρητές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/791652987"><skos:prefLabel xml:lang="el">Ιστορικοί της Λογοτεχνίας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Literature historians</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/319398611"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/55307768"><skos:prefLabel xml:lang="el">Ιστορικοί του Δικαίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Law historians</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/319398611"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/597835813"><skos:prefLabel xml:lang="en">Fiction writers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λογοτέχνες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/977085995"><skos:prefLabel xml:lang="en">Solicitors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δικηγόροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/418040572"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/697753236"><skos:prefLabel xml:lang="en">Journalists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημοσιογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1152245227"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1339414880"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/809383357"><skos:prefLabel xml:lang="el">Αγωνιστές της επανάστασης του 1821</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Fighters of the 1821 Greek revolution</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1559970965"><skos:prefLabel xml:lang="el">Κλέφτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Klephts</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/778147161"><skos:prefLabel xml:lang="el">Δασολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Forestry scientists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1883707881"><skos:prefLabel xml:lang="en">Designers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σχεδιαστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/525169610"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1331404608"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/404873672"><skos:prefLabel xml:lang="el">Χημικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Chemists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1287274769"><skos:prefLabel xml:lang="en">Presidents of parliament</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρόεδροι Βουλής</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1110953699"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1542368576"><skos:prefLabel xml:lang="en">Chorusmasters</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διευθυντές χορωδίας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/145829868"><skos:prefLabel xml:lang="en">Clerk</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιδιωτικοί υπάλληλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/130657905"><skos:prefLabel xml:lang="el">Λεξικογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lexicographers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/60257707"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/387058368"><skos:prefLabel xml:lang="en">Medical examiners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιατροδικαστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1416608117"><skos:prefLabel xml:lang="en">Prose writers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πεζογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1626615646"><skos:prefLabel xml:lang="en">Painters</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ζωγράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/619126048"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/727200352"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/358409596"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/681789285"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/251287757"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/531484846"><skos:prefLabel xml:lang="el">Ιστορικοί της Τέχνης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Art historians</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/319398611"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1287235317"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/431923822"><skos:prefLabel xml:lang="en">Vice consuls</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Υποπρόξενοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1422151560"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1767457302"><skos:prefLabel xml:lang="en">Film producers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κινηματογραφικοί παραγωγοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1014735431"><skos:prefLabel xml:lang="el">Βοτανολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Botanists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2040993664"><skos:prefLabel xml:lang="en">Librarians</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιβλιοθηκονόμοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/191927644"><skos:prefLabel xml:lang="en">Archimandrites</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχιμανδρίτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/932506347"><skos:prefLabel xml:lang="en">Teachers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καθηγητές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/890906560"><skos:prefLabel xml:lang="el">Περιβαλλοντολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Environmentalists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1011201198"><skos:prefLabel xml:lang="en">Governors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διοικητές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/960380682"><skos:prefLabel xml:lang="en">Public servants</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημόσιοι υπάλληλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1391073580"><skos:prefLabel xml:lang="en">Translators</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μεταφραστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/104585808"><skos:prefLabel xml:lang="el">Γλύπτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sculptors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1006203826"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1409700101"><skos:prefLabel xml:lang="en">Counts I countesses</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κόμηδες Ι κόμισσες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/103324800"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/766294778"><skos:prefLabel xml:lang="el">Αυλικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Courtiers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/272145510"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1275168057"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/340509162"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2032529658"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1251041668"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/911965270"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1051583687"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1366235611"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2061221089"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/248551555"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/722992219"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1496977309"><skos:prefLabel xml:lang="el">Ρήτορες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Orators</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1871400336"><skos:prefLabel xml:lang="en">Proverb writers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παροιμιογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1835764667"><skos:prefLabel xml:lang="el">Όσιοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Saints</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1835764515"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/901786543"><skos:prefLabel xml:lang="en">Heads of state</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ηγέτες κρατών</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1110947934"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1072603332"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/600643230"><skos:prefLabel xml:lang="el">Νομάρχες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Prefects</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1123837161"><skos:prefLabel xml:lang="en">Fighters of the "Macedonian struggle"</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μακεδονομάχοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/683397655"><skos:prefLabel xml:lang="el">Φιλικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Filiki Eteria member</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1840964864"><skos:prefLabel xml:lang="el">Μουσικοδιδάσκαλοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Music teachers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1803990121"><skos:prefLabel xml:lang="el">Εξτρεμιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Extremists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1415203116"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1680546963"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/370058992"><skos:prefLabel xml:lang="el">Βυζαντινολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Byzantologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/129181312"><skos:prefLabel xml:lang="el">Μοντέρ</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Film Editor</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/757436116"><skos:prefLabel xml:lang="el">Αρχαιολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Archaeologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1102245792"><skos:prefLabel xml:lang="en">Statisticians</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Στατιστικολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/432809095"><skos:prefLabel xml:lang="en">Arts and letters occupations</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επαγγέλματα γραμμάτων και τεχνών</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1351680965"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/13458844"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1487264564"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2070005952"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2053825088"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2005410433"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/183564883"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/590718585"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1917107680"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/646377889"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/816843417"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/567185760"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/600905613"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/140047607"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/148142975"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/334919188"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/571809828"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1770738648"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1426809904"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1637812699"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1965871488"><skos:prefLabel xml:lang="el">Ψυχαναλυτές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Psychoanalysts</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1277279077"><skos:prefLabel xml:lang="en">Preachers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιεροκήρυκες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/74975824"><skos:prefLabel xml:lang="en">Ceramicists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κεραμίστες/αγγειοπλάστες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+<skos:note xml:lang="el">Μέχρι τον 19ο αιώνα, η κεραμική θεωρούνταν εφαρμοσμένη τέχνη (applied arts), αλλά σύγχρονες θεωρίες την τοποθετούν στις εικαστικές τέχνες.</skos:note>
+<skos:relatedMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300025388"><rdfs:label xml:lang="el">Ceramicists</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1576385220"><skos:prefLabel xml:lang="el">Παραχαράκτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Counterfeiters</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1415203116"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1512793980"><skos:prefLabel xml:lang="en">Parish priests</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εφημέριοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/147913502"><skos:prefLabel xml:lang="el">Ιδιοκτήτες εφημερίδας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Newspaper owner</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1169560567"><skos:prefLabel xml:lang="el">Χρηματιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Stockbrokers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/178186083"><skos:prefLabel xml:lang="en">Sailors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ναυτικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1741648017"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/178803424"><skos:prefLabel xml:lang="el">Υμνογράφοι/ Μελωδοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hymnographers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1362042526"><skos:prefLabel xml:lang="el">Φιλάνθρωποι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Beneficents</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1054762241"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/457372807"><skos:prefLabel xml:lang="en">Vice-presidents</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αντιπρόεδροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/81881856"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1351680965"><skos:prefLabel xml:lang="en">Publicers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εκδότες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/534729275"><skos:prefLabel xml:lang="el">Ακαδημαϊκοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Academics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1821049343"><skos:prefLabel xml:lang="el">Γελοιογράφοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Caricaturists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1835764515"><skos:prefLabel xml:lang="el">Άγιοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Saints</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1179883545"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1835764667"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/726809652"><skos:prefLabel xml:lang="el">Ιδρυτικά μέλη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Founding members</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/581956153"><skos:prefLabel xml:lang="el">Κομμουνιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Communists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1600274703"><skos:prefLabel xml:lang="el">Επίτροποι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Commissioners</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1233774456"><skos:prefLabel xml:lang="en">Police officers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αστυνομικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1712684312"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/903803760"><skos:prefLabel xml:lang="el">Ραδιοφωνικοί παραγωγοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Radio producers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/450438839"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/291434105"><skos:prefLabel xml:lang="el">Πολιτικοί μηχανικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Civil engineers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/2100551383"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/217336231"><skos:prefLabel xml:lang="en">Naval architects</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ναυπηγοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1741648017"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1054762241"><skos:prefLabel xml:lang="en">Volunteers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εθελοντές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1362042526"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1870328746"><skos:prefLabel xml:lang="en">Cantors</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψάλτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/599783383"><skos:prefLabel xml:lang="en">Pharmacists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φαρμακοποιοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/964405735"><skos:prefLabel xml:lang="el">Βαθύφωνοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bass singers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1236292108"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/660753408"><skos:prefLabel xml:lang="en">Fighters</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αγωνιστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1413088320"><skos:prefLabel xml:lang="en">Members of the European Parliament</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ευρωβουλευτές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1647702363"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1637812699"><skos:prefLabel xml:lang="en">Scribes</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αντιγραφείς χειρογράφων</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/222451188"><skos:prefLabel xml:lang="en">Tobacco merchants</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καπνέμποροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1218134270"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/866546159"><skos:prefLabel xml:lang="el">Νομικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lawyers/</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/418040572"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/536105713"><skos:prefLabel xml:lang="en">Clerks</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Υπάλληλοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1627186694"><skos:prefLabel xml:lang="el">Πρωτοϊερείς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">High Priests</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1744186100"><skos:prefLabel xml:lang="en">Bank employee</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τραπεζικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1691017823"><skos:prefLabel xml:lang="en">Intellectuals of the age of enlightment</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διαφωτιστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2070005952"><skos:prefLabel xml:lang="el">Μουσικοί παραγωγοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Music producers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/181371993"><skos:prefLabel xml:lang="en">Novelists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μυθιστοριογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/619126048"><skos:prefLabel xml:lang="en">Religious artists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αγιογράφοι</skos:prefLabel>
+<skos:altLabel xml:lang="en">Icon painters</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1626615646"/>
+<skos:related rdf:resource="http://semantics.gr/authorities/professions-occupations/727200352"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/562167973"><skos:prefLabel xml:lang="en">Chieftains</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οπλαρχηγοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/991737976"><skos:prefLabel xml:lang="el">Εκπαιδευτικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Educators</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/932506347"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/932529442"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1840964864"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/262520363"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1615479171"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/820189667"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1944754139"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/520602212"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/660066241"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1815637234"><skos:prefLabel xml:lang="en">Scholars</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λόγιοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1720109197"><skos:prefLabel xml:lang="el">Καθολικοί ιερείς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Catholic priests</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/23242457"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1447582634"><skos:prefLabel xml:lang="en">Engravers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χαράκτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1801962804"><skos:prefLabel xml:lang="el">Αρχιδιάκονοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Archdeacons</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1236292108"><skos:prefLabel xml:lang="el">Λυρικοί τραγουδιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Opera singers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/343675734"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1530012742"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/569738741"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/964405735"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/243889984"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1179883545"><skos:prefLabel xml:lang="en">Patron saints</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολιούχοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1835764515"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/19660777"><skos:prefLabel xml:lang="el">Πιανίστες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pianists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/571809828"><skos:prefLabel xml:lang="en">Book binders</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιβλιοδέτες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/820004992"><skos:prefLabel xml:lang="el">Μετεωρολόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Meteorologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/207463851"><skos:prefLabel xml:lang="en">Demoticists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημοτικιστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1728728992"><skos:prefLabel xml:lang="el">Oρειβάτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Climbers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1712072490"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/151100644"><skos:prefLabel xml:lang="en">Resistance fighters</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αντιστασιακοί</skos:prefLabel>
+<skos:altLabel xml:lang="en">Partisans</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1762059163"><skos:prefLabel xml:lang="en">Marquises</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μαρκήσιοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/103324800"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/592811392"><skos:prefLabel xml:lang="el">Βαρώνοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Barons</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/103324800"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2121708690"><skos:prefLabel xml:lang="en">Military medics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Στρατιωτικοί ιατροί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/189463180"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1218134270"><skos:prefLabel xml:lang="el">Έμποροι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Merchants</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/111744448"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/222451188"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1907114967"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1266745445"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/230661228"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1684283901"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/559198443"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/438829965"><skos:prefLabel xml:lang="en">Visual artists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εικαστικοί καλλιτέχνες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/600905613"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/477193487"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/479953568"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1341168019"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1550673610"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1114289376"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1821073242"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/173882945"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1447582634"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/74975824"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/852087089"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1821049343"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/295162423"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2053696708"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1649952038"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1883707881"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/798779189"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/164917080"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/445348537"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1626615646"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/615057728"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/20339443"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/644252963"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1241216835"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1355511294"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/104585808"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2098529427"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1487264564"><skos:prefLabel xml:lang="en">Poets</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ποιητές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/200396952"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/760729485"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1272562545"><skos:prefLabel xml:lang="el">Λήσταρχοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Captains of bandits</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1415203116"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1006203826"><skos:prefLabel xml:lang="el">Μαρμαρογλύπτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Marble sculptors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/104585808"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1615479171"><skos:prefLabel xml:lang="el">Γυμνασιάρχες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">School principals</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/991737976"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2133962179"><skos:prefLabel xml:lang="en">Script writers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σεναριογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1088470226"><skos:prefLabel xml:lang="en">Musicologists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μουσικολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/450438839"><skos:prefLabel xml:lang="en">Media professions</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επαγγελματα Μ.Μ.Ε.</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/903803760"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1364595479"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2011458811"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/697753236"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1249618400"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/129181312"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1767457302"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/103329884"><skos:prefLabel xml:lang="en">History buffs</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιστοριοδίφες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/319398611"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/339396797"><skos:prefLabel xml:lang="el">Τραγουδιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Singers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1501244820"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/164917080"><skos:prefLabel xml:lang="el">Καλλιτέχνες μικτής τεχνικής</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mixed media artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/258107245"><skos:prefLabel xml:lang="el">Δικτάτορες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Dictators</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1263353267"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1978841917"><skos:prefLabel xml:lang="el">Τοποτηρητές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Adjunct sovereigns</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/445348537"><skos:prefLabel xml:lang="el">Εννοιολογικοί καλλιτέχνες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Conceptual artists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/201910661"><skos:prefLabel xml:lang="en">Patriarchs</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πατριάρχες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1454409771"><skos:prefLabel xml:lang="el">Χορευτές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Dancers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1016528823"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2051016494"><skos:prefLabel xml:lang="el">Ιστορικοί του Θεάτρου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Theatre historians</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/319398611"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/583876207"><skos:prefLabel xml:lang="el">Υποδιευθυντές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Deputy managers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/503712870"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1138285681"><skos:prefLabel xml:lang="el">Αρχηγοί αντιστασιακής οργάνωσης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Guerilla leaders</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/200396952"><skos:prefLabel xml:lang="el">Τραγικοί ποιητές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Tragic poets</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1487264564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2032529658"><skos:prefLabel xml:lang="en">Spatharii</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σπαθάριοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1099531956"><skos:prefLabel xml:lang="el">Νοσοκόμοι Ι νοσοκόμες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Nurses</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1099752945"><skos:prefLabel xml:lang="en">Scientists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιστήμονες</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/515782147"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/237325207"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2100551383"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/999297323"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1804523433"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1280954754"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1413509037"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/292802723"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1102245792"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/370058992"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1584825731"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1815637234"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/497859539"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/96234336"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/757436116"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1344565629"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1441915765"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1880079936"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/820004992"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1491854367"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/778147161"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1652140256"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1014735431"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/534729275"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2024301409"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1163610815"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/60257707"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1182912890"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1088470226"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1242307770"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/319398611"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/404873672"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1062480000"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2016977845"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/890906560"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/470518998"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1365622712"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/728644057"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/809694119"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/526656814"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1391073580"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/474577869"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1833788511"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2040993664"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/195582047"><skos:prefLabel xml:lang="el">Ηγέτες αντι-φασιστικών οργανώσεων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anti-fascism leaders</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1827146988"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/760729485"><skos:prefLabel xml:lang="el">Εθνικοί ποιητές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">National poets</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1487264564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/999297323"><skos:prefLabel xml:lang="el">Γεωλόγοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Geologists</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/533908675"><skos:prefLabel xml:lang="el">Θεατρικοί συγγραφείς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Play writers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/118691564"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1301392425"><skos:prefLabel xml:lang="el">Στρατιωτικοί ιατροί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Military doctors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1712684312"><skos:prefLabel xml:lang="en">Police chiefs</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διευθυντές αστυνομίας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1233774456"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/333991828"><skos:prefLabel xml:lang="el">Αρχιεπίσκοποι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Archbishops</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/62488007"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1344565629"><skos:prefLabel xml:lang="en">Communications specialists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επικοινωνιολόγοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/168447532"><skos:prefLabel xml:lang="en">Industrialists?</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εμποροβιομήχανοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/6359983"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1114289376"><skos:prefLabel xml:lang="en">Vase painters</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αγγειογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300263263"><rdfs:label xml:lang="en">vase painters</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1116480159"><skos:prefLabel xml:lang="el">Πάτρωνες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Patrons</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1392400805"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1584825731"><skos:prefLabel xml:lang="en">Art theorists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θεωρητικοί της τέχνης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1099752945"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2061221089"><skos:prefLabel xml:lang="en">Vestiary</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βεστιάριοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1366235611"><skos:prefLabel xml:lang="en">Chamberlains</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αυλάρχες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/766294778"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/559198443"><skos:prefLabel xml:lang="en">Textile merchants</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Υφασματέμποροι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1218134270"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1482712895"><skos:prefLabel xml:lang="el">Στρατιωτικοί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Military officers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1617885627"><skos:prefLabel xml:lang="en">Notaries</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Συμβολαιογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/418040572"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/757103893"><skos:prefLabel xml:lang="el">Υποναύαρχοι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Vice admirals</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1482710874"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1420486608"><skos:prefLabel xml:lang="el">Πρόεδροι ΔΣ</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Board members</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1110953699"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/852087089"><skos:prefLabel xml:lang="en">Glass artists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλλιτέχνες του γυαλιού</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/438829965"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/525169610"><skos:prefLabel xml:lang="en">Jewelry designers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σχεδιαστές κοσμήματος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1883707881"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/2108447097"><skos:prefLabel xml:lang="en">Neohellenists</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νεοελληνιστές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1180195452"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1501244820"><skos:prefLabel xml:lang="en">Musicians</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μουσικοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/600905613"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1874872472"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1542368576"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1232611989"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/178803424"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1236292108"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/19660777"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1236810275"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/339396797"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/503712870"><skos:prefLabel xml:lang="el">Διευθυντές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Directors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/602546444"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/583876207"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1022591292"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/230661228"><skos:prefLabel xml:lang="el">Εμποροράπτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Tailors</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1218134270"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1102998572"><skos:prefLabel xml:lang="el">Εφοπλιστές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Shipping moguls</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/1741648017"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1180195452"><skos:prefLabel xml:lang="en">Social movement members</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μέλη ομάδων / κινημάτων</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2131125347"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/567947913"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/683397655"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/915060288"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/2108447097"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1691017823"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/581956153"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/378224678"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/1076745013"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/207463851"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/professions-occupations/290786408"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1973064654"><skos:prefLabel xml:lang="el">Παιδίατροι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Paediatricians</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/34617290"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/professions-occupations/1770738648"><skos:prefLabel xml:lang="en">Palaiographers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παλαιογράφοι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/professions-occupations/432809095"/>
+</skos:Concept>
+</rdf:RDF>
