@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/CatRISv3ResourceAccessType"><dc:title xml:lang="en">Resource Access Type</dc:title>
+<dc:description xml:lang="en">The way a user can access the Resource (Remote, Physical, Virtual, etc.).</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-30T12:54:05</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ResourceAccessType/320818803"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ResourceAccessType/685616149"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ResourceAccessType/323131272"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ResourceAccessType/1199858065"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ResourceAccessType/1354941474"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ResourceAccessType/320818803"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ResourceAccessType"/>
+<skos:prefLabel xml:lang="en">Virtual</skos:prefLabel>
+<skos:definition xml:lang="en">The Resource is delivered through a virtual infrastructure that the use may access virtually through the web or an intranet.</skos:definition>
+<dc:identifier>access_type-virtual</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ResourceAccessType/685616149"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ResourceAccessType"/>
+<skos:prefLabel xml:lang="en">Mail-in</skos:prefLabel>
+<skos:definition xml:lang="en">Samples are sent in to for e.g. analysis and the results are returned to the user without the user actually accessing the RI</skos:definition>
+<dc:identifier>access_type-mail_in</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ResourceAccessType/323131272"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ResourceAccessType"/>
+<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+<dc:identifier>access_type-other</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ResourceAccessType/1199858065"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ResourceAccessType"/>
+<skos:prefLabel xml:lang="en">Physical</skos:prefLabel>
+<skos:definition xml:lang="en">Resources require a physical presence of the user. The user can only access the RI if he is physically present in the specific location that the RI is offered.</skos:definition>
+<dc:identifier>access_type-physical</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ResourceAccessType/1354941474"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ResourceAccessType"/>
+<skos:prefLabel xml:lang="en">Remote</skos:prefLabel>
+<skos:definition xml:lang="en">Resources are delivered remotely with the use of a physical infrastructure. The user is able to remotely work with the physical RI without the need of physical presence.</skos:definition>
+<dc:identifier>access_type-remote</dc:identifier>
+</skos:Concept>
+</rdf:RDF>
