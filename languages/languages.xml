@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"><madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mao"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Μαορί γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Maori</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mri</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mao</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mi</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mao"><rdfs:label xml:lang="en">Maori</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/sem"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Semitic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Σημιτικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sem</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/sem"><rdfs:label xml:lang="en">Semitic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tgl"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ταγκαλόγκ γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Tagalog</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tl</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tgl</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tgl"><rdfs:label xml:lang="en">Tagalog</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ira"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Iranian (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ιρανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ira</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ira"><rdfs:label xml:lang="en">Iranian (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tgk"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Τατζικική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Tajik</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tg</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tgk</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tgk"><rdfs:label xml:lang="en">Tajik</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mis"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Μη κωδικοποιημένες γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Uncoded languages</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mis</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mis"><rdfs:label xml:lang="en">Miscellaneous languages</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/arg"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αραγκονική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Aragonese</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arg</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">an</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/arg"><rdfs:label xml:lang="en">Aragonese</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/sux"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σουμεριακή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Sumerian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sux</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/sux"><rdfs:label xml:lang="en">Sumerian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/smo"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σαμόα (γλώσσα)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Samoan</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">smo</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sm</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/smo"><rdfs:label xml:lang="en">Samoan</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ger"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Γερμανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">German</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ger</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">deu</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">de</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ger"><rdfs:label xml:lang="en">German</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/yid"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Γίντις</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Yiddish</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yi</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yid</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/yid"><rdfs:label xml:lang="en">Yiddish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/art"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Artificial (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Τεχνητή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">art</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/art"><rdfs:label xml:lang="en">Artificial (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/wen"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σορβικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Sorbian languages</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wen</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/wen"><rdfs:label xml:lang="en">Sorbian (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mas"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Μασάι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Masai</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mas</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mas"><rdfs:label xml:lang="en">Maasai</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/qaa-qtz"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Δεσμευμένα για τοπική χρήση</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">qaa-qtz</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/wel"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ουαλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Welsh</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cy</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wel</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cym</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/wel"><rdfs:label xml:lang="en">Welsh</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/uzb"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Uzbek</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ουζμπεκική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uz</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uzb</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/uzb"><rdfs:label xml:lang="en">Uzbek</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/arm"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αρμενική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Armenian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arm</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hye</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hy</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/arm"><rdfs:label xml:lang="en">Armenian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/abk"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αμπχαζική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Abkhazian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">abk</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ab</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/abk"><rdfs:label xml:lang="en">Abkhaz</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/iro"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ιροκουά γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Iroquoian languages</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">iro</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/iro"><rdfs:label xml:lang="en">Iroquoian (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tha"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Thai</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ταϊλανδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">th</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tha</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tha"><rdfs:label xml:lang="en">Thai</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cmc"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Τσαμικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Chamic languages</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cmc</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cmc"><rdfs:label xml:lang="en">Chamic languages</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/wln"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Βαλλωνική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Walloon</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wln</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wa</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/wln"><rdfs:label xml:lang="en">Walloon</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/slo"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σλοβακική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Slovak</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">slk</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sk</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">slo</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/slo"><rdfs:label xml:lang="en">Slovak</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cus"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κουσιτικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Cushitic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cus</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cus"><rdfs:label xml:lang="en">Cushitic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/slv"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Slovenian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Σλοβενική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sl</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">slv</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/slv"><rdfs:label xml:lang="en">Slovenian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cel"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κελτικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Celtic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cel</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cel"><rdfs:label xml:lang="en">Celtic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/kur"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Kurdish</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Κουρδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kur</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ku</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/kur"><rdfs:label xml:lang="en">Kurdish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/por"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Portuguese</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Πορτογαλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">por</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pt</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/por"><rdfs:label xml:lang="en">Portuguese</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/arc"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Official Aramaic (700-300 BCE)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αραμαϊκή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Imperial Aramaic (700-300 BCE)</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">arc</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/arc"><rdfs:label xml:lang="en">Aramaic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/aar"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Afar</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αφάρ γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aar</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/geo"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Georgian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Γεωργιανή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ka</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kat</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">geo</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/geo"><rdfs:label xml:lang="en">Georgian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ara"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αραβική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Arabic</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ara</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ar</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ara"><rdfs:label xml:lang="en">Arabic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/gem"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Γερμανικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Germanic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gem</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/gem"><rdfs:label xml:lang="en">Germanic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mac"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Macedonian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Σλαβομακεδονική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mkd</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mk</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mac</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mac"><rdfs:label xml:lang="en">Macedonian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/pol"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Πολωνική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Polish</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pol</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pl</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/pol"><rdfs:label xml:lang="en">Polish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/aze"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Azerbaijani</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αζερική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">az</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aze</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/aze"><rdfs:label xml:lang="en">Azerbaijani</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tel"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Telugu</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Τελούγκου</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tel</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">te</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tel"><rdfs:label xml:lang="en">Telugu</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/peo"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αρχαία περσική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Persian, Old (ca.600-400 B.C.)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">peo</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/peo"><rdfs:label xml:lang="en">Old Persian (ca. 600-400 B.C.)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/fre"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">French</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Γαλλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fre</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fra</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fr</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/fre"><rdfs:label xml:lang="en">French</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/egy"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αρχαία αιγυπτιακή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Egyptian (Ancient)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">egy</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/egy"><rdfs:label xml:lang="en">Egyptian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/bat"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Baltic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Βαλτικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bat</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/bat"><rdfs:label xml:lang="en">Baltic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/bre"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Μπρετονική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Breton</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bre</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">br</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/bre"><rdfs:label xml:lang="en">Breton</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/nah"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ναχουάτλ γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Nahuatl languages</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nah</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/nah"><rdfs:label xml:lang="en">Nahuatl</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/oci"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Οξιτανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Occitan, Provençal (1500–)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oci</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oc</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/oci"><rdfs:label xml:lang="en">Occitan (post-1500)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/fro"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αρχαία γαλλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">French, Old (842-ca.1400)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fro</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/fro"><rdfs:label xml:lang="en">French, Old (ca. 842-1300)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/glg"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Galician</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Γαλικιανή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glg</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gl</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/glg"><rdfs:label xml:lang="en">Galician</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/nau"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ναουρού (γλώσσα)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Nauru</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nau</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">na</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/nau"><rdfs:label xml:lang="en">Nauru</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/zza"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Zaza</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ζαζαϊκή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Kirmanjki</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Zazaki</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Dimili</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Dimli</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Kirdki</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zza</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/zza"><rdfs:label xml:lang="en">Zaza</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/gle"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ιρλανδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Irish</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gle</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ga</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/gle"><rdfs:label xml:lang="en">Irish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/sco"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Scots</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Σκωτική γλώσσα (Σκωτς)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sco</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/sco"><rdfs:label xml:lang="en">Scots</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/scn"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Sicilian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Σικελική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">scn</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/scn"><rdfs:label xml:lang="en">Sicilian Italian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/nap"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ναπολίτικη γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Neapolitan</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nap</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/nap"><rdfs:label xml:lang="en">Neapolitan Italian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/per"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Περσική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Persian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fas</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">per</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fa</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/per"><rdfs:label xml:lang="en">Persian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/gla"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Γοϊδελικές γλώσσες• Σκωτική Γαελική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Gaelic</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Scottish Gaelic|Scottish Gaelic</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gla</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gd</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/gla"><rdfs:label xml:lang="en">Scottish Gaelic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/yor"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Yoruba</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Γιορουμπά</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yo</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yor</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/yor"><rdfs:label xml:lang="en">Yoruba</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/oto"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Otomian languages</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Οθωμανικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oto</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/sla"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σλαβικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Slavic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sla</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/sla"><rdfs:label xml:lang="en">Slavic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/epo"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Εσπεράντο</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Esperanto</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">epo</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eo</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/epo"><rdfs:label xml:lang="en">Esperanto</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/glv"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Manx</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Γλώσσα Μανξ</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gv</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glv</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/glv"><rdfs:label xml:lang="en">Manx</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/zxx"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">No linguistic content</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Μη γλωσσολογικό περιεχόμενο• Μη εφαρμόσιμο</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Not applicable</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zxx</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/zxx"><rdfs:label xml:lang="en">No linguistic content</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/dut"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Dutch</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ολλανδική γλώσσα• Φλαμανδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Flemish (linguistics)|Flemish</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dut</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nld</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nl</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/dut"><rdfs:label xml:lang="en">Dutch</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/hun"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Hungarian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ουγγρική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hun</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hu</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/hun"><rdfs:label xml:lang="en">Hungarian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/fin"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Finnish</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Φινλανδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fi</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fin</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/fin"><rdfs:label xml:lang="en">Finnish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/gsw"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αλεμαννική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Swiss German</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Alemannic German|Alemannic</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Alsatian language|Alsatian</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gsw</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/gsw"><rdfs:label xml:lang="en">Swiss German</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mol"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Moldavian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Μολδαβική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Moldovan</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mo</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mol</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tuk"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Turkmen</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Τουρκμένικη γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tk</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tuk</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tuk"><rdfs:label xml:lang="en">Turkmen</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/fil"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Φιλιππινεζική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Filipino</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Pilipino</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fil</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/fil"><rdfs:label xml:lang="en">Filipino</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/moh"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Μόχακ γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Mohawk</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">moh</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/moh"><rdfs:label xml:lang="en">Mohawk</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/heb"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Εβραϊκή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Hebrew</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">heb</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">he</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/heb"><rdfs:label xml:lang="en">Hebrew</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tut"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Altaic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αλταϊκές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tut</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tut"><rdfs:label xml:lang="en">Altaic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/baq"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Βασκική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Basque</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eus</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">baq</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eu</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/baq"><rdfs:label xml:lang="en">Basque</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/vie"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Vietnamese</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Βιετναμέζικη γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vi</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vie</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/vie"><rdfs:label xml:lang="en">Vietnamese</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tur"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Turkish</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Τουρκική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tr</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tur</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tur"><rdfs:label xml:lang="en">Turkish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/oss"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Ossetian, Ossetic</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Οσσετική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">os</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">oss</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/oss"><rdfs:label xml:lang="en">Ossetic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/uga"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ουγκαριτική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Ugaritic</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uga</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/uga"><rdfs:label xml:lang="en">Ugaritic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/bis"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Μπισλάμα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Bislama</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bi</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bis</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/bis"><rdfs:label xml:lang="en">Bislama</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mon"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Mongolian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Μογγολική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mon</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mn</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mon"><rdfs:label xml:lang="en">Mongolian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ang"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αρχαία αγγλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">English, Old (ca.450-1100)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ang</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ang"><rdfs:label xml:lang="en">English, Old (ca. 450-1100)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/gre"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Greek, Modern (1453-)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ελληνική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">el</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ell</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gre</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/gre"><rdfs:label xml:lang="en">Greek, Modern (1453- )</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/crh"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Crimean Tatar</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Κριμαϊκή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Crimean Turkish</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">crh</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/crh"><rdfs:label xml:lang="en">Crimean Tatar</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/grc"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αρχαία ελληνική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Greek, Ancient (to 1453)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">grc</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/grc"><rdfs:label xml:lang="en">Greek, Ancient (to 1453)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cau"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Caucasian (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Καυκάσιες γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cau</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cau"><rdfs:label xml:lang="en">Caucasian (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cat"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Καταλανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Catalan</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Valencian|Valencian</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ca</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cat</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cat"><rdfs:label xml:lang="en">Catalan</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cre"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Cree</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Κρι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cr</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cre</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cre"><rdfs:label xml:lang="en">Cree</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/crp"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κρεολική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Creoles (Other) and Pidgin|Pidgins (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">crp</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/crp"><rdfs:label xml:lang="en">Creoles and Pidgins (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ine"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ινδοευρωπαϊκές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Indo-European (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ine</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ine"><rdfs:label xml:lang="en">Indo-European (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/san"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σανσκριτική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Sanskrit</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sa</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">san</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/san"><rdfs:label xml:lang="en">Sanskrit</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/eng"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">English</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αγγλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">en</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eng</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/eng"><rdfs:label xml:lang="en">English</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/sit"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σινοθιβετικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Sino-Tibetan (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sit</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/sit"><rdfs:label xml:lang="en">Sino-Tibetan (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/afa"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Afro-Asiatic (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αφροασιατικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">afa</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/afa"><rdfs:label xml:lang="en">Afroasiatic (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ina"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Interlingua (International Auxiliary Language Association)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ιντερλίνγκουα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ia</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ina</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ina"><rdfs:label xml:lang="en">Interlingua (International Auxiliary Language Association)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/und"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Undetermined</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Απροσδιόριστη</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">und</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/und"><rdfs:label xml:lang="en">Undetermined</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/jpn"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Japanese</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ιαπωνική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ja</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">jpn</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/jpn"><rdfs:label xml:lang="en">Japanese</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/kro"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Kru languages</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Κρου γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kro</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/kro"><rdfs:label xml:lang="en">Kru (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/srd"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Sardinian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Σαρδινική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">srd</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sc</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/srd"><rdfs:label xml:lang="en">Sardinian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/kaz"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Kazakh</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Καζακική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kaz</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kk</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/kaz"><rdfs:label xml:lang="en">Kazakh</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ltz"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Luxembourgish</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Λουξεμβουργιανή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Letzeburgesch</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lb</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ltz</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ltz"><rdfs:label xml:lang="en">Luxembourgish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/srp"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σερβική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Serbian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sr</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">srp</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/srp"><rdfs:label xml:lang="en">Serbian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/afr"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αφρικάανς γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Afrikaans</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">afr</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">af</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/afr"><rdfs:label xml:lang="en">Afrikaans</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/kbd"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Καμπαντική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Kabardian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kbd</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/kbd"><rdfs:label xml:lang="en">Kabardian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mlt"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Μαλτεζική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Maltese</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mt</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mlt</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mlt"><rdfs:label xml:lang="en">Maltese</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ido"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Ido</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ίντο</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ido</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ido"><rdfs:label xml:lang="en">Ido</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/que"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Quechua</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Κέτσουα γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">qu</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">que</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/que"><rdfs:label xml:lang="en">Quechua</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/aus"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Australian languages</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ινδογενής αυστραλιανή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">aus</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/aus"><rdfs:label xml:lang="en">Australian languages</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/amh"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αμχαρική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Amharic</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amh</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">am</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/amh"><rdfs:label xml:lang="en">Amharic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/roh"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Romansh language</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ρομανσική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">roh</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mun"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Munda languages</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Μούντα (γλώσσες)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mun</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mun"><rdfs:label xml:lang="en">Munda (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/mul"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Πολλαπλές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Multiple languages</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mul</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/mul"><rdfs:label xml:lang="en">Multiple languages</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/roa"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Romance languages</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ρομανικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">roa</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/vol"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Βολαπιούκ</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Volapük</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vo</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">vol</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/vol"><rdfs:label xml:lang="en">Volapük</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/nor"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Νορβηγική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Norwegian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">no</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nor</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/nor"><rdfs:label xml:lang="en">Norwegian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/rom"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Romany</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ρομάνι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rom</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cze"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Τσεχική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Czech</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cze</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ces</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cs</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cze"><rdfs:label xml:lang="en">Czech</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/non"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αρχαία σκανδιναβική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Norse, Old</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">non</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/non"><rdfs:label xml:lang="en">Old Norse</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/syr"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Syrian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Συριακή</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">syr</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/sgn"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Νοηματικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Sign Languages</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sgn</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/sgn"><rdfs:label xml:lang="en">Sign languages</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/nep"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Νεπαλεζική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Nepali</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ne</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">nep</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/nep"><rdfs:label xml:lang="en">Nepali</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/alb"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Albanian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αλβανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sqi</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sq</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alb</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/alb"><rdfs:label xml:lang="en">Albanian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/lit"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Λιθουανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Lithuanian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lit</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lt</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/lit"><rdfs:label xml:lang="en">Lithuanian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ita"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ιταλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Italian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ita</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">it</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ita"><rdfs:label xml:lang="en">Italian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ile"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Οξιντένταλ</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Interlingue</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Occidental</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ile</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ie</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ile"><rdfs:label xml:lang="en">Interlingue</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/lav"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Latvian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Λεττονική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lav</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lv</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/lav"><rdfs:label xml:lang="en">Latvian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/che"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Τσετσενική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Chechen</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ce</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">che</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/che"><rdfs:label xml:lang="en">Chechen</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/new"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Νεβάρι</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Nepal Bhasa</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Newari</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">new</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/new"><rdfs:label xml:lang="en">Newari</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tam"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Tamil</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ταμίλ γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tam</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ta</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tam"><rdfs:label xml:lang="en">Tamil</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/lat"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Latin</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Λατινική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">la</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lat</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/lat"><rdfs:label xml:lang="en">Latin</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/haw"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Χαβαϊκή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Hawaiian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">haw</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/haw"><rdfs:label xml:lang="en">Hawaiian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/alg"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Algonquian languages</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Αλγκονκινική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alg</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/alg"><rdfs:label xml:lang="en">Algonquian (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tai"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Tai (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Τάι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tai</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tai"><rdfs:label xml:lang="en">Tai (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ukr"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Ukrainian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ουκρανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uk</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ukr</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ukr"><rdfs:label xml:lang="en">Ukrainian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/bnt"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Bantu (Other)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Μπαντού γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bnt</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/bnt"><rdfs:label xml:lang="en">Bantu (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tat"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Tatar</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ταταρική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tat</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tt</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tat"><rdfs:label xml:lang="en">Tatar</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/chi"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κινεζική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Chinese</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zho</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zh</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chi</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/chi"><rdfs:label xml:lang="en">Chinese</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/pau"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Παλάου (γλώσσα)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Palauan</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pau</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/pau"><rdfs:label xml:lang="en">Palauan</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/spa"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ισπανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Spanish</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Castilian Spanish|Castilian</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">spa</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">es</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/spa"><rdfs:label xml:lang="en">Spanish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/khm"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Χμερ (γλώσσα)</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Central Khmer</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">km</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">khm</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/khm"><rdfs:label xml:lang="en">Khmer</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/chr"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Τσερόκι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Cherokee</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">chr</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/chr"><rdfs:label xml:lang="en">Cherokee</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/hrv"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κροατική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Croatian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hrv</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hr</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/hrv"><rdfs:label xml:lang="en">Croatian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/bul"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Βουλγαρική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Bulgarian</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bg</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bul</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/bul"><rdfs:label xml:lang="en">Bulgarian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ast"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Αστουριανή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Asturian</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Astur-Leonese language|Asturleonese</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Leonese language|Leonese</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Bable</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ast</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ast"><rdfs:label xml:lang="en">Bable</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/akk"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Akkadian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ακκαδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">akk</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/akk"><rdfs:label xml:lang="en">Akkadian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/swe"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σουηδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Swedish</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sv</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">swe</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/swe"><rdfs:label xml:lang="en">Swedish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/swa"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σουαχίλι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Swahili</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sw</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">swa</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/swa"><rdfs:label xml:lang="en">Swahili</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ben"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Bengali</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Μπενγκάλι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ben</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bn</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ben"><rdfs:label xml:lang="en">Bengali</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ice"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Icelandic</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ισλανδική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">isl</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ice</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">is</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ice"><rdfs:label xml:lang="en">Icelandic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/kon"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κονγκολεζική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Kongo</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kon</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kg</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/kon"><rdfs:label xml:lang="en">Kongo</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/rum"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Romanian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ρουμανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rum</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/bel"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Belarusian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Λευκορωσική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">be</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bel</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/bel"><rdfs:label xml:lang="en">Belarusian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cos"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κορσικανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Corsican</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cos</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">co</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cos"><rdfs:label xml:lang="en">Corsican</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cor"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Cornish</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Κορνουαλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cor</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kw</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cor"><rdfs:label xml:lang="en">Cornish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/est"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Estonian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Εσθονική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">est</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">et</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/est"><rdfs:label xml:lang="en">Estonian</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/cop"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Κοπτική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Coptic</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cop</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/cop"><rdfs:label xml:lang="en">Coptic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/dra"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Δραβιδικές γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Dravidian (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dra</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/dra"><rdfs:label xml:lang="en">Dravidian (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/hit"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Χεττιτική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Hittite</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hit</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/hit"><rdfs:label xml:lang="en">Hittite</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/dan"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Δανική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Danish</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dan</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">da</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/dan"><rdfs:label xml:lang="en">Danish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/div"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Divehi</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ντιβέχι (γλώσσα)</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Maldivian</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Dhivehi</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dv</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">div</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/div"><rdfs:label xml:lang="en">Divehi</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/som"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Σομαλική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Somali</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">som</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">so</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/som"><rdfs:label xml:lang="en">Somali</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/zul"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Ζουλού γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Zulu</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zul</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">zu</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/zul"><rdfs:label xml:lang="en">Zulu</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/lim"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Λιμβουργιανή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Limburgan</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Limburger</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:hasVariant><madsrdf:Variant><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#PersonalName"/>
+<madsrdf:variantLabel xml:lang="en">Limburgish</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lim</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">li</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/lim"><rdfs:label xml:lang="en">Limburgish</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/paa"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Παπούα γλώσσες</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Papuan (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">paa</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/paa"><rdfs:label xml:lang="en">Papuan (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/rus"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Russian</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ρωσική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rus</madsrdf:code>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/ber"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Βερβερική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Berber (Other)</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ber</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/ber"><rdfs:label xml:lang="en">Berber (Other)</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/lad"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Ladino</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Ισπανοεβραϊκή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lad</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/lad"><rdfs:label xml:lang="en">Ladino</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/kor"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Korean</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Κορεατική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ko</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kor</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/kor"><rdfs:label xml:lang="en">Korean</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/hin"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Χίντι γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Hindi</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hi</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hin</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/hin"><rdfs:label xml:lang="en">Hindi</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/tib"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Tibetan</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Θιβετιανή γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tib</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bod</madsrdf:code>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">bo</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/tib"><rdfs:label xml:lang="en">Tibetan</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+<madsrdf:Language rdf:about="http://semantics.gr/authorities/languages/got"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="el">Γοτθική γλώσσα</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="en">Gothic</madsrdf:authoritativeLabel>
+<madsrdf:code rdf:datatype="http://www.w3.org/2001/XMLSchema#string">got</madsrdf:code>
+<owl:sameAs><rdf:Description rdf:about="http://id.loc.gov/vocabulary/languages/got"><rdfs:label xml:lang="en">Gothic</rdfs:label>
+</rdf:Description>
+</owl:sameAs>
+</madsrdf:Language>
+</rdf:RDF>
