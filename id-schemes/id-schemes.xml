@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/id-schemes"><dc:title xml:lang="en">Identification Shcemes</dc:title>
+<dc:title xml:lang="el">Τύποι Αναγνωριστικών</dc:title>
+<dc:description xml:lang="en">List of the most popular identifier schemata for individuals and corporate bodies</dc:description>
+<dc:description xml:lang="el">Λίστα με τα δημοφιλέστερα σχήματα αναγνωριστικών για φυσικά πρόσωπα και συλλογικά όργανα</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-09-24T11:18:23</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/124304128"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/787403936"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/309116599"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/467069536"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/43274158"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/895191059"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/1814614556"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/381365632"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/476129600"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/590646368"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/1931238304"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/1255765984"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/45568298"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/294163936"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/590307840"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/799785472"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/1672388256"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/927106624"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/1845307691"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/591418497"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/id-schemes/1911684141"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/124304128"><skos:prefLabel xml:lang="el">Ariadne MetadataValue ID (ariadne-MVID)</skos:prefLabel>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ariadne-MVID</ekt:shortName>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/787403936"><skos:prefLabel xml:lang="en">WorldCat Identities ID</skos:prefLabel>
+<skos:altLabel xml:lang="el">Αριθμός ταυτότητας προσώπου WorldCat</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.worldcat.org/identities/</ekt:idSchemeURIPrefix>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">worldcat.org ID</ekt:shortName>
+<skos:definition xml:lang="el">Κωδικός αναφοράς προσώπου στη Βάση Δεδομένων WorldCat.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/309116599"><skos:prefLabel xml:lang="en">ORCID</skos:prefLabel>
+<skos:altLabel xml:lang="en">ORCID iD</skos:altLabel>
+<skos:altLabel xml:lang="en">Open Researcher and Contributor ID</skos:altLabel>
+<skos:altLabel xml:lang="en">ORCID identifier</skos:altLabel>
+<skos:altLabel xml:lang="el">κωδικός αναφοράς ORCID</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://orcid.org/</ekt:idSchemeURIPrefix>
+<skos:definition xml:lang="el">Το ORCID ID είναι ένα μοναδικό μόνιμο αναγνωριστικό για τον προσδιορισμό, τη διάκριση και τον εντοπισμό των ερευνητών. Το ORCID συμβάλλει στο να διασφαλίζεται ότι σε κάθε ερευνητή αποδίδεται σωστά η ερευνητική και βιβλιογραφική του παραγωγή.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/467069536"><skos:prefLabel xml:lang="en">PIC</skos:prefLabel>
+<skos:altLabel xml:lang="en">Participant Identification Code</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/</ekt:idSchemeURIPrefix>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/43274158"><skos:prefLabel xml:lang="en">Scopus ID</skos:prefLabel>
+<skos:altLabel xml:lang="en">Scopus Author ID</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.scopus.com/authid/detail.uri?authorId=</ekt:idSchemeURIPrefix>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scopus ID</ekt:shortName>
+<skos:definition xml:lang="el">Το Scopus Author ID είναι ένα μοναδικό αναγνωριστικό το οποίο αποδίδεται στον ερευνητική ή επιστήμονα από την πρώτη φορά που η δημοσίευσή του ευρετηριάζεται στη Βάση Δεδομένων  Scopus.   Το Scopus Author ID επιτρέπει σε ερευνητές και επιστήμονες να παρακολουθούν δημοσιεύσεις που περιλαμβάνονται στη Scopus και να εξάγουν αναφορές μετρικών.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/895191059"><skos:prefLabel xml:lang="en">Google Scholar ID</skos:prefLabel>
+<skos:altLabel xml:lang="en">Scholar ID in Google Scholar</skos:altLabel>
+<skos:altLabel xml:lang="en">Google Scholar person ID</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://scholar.google.be/citations?user=</ekt:idSchemeURIPrefix>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Google Scholar ID</ekt:shortName>
+<skos:definition xml:lang="el">Αναγνωριστικό ενός ατόμου, στη μηχανή αναζήτησης Google Scholar.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/1814614556"><skos:prefLabel xml:lang="en">PhDMS ID</skos:prefLabel>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PhDMS ID</ekt:shortName>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/381365632"><skos:prefLabel xml:lang="en">VIAF ID</skos:prefLabel>
+<skos:altLabel xml:lang="el">Κωδικός αναφοράς VIAF</skos:altLabel>
+<skos:altLabel xml:lang="en">VIAF identifier</skos:altLabel>
+<skos:altLabel xml:lang="en">VIAF</skos:altLabel>
+<skos:altLabel xml:lang="en">Virtual International Authority File ID</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://viaf.org/</ekt:idSchemeURIPrefix>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">VIAF</ekt:shortName>
+<skos:definition xml:lang="el">Το VIAF ID είναι το μοναδικό αναγνωριστικό που αποδίδει το Εικονικό Διεθνές Αρχείο Καθιερωμένων όρων (VIAF) στους καθιερωμένους όρους που περιέχει. Το VIAF, ένα κοινό εγχείρημα εθνικών βιβλιοθηκών που λειτουργεί από το  OCLC, συνδέει σε ένα εικονικό αρχείο ταυτόσημες εγγραφές εθνικών αρχείων.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/476129600"><skos:prefLabel xml:lang="en">ROR</skos:prefLabel>
+<skos:altLabel xml:lang="en">Research Organization Registry</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://ror.org/</ekt:idSchemeURIPrefix>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/590646368"><skos:prefLabel xml:lang="el">Grissh Custom ID</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/1931238304"><skos:prefLabel xml:lang="en">WorldCat Entities</skos:prefLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://id.oclc.org/worldcat/entity/</ekt:idSchemeURIPrefix>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/1255765984"><skos:prefLabel xml:lang="en">ISNI</skos:prefLabel>
+<skos:altLabel xml:lang="en">International Standard Name Identifier</skos:altLabel>
+<skos:altLabel xml:lang="el">Διεθνές Πρότυπο Aναγνωριστικό Ονόματος</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://isni.org/isni/</ekt:idSchemeURIPrefix>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISNI</ekt:shortName>
+<skos:definition xml:lang="el">Το ISNI είναι ένας διεθνής αναγνωριστικός κωδικός  ο οποίος προσδιορίζει μοναδικά όσους συνεισφέρουν στη δημιουργία και στη διανομή έργων π.χ. ερευνητές, συγγραφείς, καλλιτέχνες, εφευρέτες, παραγωγοί κ.ά.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/45568298"><skos:prefLabel xml:lang="en">Web of Science ResearcherID</skos:prefLabel>
+<skos:altLabel xml:lang="en">Researcher ID</skos:altLabel>
+<skos:altLabel xml:lang="en">WOS ID</skos:altLabel>
+<skos:altLabel xml:lang="en">Web of Science ID</skos:altLabel>
+<skos:altLabel xml:lang="en">RID</skos:altLabel>
+<skos:altLabel xml:lang="en">WoS RID</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://publons.com/researcher/</ekt:idSchemeURIPrefix>
+<skos:definition xml:lang="el">Μοναδικός κωδικός αναφοράς για έναν ερευνητή ή επιστήμονα που χρησιμοποιείται κυρίως στον Ιστότοπο της Επιστήμης, Web of Science.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/294163936"><skos:prefLabel xml:lang="en">Wikidata</skos:prefLabel>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">wikidata.org</ekt:shortName>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/590307840"><skos:prefLabel xml:lang="en">ePublishing(eProceedings) Author-Article ID (ePr-AAID)</skos:prefLabel>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ePr-AAID</ekt:shortName>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/799785472"><skos:prefLabel xml:lang="el">Grissh Authority ID</skos:prefLabel>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grissh Authority ID</ekt:shortName>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/1672388256"><skos:prefLabel xml:lang="en">ePublishing(eJournals) Author-Article ID (eJ-AAID)</skos:prefLabel>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">eP-AAID</ekt:shortName>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/927106624"><skos:prefLabel xml:lang="en">Library of Congress Name Authority File (NAF)</skos:prefLabel>
+<skos:altLabel xml:lang="en">LC  Name Authority File (NAF)</skos:altLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://id.loc.gov/authorities/names/</ekt:idSchemeURIPrefix>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/1845307691"><skos:prefLabel xml:lang="el">ΕΑΔΔ ND</skos:prefLabel>
+<skos:prefLabel xml:lang="en">HEDI ND</skos:prefLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://hdl.handle.net/10442/hedi/</ekt:idSchemeURIPrefix>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ΕΑΔΔ ND</ekt:shortName>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/591418497"><skos:prefLabel xml:lang="en">ResearchGate ID</skos:prefLabel>
+<ekt:idSchemeURIPrefix rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.researchgate.net/profile/</ekt:idSchemeURIPrefix>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/id-schemes/1911684141"><skos:prefLabel xml:lang="en">EKT Metrics/Structural Projects for Higher Education</skos:prefLabel>
+<skos:prefLabel xml:lang="el">EKT Metrics/Δράσεις ΕΣΠΑ Τριτοβάθμιας Εκπαίδευσης</skos:prefLabel>
+<ekt:shortName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metrics UUID</ekt:shortName>
+</skos:Concept>
+</rdf:RDF>
