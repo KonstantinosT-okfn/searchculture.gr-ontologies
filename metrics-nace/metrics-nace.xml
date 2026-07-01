@@ -1,0 +1,2281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/metrics-nace"><dc:title xml:lang="en">Nace Activity</dc:title>
+<dc:title xml:lang="el">Κωδικός αριθμός δραστηριότητας (ΚΑΔ)</dc:title>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:43:24</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-02T16:11:50</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J59_J60"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/R"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/Q"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/M_N"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C13T15"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/E37T39"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/M72"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J59"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J58"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C33"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C32"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C31"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C30"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/O_P"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/M71"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C25T30"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C10T12"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J58T60"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/S951"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/G"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C29"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/F"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C28"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C27"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C10_C11"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/B"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/A"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/P85"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C22"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C21"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/N"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C20"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/M"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/K"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C25"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C24"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/I"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C23"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/H"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/G465"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/OTU"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C182"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/STU"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C19"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C18"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C17"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C16"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C15"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C14"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C13"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C12"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/D35_E36"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/C16T18"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/O84"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/D_E"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/GTU"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/Q86"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/L68"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/GTN"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J63"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/Q87_Q88"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J62"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J61"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/metrics-nace/J60"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J631"><skos:prefLabel xml:lang="en">Data processing, hosting and related activities; web portals</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/J63"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J59_J60"><skos:prefLabel xml:lang="en">Motion picture, video, television programme production; programming and broadcasting activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/R"><skos:prefLabel xml:lang="en">Arts, entertainment and recreation</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C24_FER"><skos:prefLabel xml:lang="en">Manufacture of basic iron and steel and of ferro-alloys; of tubes, pipes, hollow profiles, related fittings and other products of first processing of steel; casting of iron and steel</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C24"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/Q"><skos:prefLabel xml:lang="en">Human health and social work activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/M_N"><skos:prefLabel xml:lang="en">Professional, scientific and technical activities; administrative and support service activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C13T15"><skos:prefLabel xml:lang="en">Manufacture of textiles, wearing apparel, leather and related products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/E37T39"><skos:prefLabel xml:lang="en">Sewerage, waste management, remediation activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/M72"><skos:prefLabel xml:lang="en">Scientific research and development</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/M721"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/M722"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J59"><skos:prefLabel xml:lang="en">Motion picture, video and television programme production, sound recording and music publishing activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J58"><skos:prefLabel xml:lang="en">Publishing activities</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/J581"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/J582"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C33"><skos:prefLabel xml:lang="en">Repair and installation of machinery and equipment</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C32"><skos:prefLabel xml:lang="en">Other manufacturing</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C325"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C31"><skos:prefLabel xml:lang="en">Manufacture of furniture</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C30"><skos:prefLabel xml:lang="en">Manufacture of other transport equipment</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C304"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C303"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C302"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C301"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C309"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/O_P"><skos:prefLabel xml:lang="en">Public administration and defence; compulsory social security and education</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/M71"><skos:prefLabel xml:lang="en">Architectural and engineering activities; technical testing and analysis</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C25T30"><skos:prefLabel xml:lang="en">Manufacture of fabricated metal products, computer, electronic and optical products, electrical equipment, machinery, motor vehicles and other transport equipment</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C10T12"><skos:prefLabel xml:lang="en">Manufacture of food products; beverages and tobacco products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J58T60"><skos:prefLabel xml:lang="en">Publishing, motion picture, video, television programme production; sound recording, programming and broadcasting activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/S951"><skos:prefLabel xml:lang="en">Repair of computers and communication equipment</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J581"><skos:prefLabel xml:lang="en">Publishing of books, periodicals and other publishing activities</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/J58"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J582"><skos:prefLabel xml:lang="en">Software publishing</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/J58"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/G"><skos:prefLabel xml:lang="en">Wholesale and retail trade; repair of motor vehicles and motorcycles</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C29"><skos:prefLabel xml:lang="en">Manufacture of motor vehicles, trailers and semi-trailers</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/F"><skos:prefLabel xml:lang="en">Construction</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C28"><skos:prefLabel xml:lang="en">Manufacture of machinery and equipment n.e.c.</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C27"><skos:prefLabel xml:lang="en">Manufacture of electrical equipment</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C304"><skos:prefLabel xml:lang="en">Manufacture of military fighting vehicles</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C30"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C"><skos:prefLabel xml:lang="en">Manufacturing</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C10_C11"><skos:prefLabel xml:lang="en">Manufacture of food products and beverages</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C303"><skos:prefLabel xml:lang="en">Manufacture of air and spacecraft and related machinery</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C30"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/B"><skos:prefLabel xml:lang="en">Mining and quarrying</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C302"><skos:prefLabel xml:lang="en">Manufacture of railway locomotives and rolling stock</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C30"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/A"><skos:prefLabel xml:lang="en">Agriculture, forestry and fishing</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C268"><skos:prefLabel xml:lang="en">Manufacture of magnetic and optical media</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C301"><skos:prefLabel xml:lang="en">Building of ships and boats</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C30"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/P85"><skos:prefLabel xml:lang="en">Education</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C267"><skos:prefLabel xml:lang="en">Manufacture of optical instruments and photographic equipment</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C22"><skos:prefLabel xml:lang="en">Manufacture of rubber and plastic products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C21"><skos:prefLabel xml:lang="en">Manufacture of basic pharmaceutical products and pharmaceutical preparations</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/N"><skos:prefLabel xml:lang="en">Administrative and support service activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C20"><skos:prefLabel xml:lang="en">Manufacture of chemicals and chemical products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/M"><skos:prefLabel xml:lang="en">Professional, scientific and technical activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C26"><skos:prefLabel xml:lang="en">Manufacture of computer, electronic and optical products</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C268"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C267"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C266"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C265"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C264"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C263"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C262"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C261"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/K"><skos:prefLabel xml:lang="en">Financial and insurance activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C25"><skos:prefLabel xml:lang="en">Manufacture of fabricated metal products, except machinery and equipment</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C254"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J"><skos:prefLabel xml:lang="en">Information and communication</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C24"><skos:prefLabel xml:lang="en">Manufacture of basic metals</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C24_FER"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/C24_NFER"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C309"><skos:prefLabel xml:lang="en">Manufacture of transport equipment n.e.c.</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C30"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/I"><skos:prefLabel xml:lang="en">Accommodation and food service activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C23"><skos:prefLabel xml:lang="en">Manufacture of other non-metallic mineral products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/H"><skos:prefLabel xml:lang="en">Transportation and storage</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/G465"><skos:prefLabel xml:lang="en">Wholesale of information and communication equipment</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/M721"><skos:prefLabel xml:lang="en">Research and experimental development on natural sciences and engineering</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/M72"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/M722"><skos:prefLabel xml:lang="en">Research and experimental development on social sciences and humanities</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/M72"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C266"><skos:prefLabel xml:lang="en">Manufacture of irradiation, electromedical and electrotherapeutic equipment</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C265"><skos:prefLabel xml:lang="en">Manufacture of instruments and appliances for measuring, testing and navigation; watches and clocks</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C264"><skos:prefLabel xml:lang="en">Manufacture of consumer electronics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C263"><skos:prefLabel xml:lang="en">Manufacture of communication equipment</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/OTU"><skos:prefLabel xml:lang="en">Public administration; education; human health; Arts; other service activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C262"><skos:prefLabel xml:lang="en">Manufacture of computers and peripheral equipment</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C261"><skos:prefLabel xml:lang="en">Manufacture of electronic components and boards</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C26"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C182"><skos:prefLabel xml:lang="en">Reproduction of recorded media</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/STU"><skos:prefLabel xml:lang="en">Other service activities; activities of households as employers and extraterritorial organisations and bodies</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C19"><skos:prefLabel xml:lang="en">Manufacture of coke and refined petroleum products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C18"><skos:prefLabel xml:lang="en">Printing and reproduction of recorded media</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C17"><skos:prefLabel xml:lang="en">Manufacture of paper and paper products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C16"><skos:prefLabel xml:lang="en">Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C15"><skos:prefLabel xml:lang="en">Manufacture of leather and related products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C14"><skos:prefLabel xml:lang="en">Manufacture of wearing apparel</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C13"><skos:prefLabel xml:lang="en">Manufacture of textiles</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C12"><skos:prefLabel xml:lang="en">Manufacture of tobacco products</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/D35_E36"><skos:prefLabel xml:lang="en">Electricity, gas, steam and air conditioning supply; water collection, treatment and supply</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C254"><skos:prefLabel xml:lang="en">Manufacture of weapons and ammunition</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C25"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C16T18"><skos:prefLabel xml:lang="en">Manufacture of wood, paper, printing and reproduction</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C24_NFER"><skos:prefLabel xml:lang="en">Manufacture of basic precious and other non-ferrous metals; casting of light metals and other non-ferrous metals</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C24"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/O84"><skos:prefLabel xml:lang="en">Public administration and defence; compulsory social security</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/D_E"><skos:prefLabel xml:lang="en">Electricity, gaz, steam, air conditioning and water supply</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/GTU"><skos:prefLabel xml:lang="en">Total services</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/C325"><skos:prefLabel xml:lang="en">Manufacture of medical and dental instruments and supplies</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/C32"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/Q86"><skos:prefLabel xml:lang="en">Human health activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/L68"><skos:prefLabel xml:lang="en">Real estate activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J639"><skos:prefLabel xml:lang="en">Other information service activities</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/metrics-nace/J63"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/GTN"><skos:prefLabel xml:lang="en">Services of the business economy</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J63"><skos:prefLabel xml:lang="en">Information service activities</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/J631"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/metrics-nace/J639"/>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/Q87_Q88"><skos:prefLabel xml:lang="en">Residential care activities and social work activities without accommodation</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J62"><skos:prefLabel xml:lang="en">Computer programming, consultancy and related activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J61"><skos:prefLabel xml:lang="en">Telecommunications</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/metrics-nace/J60"><skos:prefLabel xml:lang="en">Programming and broadcasting activities</skos:prefLabel>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/CIS"><rdfs:label xml:lang="en">CIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RIS"><rdfs:label xml:lang="en">RIS</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/DT"><rdfs:label xml:lang="en">DT</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/RND"><rdfs:label xml:lang="en">RND</rdfs:label>
+<rdfs:label xml:lang="el">Ε&amp;Α</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/eCORDA"><rdfs:label xml:lang="en">eCORDA</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/WOMEN"><rdfs:label xml:lang="en">WOMEN</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+<ekt:surveys><rdf:Description rdf:about="http://semantics.gr/authorities/metrics-surveys/REG"><rdfs:label xml:lang="en">REG</rdfs:label>
+</rdf:Description>
+</ekt:surveys>
+</skos:Concept>
+</rdf:RDF>
