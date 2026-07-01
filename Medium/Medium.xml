@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/Medium"><dc:title xml:lang="en">Medium (Materials of Cultural Objects)</dc:title>
+<dc:title xml:lang="el">Μέσο (Υλικά κατασκευής)</dc:title>
+<dc:creator><rdf:Description rdf:about="https://www.ekt.gr/"><rdfs:label xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</rdfs:label>
+<rdfs:label xml:lang="en">National Documentation Centre</rdfs:label>
+</rdf:Description>
+</dc:creator>
+<dc:description xml:lang="en">The vocabulary provides specialized and controlled terminology for the materials and physical supports (medium) used in the creation of various types of works and cultural artefacts. It is applied in the description, documentation, and discovery of cultural resources, works of art, items of folk heritage, rare publications, and other objects. Each term is accompanied by a definition and additional contextual information, and is linked through semantic mapping relationships to the Getty Art &amp; Architecture Thesaurus (AAT) and to DBpedia (Wikipedia), enhancing interoperability and semantic enrichment.</dc:description>
+<dc:description xml:lang="el">Το λεξιλόγιο παρέχει εξειδικευμένη και ελεγχόμενη ορολογία για τα υλικά και τα υποστρώματα (medium) κατασκευής διαφόρων τύπων έργων και τεκμηρίων. Εφαρμόζεται στην περιγραφή, τεκμηρίωση και ανακάλυψη πολιτιστικών πόρων, έργων τέχνης, τεκμηρίων λαϊκής παράδοσης, σπάνιων εκδόσεων και άλλων αντικειμένων. Κάθε όρος συνοδεύεται από ορισμό και συμπληρωματικές πληροφορίες, ενώ διασυνδέεται με σχέσεις σημασιολογικής αντιστοίχισης προς τον θησαυρό Art &amp; Architecture Thesaurus (AAT) του Getty και τη DBpedia της Wikipedia, ενισχύοντας τη διαλειτουργικότητα και τον σημασιολογικό εμπλουτισμό.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-22T11:41:00</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-19T17:39:12</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Vellum"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Ivory"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Rice-paper"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Marble"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/synthetiko"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Glass"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Terra-cotta"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/fagentianos"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/polytima-metalla"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Canvas"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Bristol-Board-"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Bronze"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Ceramic"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Metal"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Precious-stones"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Paper-"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Porphyry"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Stone"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Cardboard"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Basalt"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/poltos-ksyloy"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Textile-"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Plastic"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/porselanh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Wax"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Hand-made-paper"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Skins"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Clay"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/ksylo"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Hardboard"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Plaster"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Copper"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Medium/Tracing-paper"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Vellum"><skos:prefLabel xml:lang="en">Parchment,Vellum</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περγαμηνή</skos:prefLabel>
+<skos:definition xml:lang="en">Translucent or opaque material made skin for writing, bookbinding, or other uses.</skos:definition>
+<skos:definition xml:lang="el">Διαφανές ή μη υλικό που προέρχεται από κατεργασία δέρματος ζώου, και χρησιμεύει ως επιφάνεια γραφής υλικό βιβλιοδεσίας.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300011851"><rdfs:label xml:lang="en">parchment (animal material)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85097964"><rdfs:label xml:lang="en">Parchment</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Ivory"><skos:prefLabel xml:lang="el">Ελεφαντόδοτο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ivory</skos:prefLabel>
+<skos:definition xml:lang="el">Το ελεφαντόδοντο είναι λευκό υλικό που αποκτάται από τους χαυλιόδοντες και τα δόντια του ελέφαντα και άλλων θηλαστικών. Αποτελείται από οδοντίνη και χρησιμοποιείται από την αρχαιότητα για την κατασκευή αντικειμένων, οπως έργα τέχνης, ψεύτικα δόντια και άλλα.</skos:definition>
+<skos:definition xml:lang="en">Ivory is a white material obtained from the tusks and teeth of the elephant and other mammals. It is made of dentin and used since antiquity to manufacture objects such as works of art, false teeth and more.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300417720"><rdfs:label xml:lang="en">Elephant Ivory</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Ivory"><rdfs:label xml:lang="en">Ivory</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Rice-paper"><skos:prefLabel xml:lang="el">Ριζόχαρτο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Rice paper</skos:prefLabel>
+<skos:definition xml:lang="el">Χαρτί, κατασκευασμένο απο το εσωτερικό ενός φυτού προερχόμενο απο την Κίνα, την Ιαπωνία και την Ταϊλάνδη.</skos:definition>
+<skos:definition xml:lang="en">Paper, made from the inside of a tree originated in China, Japan and Thailand.</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh2009005131"><rdfs:label xml:lang="en">Xuan zhi</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014129"><rdfs:label xml:lang="en">rice paper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Marble"><skos:prefLabel xml:lang="en">Marble</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μάρμαρο</skos:prefLabel>
+<skos:definition xml:lang="el">Σκληρό και πυκνό πέτρωμα με μεταμορφωτικές ιδιότητες και αποτελούμενο από ανθρακικό ασβέστιο. Το λευκό του χρώμα οφείλεται στην καθαρότητα του ασβεστίου, ενώ σε πολλές περιπτώσεις παρατηρείται μεγάλη ποικιλία μοτίβων και χρωμάτων.</skos:definition>
+<skos:definition xml:lang="en">Hard and dense rock with transforming properties and composed of calcium carbonate. Its white color is due to the purity of calcium and in many cases a wide variety of motifs and colors are observed.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Marble"><rdfs:label xml:lang="en">Marble</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300011443"><rdfs:label xml:lang="en">marble (rock)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85080941"><rdfs:label xml:lang="en">Marble</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/synthetiko"><skos:prefLabel xml:lang="el">Συνθετικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Synthetics</skos:prefLabel>
+<skos:definition xml:lang="en">Artificial material which is the product of organic and chemical synthesis.</skos:definition>
+<skos:definition xml:lang="el">Tεχνητό υλικό που που αποτελεί προϊόν οργανικής και χημικής σύνθεσης.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Synthetic_element"><rdfs:label xml:lang="en">Synthetic element</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300218678"><rdfs:label xml:lang="en">synthetic</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Glass"><skos:prefLabel xml:lang="en">Glass</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γυαλί</skos:prefLabel>
+<skos:definition xml:lang="en">Transparent or opaque substance made by melting silica with basic oxide. Hard and resistant, is used for both practical and decorative uses. Appeared in Mesopotamia in 4th millennium BC.</skos:definition>
+<skos:definition xml:lang="el">Διαφανής ή αδιαφανής ουσία προερχόμενη από την τήξη πυριτίας με βασικό οξείδιο. Σκληρό και ανθεκτικό, χρησιμοποιείται για πρακτικούς και διακοσμητικούς λόγους. Εμφανίστηκε στην Μεσοποταμία την 4η χιλιετία π.Χ.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300010797"><rdfs:label xml:lang="en">glass</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Terra-cotta"><skos:prefLabel xml:lang="en">Terra-cotta</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τέρρα-κότα</skos:prefLabel>
+<skos:definition xml:lang="en">Material derived from clay, grog and water. Usually it is baked or partially processed and used to make sculptures, tiles, bricks and decorative surfaces.</skos:definition>
+<skos:definition xml:lang="el">Υλικό προερχόμενο από πηλό, γκρεγκ και νερό. Συνήθως συναντάται ψημένο ή σε μερική επεξεργασία και χρησιμοποιείται για την κατασκευή γλυπτών, κεραμιδιών, τούβλων και διακοσμητικών επιφανειών.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Terracotta"><rdfs:label xml:lang="en">Terracotta</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300010669"><rdfs:label xml:lang="en">terracotta (clay material)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85134051"><rdfs:label xml:lang="en">Terra-cotta</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/fagentianos"><skos:prefLabel xml:lang="en">Majolica</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φαγεντιανός</skos:prefLabel>
+<skos:definition xml:lang="en">Majolica is considered an opaque composite material and consists of a sintered quartz alloy and an alkaline glass surface. It is used in the decoration of figurines, amulets, beads, and small items.</skos:definition>
+<skos:definition xml:lang="el">Ο φαγεντιανός θεωρείται αδιαφανές σύνθετο υλικό και αποτελείται από ένα κράμα πυροσυσσωματωμένου χαλαζία και μιας αλκαλικής γυάλινης επιφάνειας. Χρησιμοποείται στη διακόσμηση ειδωλίων, φυλακτών, χαντρών, όπως και μικρών αντικειμένων.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85079964"><rdfs:label xml:lang="en">Majolica</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://www.getty.edu/vow/AATFullDisplay?find=300265183&amp;logic=AND&amp;note=&amp;english=N&amp;prev_page=1&amp;subjectid=300265183"><rdfs:label xml:lang="en">faience (composite material)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/polytima-metalla"><skos:prefLabel xml:lang="en">Precious metals</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολύτιμα μέταλλα</skos:prefLabel>
+<skos:definition xml:lang="el">Μέταλλο υψηλής αξίας όπως ο χρυσός που χρησιμοποιείται στην κοσμηματοποιία και την δημιουργία νομισμάτων.</skos:definition>
+<skos:definition xml:lang="en">Metal of high value such as gold used in jewelry and coins.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300011054"><rdfs:label xml:lang="en">precious metal</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Canvas"><skos:prefLabel xml:lang="el">Λινάτσα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Canvas</skos:prefLabel>
+<skos:definition xml:lang="el">Υφαντό ύφασμα κατασκευασμένο από μεγάλη ποικιλία υλικών όπως λινάρι ή βαμβάκι. Χρησιμοποιείται στην κατασκευή πανιών, ταπετσαριών, τσαντών και βάσεων ελαιογραφίας.</skos:definition>
+<skos:definition xml:lang="en">Woven fabric made of a great variety of materials such as flax and cotton. It is used in making sails, upholstery, bags and as a base surface for oil painting.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014078"><rdfs:label xml:lang="en">canvas</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Canvas"><rdfs:label xml:lang="en">Canvas</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Bristol-Board-"><skos:prefLabel xml:lang="el">Πίνακας Bristol</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bristol Board</skos:prefLabel>
+<skos:definition xml:lang="el">Ένα υψηλής ποιότητας λευκό χαρτόνι, το οποίο έχει ενισχυθεί με πηλό της Κίνας και είναι φτιαγμένο με επικόλληση φύλλων βαρέως χαρτιού. Χρησιμοποιείται για την εκτύπωση εγγράφων, φυλλαδίων, διαφημιστικού υλικού και φακέλων. Επίσης χρησιμοποιείται συνήθως για τεχνική σχεδίαση, σχέδια απεικόνισης, τέχνη κωμικών βιβλίων και άλλες δισδιάστατες μορφές τέχνης.</skos:definition>
+<skos:definition xml:lang="en">A high quality white cardboard, which has been reinforced with China clay and is made by gluing heavy paper sheets. Used to print documents, brochures, promotional material and envelopes. It is also commonly used for technical design, imaging designs, comic book art and other two-dimensional art forms.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Bristol_board"><rdfs:label xml:lang="en">Bristol board</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014228"><rdfs:label xml:lang="en">bristol board</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Bronze"><skos:prefLabel xml:lang="el">Μπρούτζος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bronze</skos:prefLabel>
+<skos:definition xml:lang="en">Alloy of copper, tin and zinc, is a usual material of tools and decorative objects because of its pliable nature given to it by the copper. The percentage of its components varies.</skos:definition>
+<skos:definition xml:lang="el">Κράμα χαλκού, κασσίτερου και ψευδάργυρου, συνηθισμένο υλικό σε εργαλεία και διακοσμητικά λόγω της ευμετάβλητης φύσης που του παρέχει ο χαλκός. Το ποσοστό των στοιχείων που περιέχει ποικίλει.</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://dbpedia.org/page/Bronze"><rdfs:label xml:lang="en">Bronze</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300010957"><rdfs:label xml:lang="en">bronze</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Ceramic"><skos:prefLabel xml:lang="el">Κεραμικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ceramic</skos:prefLabel>
+<skos:definition xml:lang="en">Hard, durable and fragile material made by heating non metal substances in a high temperature such as clay.</skos:definition>
+<skos:definition xml:lang="el">Σκληρό, ανθεκτικό και εύθραστο υλικό παρασκευασμένο από υψηλή καύση μη μεταλλικού ορυκτού όπως πηλός</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300235507"><rdfs:label xml:lang="en">ceramic</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Metal"><skos:prefLabel xml:lang="en">Metal</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μέταλλο</skos:prefLabel>
+<skos:definition xml:lang="el">Καλός αγωγός ηλεκτρισμού και θερμότητας, μη διαφανές σκληρό υλικό που μπορεί να επεξεργαστεί.</skos:definition>
+<skos:definition xml:lang="en">Good electrical and heat conductor, non-transparent, hard material that can be processed.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300010900"><rdfs:label xml:lang="en">metal</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Precious-stones"><skos:prefLabel xml:lang="en">Precious stones</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολύτιμοι λίθοι</skos:prefLabel>
+<skos:definition xml:lang="en">Stone or mineral hard enough and durable used in jewelry.</skos:definition>
+<skos:definition xml:lang="el">Πέτρωμα ή ορυκτό αρκετά σκληρό και ανθεκτικό που χρησιμοποιείται στην κοσμηματοποιία.</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://dbpedia.org/page/Gemstone"><rdfs:label xml:lang="en">Gemstone</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300133732"><rdfs:label xml:lang="en">precious stone</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Paper-"><skos:prefLabel xml:lang="el">Χαρτί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Paper</skos:prefLabel>
+<skos:definition xml:lang="el">Το χαρτί είναι υλικό που αποτελείται από φυτικές ίνες συμπιεσμένες σε λεπτά και ξηρά φύλλα που χρησιμοποιείται ιδίως για γραφή και εκτύπωση και για άλλες χρήσεις.</skos:definition>
+<skos:definition xml:lang="en">Paper is a material composed of filaments compressed into thin and dry sheets, used in particular for writing and printing and other uses.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85097578"><rdfs:label xml:lang="en">Paper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300014109"><rdfs:label xml:lang="en">paper (fiber product)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Paper"><rdfs:label xml:lang="en">Paper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Porphyry"><skos:prefLabel xml:lang="en">Porphyry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πορφύρα</skos:prefLabel>
+<skos:definition xml:lang="el">Ένα από τα σκληρότερα πετρώματα, με σκούρο μωβ-κόκκινο χρώμα που περιέχει μεγάλους κρυστάλλους και χρησιμοποιείται ως διακοσμητικό υλικό αλλά και ως υλικό αλέσματος χρωμάτων.</skos:definition>
+<skos:definition xml:lang="en">One of the hardest materials of dark purple-red color composed of big crystals used as a decorative material and in color grinding.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300011232"><rdfs:label xml:lang="en">porphyry</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Stone"><skos:prefLabel xml:lang="en">Stone</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πέτρα</skos:prefLabel>
+<skos:definition xml:lang="en">Stone is a natural substance, a solid aggregate of one or more minerals or metalloids. It exists on earth and within it. It is a basic tool in the history of human evolution.</skos:definition>
+<skos:definition xml:lang="el">H πέτρα είναι μια φυσική ουσία, ένα στερεό συσσωμάτωμα ενός ή περισσοτέρων ορυκτών ή μεταλλοειδών. Υπάρχει πάνω στη γη και μέσα σε αυτή. Αποτελεί βασικό εργαλείο στη ιστορία της ανθρώπινης εξέλιξης.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Rock_(geology)"><rdfs:label xml:lang="en">Rock (geology)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300011692"><rdfs:label xml:lang="en">rock (inorganic material)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Cardboard"><skos:prefLabel xml:lang="en">Cardboard</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χαρτόνι</skos:prefLabel>
+<skos:definition xml:lang="el">Γενικός όρος που χρησιμοποιείται για ενα εύρος προιόντων  που εχουν ως βαση το χαρτι  και τα οποια διαθέτουν μεγαλύτερο πάχος και ανώτερη ανθεκτικότητα ή άλλα ειδικά μηχανικά χαρακτηριστικά στο χαρτί, όπως η δυνατότητα αναδίπλωσης, η ακαμψία και αλλα.</skos:definition>
+<skos:definition xml:lang="en">Α general term used for a range of paper-based products that have a higher thickness and superior durability or other special mechanical features on paper such as folding, stiffness and more.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014224"><rdfs:label xml:lang="en">Cardboard</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Cardboard"><rdfs:label xml:lang="en">Cardboard</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Basalt"><skos:prefLabel xml:lang="en">Basalt</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βασάλτης</skos:prefLabel>
+<skos:definition xml:lang="el">Ο βασάλτης είναι ενα πυκνό, σκληρό, σκούρο καφέ έως μαύρο πέτρωμα το οποίο σχηματίζεται από την ταχεία ψύξη βασαλτικής λάβας. Από αυτό αποτελούνται οι πυθμένες των ωκεανών. Χρησιμοποιείται σε οικοδομικές κατασκευές.</skos:definition>
+<skos:definition xml:lang="en">The basalt is a dense, hard, dark brown to black rock formed by rapid cooling of basaltic lava and is the the ocean floor. It is used in building construction.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Basalt#Petrology"><rdfs:label xml:lang="en">Basalt</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300011222"><rdfs:label xml:lang="en">basalt (basic igneous rock)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/poltos-ksyloy"><skos:prefLabel xml:lang="el">Πολτός ξύλου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Wood-pulp paper</skos:prefLabel>
+<skos:definition xml:lang="en">Pulp made of wood fibers, tree trunks and used paper, intended for the manufacture of paper.</skos:definition>
+<skos:definition xml:lang="el">Πολτός κατασκευασμένος από ίνες ξύλου, κορμούς δέντρων και χρησιμοποιημένο χαρτί, προορισμένος για την κατασκευή χαρτιού.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://www.getty.edu/vow/AATFullDisplay?find=wood-pulp+paper&amp;logic=AND&amp;note=&amp;english=N&amp;prev_page=1&amp;subjectid=300014131"><rdfs:label xml:lang="en">wood pulp paper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Pulp_(paper)"><rdfs:label xml:lang="en">Pulp (paper)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Textile-"><skos:prefLabel xml:lang="en">Textile</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ύφασμα</skos:prefLabel>
+<skos:definition xml:lang="en">Material consisting of a network of natural or artificial fibers. Produced by spinning raw fibers of wool, flax, cotton, or other materials. Textiles are formed by weaving, knitting and other methods.</skos:definition>
+<skos:definition xml:lang="el">Υλικό αποτελούμενο από δίκτυο φυσικών ή τεχνητών ινών. Παράγεται με την κλώση ακατέργαστων ινών από μαλλί, λινάρι, βαμβάκι ή άλλα υλικά. Τα υφάσματα σχηματίζονται με ύφανση, πλέξιμο και άλλες μεθόδους.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Textile"><rdfs:label xml:lang="en">Textile</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Plastic"><skos:prefLabel xml:lang="el">Πλαστικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Plastic</skos:prefLabel>
+<skos:definition xml:lang="en">A big variety of natural, such as beeswax and clay, or synthetic substances that can be used for many purposes because of their flexible and usually elastic nature.</skos:definition>
+<skos:definition xml:lang="el">Μία μεγάλη κατηγορία φυσικών, όπως το κερί μελισσών και του πηλιδιού, ή συνθετικών υλικών, εύπολων που μπορούν να χρησιμοποιηθούν για πολλούς σκοπούς λόγω της εύκαμπτης και συνήθως ελαστικής φύσης τους.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014570"><rdfs:label xml:lang="en">plastic</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/porselanh"><skos:prefLabel xml:lang="en">Porcelain</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πορσελάνη</skos:prefLabel>
+<skos:definition xml:lang="en">Material fused from heating together white clay or kaolin and a feldspathic rock.</skos:definition>
+<skos:definition xml:lang="el">Υλικό κατασκευασμένο από καύση άσπρης αργίλου ή καολίνης και ενός άστριου πετρώματος.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300010662"><rdfs:label xml:lang="en">porcelain</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Wax"><skos:prefLabel xml:lang="en">Wax</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κερί</skos:prefLabel>
+<skos:definition xml:lang="en">The term wax refers to a solid form substance at ambient temperatures which melts at temperatures above 41 ° C to give a low viscosity liquid. The candle in cylindrical form with a wick core is used by man for lighting and worship purposes.</skos:definition>
+<skos:definition xml:lang="el">Ο όρος κερί αναφέρεται σε μια ουσία στερεάς μορφής σε θερμοκρασίες περιβάλλοντος η οποία λιώνει σε θερμοκρασίες πάνω από 41° C δίνοντας ένα χαμηλού ιξώδους υγρό.  Το κερί σε κυλινδρική μορφή με πυρήνα από φιτίλι,  χρησιμοποιείται απο τον άνθρωπο  για φωτιστικούς και λατρευτικούς σκοπούς.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://www.getty.edu/vow/AATFullDisplay?find=wax&amp;logic=AND&amp;note=&amp;subjectid=300014585"><rdfs:label xml:lang="en">Wax</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Wax"><rdfs:label xml:lang="en">Wax</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Hand-made-paper"><skos:prefLabel xml:lang="en">Hand-made paper</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χειροποίητο χαρτί</skos:prefLabel>
+<skos:definition xml:lang="el">Το χαρτί που κατασκευάζεται μέσω χειρονακτικών εργασιών.</skos:definition>
+<skos:definition xml:lang="en">Paper made through manual work.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://www.getty.edu/vow/AATFullDisplay?find=Hand-made+paper&amp;logic=AND&amp;note=&amp;english=N&amp;prev_page=1&amp;subjectid=300411543"><rdfs:label xml:lang="en">handmade paper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Skins"><skos:prefLabel xml:lang="en">Skin</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δέρμα</skos:prefLabel>
+<skos:definition xml:lang="en">The epidermis of animals separated from their bodies and removed from hairs for serving different purposes according to the processing technique.</skos:definition>
+<skos:definition xml:lang="el">Επιδερμίδα ζώων που χωρίζεται απο το σώμα τους και απομακρύνεται από τρίχες προς εξυπηρέτηση διαφόρων σκοπών ανάλογα με της τεχνική επεξεργασίας.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300011840"><rdfs:label xml:lang="en">skin</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Clay"><skos:prefLabel xml:lang="el">Πηλός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Clay</skos:prefLabel>
+<skos:definition xml:lang="el">Ο πηλός είναι ένα λεπτόκοκκο φυσικό εδαφικό υλικό που συνδυάζει ένα ή περισσότερα αργιλικά μέταλλα και οργανικό υλικό.
+Η όρος εφαρμόζεται επίσης σε όλες τις γηιές που σχηματίζουν μια πάστα με νερό και σκληρύνουν όταν θερμαίνονται. Στην αρχαιότητα χρησιμοποιήθηκε ως υλικό για την κατασκευή κεραμικών, ως ιατρικό υλικό και ως υλικό κατασκευής κτιρίων.</skos:definition>
+<skos:definition xml:lang="en">Clay is a finely ground natural material that combines one or more clay minerals and organic material.
+The term is also applied to all earths that form a paste with water and cure when heated. In antiquity it was used as a material for the manufacture of ceramics, as a medical material and as a building material.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Clay"><rdfs:label xml:lang="en">Clay</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300010439"><rdfs:label xml:lang="en">clay</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/ksylo"><skos:prefLabel xml:lang="el">Ξύλο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Wood</skos:prefLabel>
+<skos:definition xml:lang="el">Το ξύλο είναι  σκληρός δομικός ιστός που βρίσκεται στο βλαστό και στις ρίζες των δέντρων και χρησιμοποιείται ως καύσιμο και ως κατασκευαστικό υλικό.</skos:definition>
+<skos:definition xml:lang="en">Wood is hard structural tissue found in tree stem and roots and used as a fuel and as a building material.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300011914"><rdfs:label xml:lang="en">wood (plant material)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Wood"><rdfs:label xml:lang="en">wood</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Hardboard"><skos:prefLabel xml:lang="el">Σκληρό Χαρτόνι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hardboard</skos:prefLabel>
+<skos:definition xml:lang="el">Υλικό, το οποίο χρησιμοποιείται για κτίρια και αποτελείται από 100% ίνες ξύλου.  Οι ίνες παράγονται συνήθως από τσιπς, πριονίδια και διακοσμητικά, διασπώνται σε λεπτά σωματίδια με λείανση ή με ατμό. Το σκληρό χαρτόνι έχει χρησιμοποιηθεί από καιρό σε έπιπλα, αλλά είναι επίσης δημοφιλείς για χρήση στον κατασκευαστικό κλάδο και στο εμπόριο ως προσωρινό προστατευτικό δαπέδου.</skos:definition>
+<skos:definition xml:lang="en">Material, which is used for buildings and consists of 100% wood fibers. Fiber is usually produced from chips, sawdust and ornaments, broken into fine particles by grinding or steam. Hardboard has long been used in furniture but is also popular for use in construction and trade as a temporary floor protector.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Hardboard"><rdfs:label xml:lang="en">Hardboard</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014203"><rdfs:label xml:lang="en">Hardboard</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Plaster"><skos:prefLabel xml:lang="en">Plaster</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γύψος</skos:prefLabel>
+<skos:definition xml:lang="en">Soft, malleable material which hardens after exposure to the environment. Often consists of a mixture of water, lime and sand.</skos:definition>
+<skos:definition xml:lang="el">Μαλακό, εύπλαστο υλικό το οποίο σκληραίνει έπειτα από έκθεση του στο περιβάλλον. Σε καλλιτεχνικό πλαίσιο συνήθως αποτελείται από ένα μείγμα νερού, ασβέστη και άμμου.</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://dbpedia.org/page/Plaster"><rdfs:label xml:lang="en">Plaster</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300014922"><rdfs:label xml:lang="en">plaster</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Copper"><skos:prefLabel xml:lang="en">Copper</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χαλκός</skos:prefLabel>
+<skos:definition xml:lang="el">Ο χαλκός αποτελεί ένα μαλακό, αδιαφανές, όλκιμο και εύπλαστο μέταλλο με ιδιαίτερα σημαντική ηλεκτρική και θερμική αγωγιμότητα. Πρόκειται για το χημικό στοιχείο που εντοπίζεται με το σύμβολο Cu και τον ατομικό αριθμό 29. Τα χρώματά του είναι το κόκκινο και το πορτοκαλί. Οι χρήσεις του χαλκού ποικίλουν και συνδυάζεται συνήθως με άλλα μέταλλα, ώστε να σχηματιστούν κράματα, όπως ο ορείχαλκος. Χρησιμοποιείται σε μετρητές τάσεων και θερμοκρασίας και την κατασκευή μαγειρικών σκευών, σωλήνων, ηλεκτρικών συσκευών, καλωδίων, νομισμάτων, μουσικών οργάνων, γλυπτών και κοσμημάτων.</skos:definition>
+<skos:definition xml:lang="en">Copper is a soft, opaque, ductile and malleable metal with particularly significant electrical and thermal conductivity. This is the chemical element identified by the Cu symbol and the atomic number 29. Its colors are red and orange. Uses of copper vary and is usually combined with other metals to form alloys, such as brass. It is used in temperature meters, in voltage measuring and in the manufacture of cooking utensils, tubes, electrical appliances, cables, coins, musical instruments, sculptures and jewelry.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://www.getty.edu/vow/AATFullDisplay?find=Copper&amp;logic=AND&amp;note=&amp;english=N&amp;prev_page=1&amp;subjectid=300011020"><rdfs:label xml:lang="en">copper (metal)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85032278"><rdfs:label xml:lang="en">Copper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Copper"><rdfs:label xml:lang="en">Copper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Medium/Tracing-paper"><skos:prefLabel xml:lang="en">Tracing paper</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διαφανές χαρτί</skos:prefLabel>
+<skos:definition xml:lang="el">Τύπος χαρτιού με υψηλή διαφάνεια που επιτρέπει τη διάκριση κάποιας άλλης εικόνας και τη διείσδυση του φωτός.</skos:definition>
+<skos:definition xml:lang="en">Paper type with high transparency that allows the distinction of another image and the penetration of light.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://www.getty.edu/vow/AATFullDisplay?find=tracing+paper&amp;logic=AND&amp;note=&amp;english=N&amp;prev_page=1&amp;subjectid=300014161"><rdfs:label xml:lang="en">tracing paper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Tracing_paper"><rdfs:label xml:lang="en">Tracing paper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+</rdf:RDF>
