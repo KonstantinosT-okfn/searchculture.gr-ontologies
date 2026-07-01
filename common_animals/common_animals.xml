@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/common_animals"><dc:title xml:lang="en">Animals Vocabulary for Cultural Heritage Documentation</dc:title>
+<dc:title xml:lang="el">Λεξιλόγιο Ζώων για την Τεκμηρίωση Πολιτιστικού Περιεχομένου</dc:title>
+<dc:description xml:lang="en">The Animals Vocabulary was developed by the National Documentation Centre and Electronic Content (EKT) to support the documentation and subject description of cultural heritage content. It includes popular and widely recognizable animal species that are frequently depicted in artworks, photographs, historical records, and other cultural collections. The organization of terms broadly follows the main categories of modern biological classification (e.g. mammals, birds, fish, reptiles, amphibians, arthropods, and molluscs), without aiming to provide a complete or detailed representation of biological taxonomy or phylogenetic relationships. The primary purpose of the vocabulary is to support consistent indexing, discovery, and thematic organization of cultural heritage resources rather than specialized biological classification.</dc:description>
+<dc:description xml:lang="el">Το λεξιλόγιο Ζώων αναπτύχθηκε από το Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ) για την τεκμηρίωση και θεματική περιγραφή πολιτιστικού περιεχομένου. Περιλαμβάνει δημοφιλή και ευρέως αναγνωρίσιμα είδη ζώων που απαντώνται συχνά σε έργα τέχνης, φωτογραφίες, ιστορικά τεκμήρια και λοιπές πολιτιστικές συλλογές. Η ομαδοποίηση των όρων ακολουθεί σε γενικές γραμμές τις βασικές κατηγορίες της σύγχρονης βιολογικής ταξινόμησης (π.χ. θηλαστικά, πτηνά, ψάρια, ερπετά, αμφίβια, αρθρόποδα και μαλάκια), χωρίς να επιδιώκει την πλήρη ή αναλυτική αναπαράσταση των φυλογενετικών σχέσεων μεταξύ των οργανισμών. Στόχος του λεξιλογίου είναι η υποστήριξη της συνεπούς τεκμηρίωσης, αναζήτησης και θεματικής οργάνωσης πολιτιστικών τεκμηρίων και όχι η εξειδικευμένη βιολογική περιγραφή των ειδών.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-06-16T16:38:50</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-06-17T17:10:57</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000000005"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000000006"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000000004"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000000007"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000000010"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000001108"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000001013"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/common_animals/7000001099"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001053"><skos:prefLabel xml:lang="el">Κροκόδειλος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Crocodile</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000005"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001053"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό ▶ Κροκόδειλος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile ▶ Crocodile</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001054"><skos:prefLabel xml:lang="el">Κόκορας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Rooster</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001055"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Κότα / Κόκορας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Hen / Rooster</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001051"><skos:prefLabel xml:lang="en">Marten</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κουνάβι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001051"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Κουνάβι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Marten</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001052"><skos:prefLabel xml:lang="el">Κουνέλι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Rabbit</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001052"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Κουνέλι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Rabbit</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001057"><skos:prefLabel xml:lang="el">Λάμα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Llama</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001057"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Λάμα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Llama</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000002"><skos:prefLabel xml:lang="el">Θηλαστικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mammal</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001043"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001087"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001044"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001088"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001041"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001086"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001003"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001048"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001001"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001089"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001002"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001007"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001006"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001009"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001090"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001091"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001051"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001095"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001010"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001011"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001052"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001097"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001058"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001059"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001057"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001018"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001019"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001016"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001017"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001061"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001062"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001021"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001065"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001063"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001102"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001026"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001103"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001067"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001100"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001029"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001106"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001027"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001072"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001073"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001032"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001033"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001030"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001031"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001036"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001034"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001078"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001111"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001118"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001038"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001039"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000002"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001058"><skos:prefLabel xml:lang="en">Hare</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λαγός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001058"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Λαγός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Hare</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001055"><skos:prefLabel xml:lang="en">Hen / Rooster</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κότα / Κόκορας</skos:prefLabel>
+<skos:altLabel xml:lang="en">Hen</skos:altLabel>
+<skos:altLabel xml:lang="el">Πετεινός</skos:altLabel>
+<skos:altLabel xml:lang="en">Chicken</skos:altLabel>
+<skos:altLabel xml:lang="el">Κόκορας</skos:altLabel>
+<skos:altLabel xml:lang="en">Rooster</skos:altLabel>
+<skos:altLabel xml:lang="en">Cock</skos:altLabel>
+<skos:altLabel xml:lang="el">Κότα</skos:altLabel>
+<skos:altLabel xml:lang="el">Όρνιθα</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001055"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Κότα / Κόκορας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Hen / Rooster</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001056"><skos:prefLabel xml:lang="el">Κύκνος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Swan</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001056"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Κύκνος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Swan</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000005"><skos:prefLabel xml:lang="el">Ερπετό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Reptile</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001053"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001037"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001114"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001107"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001116"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001094"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000005"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000006"><skos:prefLabel xml:lang="el">Αμφίβιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Amphibian</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001015"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001092"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000006"><rdfs:label xml:lang="el">Ζώα ▶ Αμφίβιο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Amphibian</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001059"><skos:prefLabel xml:lang="en">Leopard</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λεοπάρδαλη</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001059"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Λεοπάρδαλη</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Leopard</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000003"><skos:prefLabel xml:lang="el">Πουλί</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bird</skos:prefLabel>
+<skos:altLabel xml:lang="el">Πτηνό</skos:altLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001022"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001066"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001085"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001020"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001042"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001069"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001004"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001023"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001024"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001046"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001101"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001049"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001028"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001105"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001109"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001050"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001054"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001076"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001055"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001077"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001110"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001074"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001113"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001056"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001079"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001115"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001080"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001083"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001081"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001082"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000003"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000004"><skos:prefLabel xml:lang="en">Fish</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψάρι</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001047"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001112"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000004"><rdfs:label xml:lang="el">Ζώα ▶ Ψάρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Fish</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000009"><skos:prefLabel xml:lang="en">Crustacean</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καρκινοειδές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000007"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001012"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001045"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001040"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000009"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Καρκινοειδές</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Crustacean</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000007"><skos:prefLabel xml:lang="el">Αρθρόποδο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Arthropod</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001098"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001008"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000000008"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000000009"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000007"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000008"><skos:prefLabel xml:lang="en">Insect</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Έντομο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000007"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001096"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001064"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001005"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001084"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001070"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001060"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000008"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Έντομο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Insect</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001060"><skos:prefLabel xml:lang="en">Dragonfly</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λιβελούλα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000008"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001060"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Έντομο ▶ Λιβελούλα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Insect ▶ Dragonfly</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001061"><skos:prefLabel xml:lang="en">Lion</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λιοντάρι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001061"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Λιοντάρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Lion</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001064"><skos:prefLabel xml:lang="en">Bee</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μέλισσα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000008"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001064"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Έντομο ▶ Μέλισσα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Insect ▶ Bee</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001065"><skos:prefLabel xml:lang="en">Monkey</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μαϊμού</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001065"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Μαϊμού</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Monkey</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001062"><skos:prefLabel xml:lang="el">Λύγκας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lynx</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001062"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Λύγκας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Lynx</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001063"><skos:prefLabel xml:lang="en">Wolf</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λύκος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001063"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Λύκος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Wolf</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001068"><skos:prefLabel xml:lang="en">Baboon</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μπαμπουίνος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000001078"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001068"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Πίθηκος ▶ Μπαμπουίνος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Ape ▶ Baboon</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001101"><skos:prefLabel xml:lang="el">Στρουθοκάμηλος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ostrich</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001101"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Στρουθοκάμηλος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Ostrich</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001102"><skos:prefLabel xml:lang="el">Τάρανδος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Reindeer</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001102"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Τάρανδος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Reindeer</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001069"><skos:prefLabel xml:lang="en">Woodcock</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μπεκάτσα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001069"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Μπεκάτσα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Woodcock</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001066"><skos:prefLabel xml:lang="el">Μελισσοφάγος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bee-eater</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001066"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Μελισσοφάγος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Bee-eater</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000000010"><skos:prefLabel xml:lang="el">Μαλάκιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mollusc</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001014"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001117"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001071"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001093"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000000010"><rdfs:label xml:lang="el">Ζώα ▶ Μαλάκιο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mollusc</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001067"><skos:prefLabel xml:lang="el">Μουλάρι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mule</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001067"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Μουλάρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Mule</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001100"><skos:prefLabel xml:lang="el">Σκύλος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Dog</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001100"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Σκύλος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Dog</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001105"><skos:prefLabel xml:lang="el">Τσαλαπετεινός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hoopoe</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001105"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Τσαλαπετεινός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Hoopoe</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001106"><skos:prefLabel xml:lang="el">Φάλαινα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Whale</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001106"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Φάλαινα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Whale</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001103"><skos:prefLabel xml:lang="el">Τίγρη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Tiger</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001103"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Τίγρη</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Tiger</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001109"><skos:prefLabel xml:lang="en">Pheasant</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φασιανός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001109"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Φασιανός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Pheasant</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001107"><skos:prefLabel xml:lang="el">Φίδι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Snake</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000005"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001107"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό ▶ Φίδι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile ▶ Snake</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001108"><skos:prefLabel xml:lang="el">Φανταστικό ζώο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mythical animal</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001108"><rdfs:label xml:lang="el">Ζώα ▶ Φανταστικό ζώο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mythical animal</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001071"><skos:prefLabel xml:lang="en">Mussel</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μύδι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000010"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001071"><rdfs:label xml:lang="el">Ζώα ▶ Μαλάκιο ▶ Μύδι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mollusc ▶ Mussel</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001072"><skos:prefLabel xml:lang="el">Νυφίτσα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Weasel</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001072"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Νυφίτσα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Weasel</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001070"><skos:prefLabel xml:lang="el">Μύγα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Fly</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000008"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001070"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Έντομο ▶ Μύγα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Insect ▶ Fly</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001031"><skos:prefLabel xml:lang="en">Otter</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ενυδρίδα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001031"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ενυδρίδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Otter</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001032"><skos:prefLabel xml:lang="en">Zebra</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ζέβρα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001032"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ζέβρα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Zebra</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001030"><skos:prefLabel xml:lang="el">Ελέφαντας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Elephant</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001030"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ελέφαντας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Elephant</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001035"><skos:prefLabel xml:lang="el">Θαλάσσια χελώνα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sea turtle</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000001116"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001035"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό ▶ Χελώνα ▶ Θαλάσσια χελώνα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile ▶ Turtle ▶ Sea turtle</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001036"><skos:prefLabel xml:lang="el">Θαλάσσιος ελέφαντας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Elephant seal</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001036"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Θαλάσσιος ελέφαντας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Elephant seal</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001033"><skos:prefLabel xml:lang="el">Ζαρκάδι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Roe deer</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001033"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ζαρκάδι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Roe deer</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001034"><skos:prefLabel xml:lang="el">Θαλάσσια αγελάδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sea cow</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001034"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Θαλάσσια αγελάδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Sea cow</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001039"><skos:prefLabel xml:lang="el">Κάστορας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Beaver</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001039"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Κάστορας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Beaver</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001037"><skos:prefLabel xml:lang="el">Ιγκουάνα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Iguana</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000005"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001037"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό ▶ Ιγκουάνα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile ▶ Iguana</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001038"><skos:prefLabel xml:lang="el">Ιπποπόταμος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hippopotamus</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001038"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ιπποπόταμος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Hippopotamus</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001042"><skos:prefLabel xml:lang="en">Cassowary</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καζουάριος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001042"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Καζουάριος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Cassowary</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001043"><skos:prefLabel xml:lang="en">Camel</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καμήλα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001043"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Καμήλα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Camel</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001040"><skos:prefLabel xml:lang="en">Crab</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καβούρι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000009"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001040"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Καρκινοειδές ▶ Καβούρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Crustacean ▶ Crab</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001041"><skos:prefLabel xml:lang="el">Καγκουρό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Kangaroo</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001041"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Καγκουρό</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Kangaroo</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001046"><skos:prefLabel xml:lang="en">Nutcracker</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καρυοθραύστης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001046"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Καρυοθραύστης</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Nutcracker</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001047"><skos:prefLabel xml:lang="en">Shark</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καρχαρίας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000004"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001047"><rdfs:label xml:lang="el">Ζώα ▶ Ψάρι ▶ Καρχαρίας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Fish ▶ Shark</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001044"><skos:prefLabel xml:lang="en">Giraffe</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καμηλοπάρδαλη</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001044"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Καμηλοπάρδαλη</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Giraffe</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001045"><skos:prefLabel xml:lang="el">Καραβίδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Crayfish</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000009"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001045"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Καρκινοειδές ▶ Καραβίδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Crustacean ▶ Crayfish</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001048"><skos:prefLabel xml:lang="el">Κατσίκα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Goat</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001048"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Κατσίκα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Goat</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001049"><skos:prefLabel xml:lang="en">Hummingbird</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κολίμπρι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001049"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Κολίμπρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Hummingbird</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001050"><skos:prefLabel xml:lang="en">Owl</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κουκουβάγια</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001050"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Κουκουβάγια</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Owl</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001097"><skos:prefLabel xml:lang="el">Σκαντζόχοιρος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hedgehog</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001097"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Σκαντζόχοιρος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Hedgehog</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001010"><skos:prefLabel xml:lang="el">Αρμαντίλο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Armadillo</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001010"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Αρμαντίλο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Armadillo</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001098"><skos:prefLabel xml:lang="en">Scorpion</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σκορπιός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000007"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001098"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Σκορπιός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Scorpion</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001095"><skos:prefLabel xml:lang="el">Σκίουρος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Squirrel</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001095"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Σκίουρος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Squirrel</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001096"><skos:prefLabel xml:lang="el">Σκαθάρι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Beetle</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000008"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001096"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Έντομο ▶ Σκαθάρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Insect ▶ Beetle</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001013"><skos:prefLabel xml:lang="el">Αστερίας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Starfish</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001013"><rdfs:label xml:lang="el">Ζώα ▶ Αστερίας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Starfish</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001014"><skos:prefLabel xml:lang="el">Αχιβάδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Clam</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000010"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001014"><rdfs:label xml:lang="el">Ζώα ▶ Μαλάκιο ▶ Αχιβάδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mollusc ▶ Clam</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001011"><skos:prefLabel xml:lang="en">Badger</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ασβός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001011"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ασβός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Badger</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001099"><skos:prefLabel xml:lang="en">Worm</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σκουλίκι</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001099"><rdfs:label xml:lang="el">Ζώα ▶ Σκουλίκι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Worm</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001012"><skos:prefLabel xml:lang="el">Αστακός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lobster</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000009"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001012"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Καρκινοειδές ▶ Αστακός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Crustacean ▶ Lobster</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001017"><skos:prefLabel xml:lang="el">Βραδύπους</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sloth</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001017"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Βραδύπους</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Sloth</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001018"><skos:prefLabel xml:lang="en">Cat</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γάτα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001018"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Γάτα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Cat</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001015"><skos:prefLabel xml:lang="en">Frog</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βάτραχος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000006"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001015"><rdfs:label xml:lang="el">Ζώα ▶ Αμφίβιο ▶ Βάτραχος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Amphibian ▶ Frog</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001016"><skos:prefLabel xml:lang="en">Bison</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βίσωνας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001016"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Βίσωνας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Bison</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001019"><skos:prefLabel xml:lang="en">Gazelle</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γαζέλα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001019"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Γαζέλα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Gazelle</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001020"><skos:prefLabel xml:lang="en">Turkey</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γαλοπούλα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001020"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Γαλοπούλα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Turkey</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001021"><skos:prefLabel xml:lang="el">Γαϊδούρι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Donkey</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001021"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Γαϊδούρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Donkey</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001024"><skos:prefLabel xml:lang="el">Γλάρος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Seagull</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001024"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Γλάρος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Seagull</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001025"><skos:prefLabel xml:lang="en">Gorilla</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γορίλας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000001078"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001025"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Πίθηκος ▶ Γορίλας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Ape ▶ Gorilla</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001022"><skos:prefLabel xml:lang="el">Γεράκι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Falcon</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001022"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Γεράκι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Falcon</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001023"><skos:prefLabel xml:lang="en">Crane</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γερανός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001023"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Γερανός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Crane</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001028"><skos:prefLabel xml:lang="en">Woodpecker</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δρυοκολάπτης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001028"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Δρυοκολάπτης</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Woodpecker</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001029"><skos:prefLabel xml:lang="en">Deer</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ελάφι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001029"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ελάφι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Deer</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001026"><skos:prefLabel xml:lang="en">Pig</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γουρούνι</skos:prefLabel>
+<skos:altLabel xml:lang="el">Χοίρος</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001026"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Γουρούνι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Pig</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001027"><skos:prefLabel xml:lang="el">Δελφίνι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Dolphin</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001027"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Δελφίνι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Dolphin</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001075"><skos:prefLabel xml:lang="el">Ουρακοτάγκος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Orangutan</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000001078"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001075"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Πίθηκος ▶ Ουρακοτάγκος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Ape ▶ Orangutan</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001076"><skos:prefLabel xml:lang="el">Πάπια</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Duck</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001076"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Πάπια</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Duck</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001073"><skos:prefLabel xml:lang="el">Νυχτερίδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bat</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001073"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Νυχτερίδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Bat</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001074"><skos:prefLabel xml:lang="en">Quail</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ορτύκι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001074"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Ορτύκι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Quail</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001079"><skos:prefLabel xml:lang="en">Peacock</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παγώνι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001079"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Παγώνι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Peacock</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001112"><skos:prefLabel xml:lang="en">Eel</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χέλι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000004"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001112"><rdfs:label xml:lang="el">Ζώα ▶ Ψάρι ▶ Χέλι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Fish ▶ Eel</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001113"><skos:prefLabel xml:lang="en">Goose</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χήνα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001113"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Χήνα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Goose</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001077"><skos:prefLabel xml:lang="en">Partridge</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πέρδικα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001077"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Πέρδικα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Partridge</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001110"><skos:prefLabel xml:lang="el">Φλαμίνγκο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Flamingo</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001110"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Φλαμίνγκο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Flamingo</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001078"><skos:prefLabel xml:lang="en">Ape</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πίθηκος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001075"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001025"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001068"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001078"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Πίθηκος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Ape</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001111"><skos:prefLabel xml:lang="en">Seal</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φώκια</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001111"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Φώκια</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Seal</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001116"><skos:prefLabel xml:lang="el">Χελώνα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Turtle</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000005"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/common_animals/7000001035"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001116"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό ▶ Χελώνα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile ▶ Turtle</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001117"><skos:prefLabel xml:lang="el">Χταπόδι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Octopus</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000010"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001117"><rdfs:label xml:lang="el">Ζώα ▶ Μαλάκιο ▶ Χταπόδι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mollusc ▶ Octopus</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001114"><skos:prefLabel xml:lang="en">Chameleon</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χαμαιλεόντας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000005"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001114"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό ▶ Χαμαιλεόντας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile ▶ Chameleon</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001115"><skos:prefLabel xml:lang="el">Χελιδόνι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Swallow</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001115"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Χελιδόνι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Swallow</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001118"><skos:prefLabel xml:lang="el">Ύαινα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hyena</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001118"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ύαινα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Hyena</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001082"><skos:prefLabel xml:lang="el">Πελεκάνος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pelican</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001082"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Πελεκάνος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Pelican</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001083"><skos:prefLabel xml:lang="el">Περιστέρι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pigeon</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001083"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Περιστέρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Pigeon</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001080"><skos:prefLabel xml:lang="el">Παπαγάλος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Parrot</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001080"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Παπαγάλος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Parrot</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001081"><skos:prefLabel xml:lang="en">Stork</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πελαργός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001081"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Πελαργός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Stork</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001086"><skos:prefLabel xml:lang="en">Platypus</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πλατύποδας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001086"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Πλατύποδας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Platypus</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001087"><skos:prefLabel xml:lang="el">Πολική αρκούδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Polar bear</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001087"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Πολική αρκούδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Polar bear</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001084"><skos:prefLabel xml:lang="el">Πεταλούδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Butterfly</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000008"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001084"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Έντομο ▶ Πεταλούδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Insect ▶ Butterfly</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001085"><skos:prefLabel xml:lang="el">Πετεινός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Cock</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001055"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Κότα / Κόκορας</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Hen / Rooster</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001002"><skos:prefLabel xml:lang="el">Αγελάδα / Ταύρος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Cow / Bull</skos:prefLabel>
+<skos:altLabel xml:lang="el">Αγελάδα</skos:altLabel>
+<skos:altLabel xml:lang="en">Cow</skos:altLabel>
+<skos:altLabel xml:lang="en">Bull</skos:altLabel>
+<skos:altLabel xml:lang="el">Βόδι</skos:altLabel>
+<skos:altLabel xml:lang="el">Ταύρος</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001002"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Αγελάδα / Ταύρος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Cow / Bull</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001003"><skos:prefLabel xml:lang="el">Αγριογούρουνο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Wild boar</skos:prefLabel>
+<skos:altLabel xml:lang="el">Αγριόχοιρος</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001003"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Αγριογούρουνο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Wild boar</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001088"><skos:prefLabel xml:lang="en">Mouse</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ποντίκι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001088"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ποντίκι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Mouse</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001001"><skos:prefLabel xml:lang="en">Horse</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Άλογο</skos:prefLabel>
+<skos:altLabel xml:lang="el">Ίππος</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001001"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Άλογο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Horse</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001089"><skos:prefLabel xml:lang="el">Πρόβατο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sheep</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001089"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Πρόβατο</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Sheep</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001006"><skos:prefLabel xml:lang="el">Αλεπού</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Fox</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001006"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Αλεπού</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Fox</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001007"><skos:prefLabel xml:lang="el">Αλπάκα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Alpaca</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001007"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Αλπάκα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Alpaca</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001004"><skos:prefLabel xml:lang="el">Αετός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Eagle</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000003"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001004"><rdfs:label xml:lang="el">Ζώα ▶ Πουλί ▶ Αετός</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Bird ▶ Eagle</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001005"><skos:prefLabel xml:lang="en">Grasshopper</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ακρίδα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000008"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001005"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Έντομο ▶ Ακρίδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Insect ▶ Grasshopper</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001008"><skos:prefLabel xml:lang="el">Αράχνη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Spider</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000007"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001008"><rdfs:label xml:lang="el">Ζώα ▶ Αρθρόποδο ▶ Αράχνη</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Arthropod ▶ Spider</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001009"><skos:prefLabel xml:lang="el">Αρκούδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bear</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001009"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Αρκούδα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Bear</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001090"><skos:prefLabel xml:lang="en">Raccoon</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ρακούν</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001090"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ρακούν</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Raccoon</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001093"><skos:prefLabel xml:lang="el">Σαλιγκάρι</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Snail</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000010"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001093"><rdfs:label xml:lang="el">Ζώα ▶ Μαλάκιο ▶ Σαλιγκάρι</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mollusc ▶ Snail</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001094"><skos:prefLabel xml:lang="en">Lizard</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σαύρα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000005"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001094"><rdfs:label xml:lang="el">Ζώα ▶ Ερπετό ▶ Σαύρα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Reptile ▶ Lizard</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001091"><skos:prefLabel xml:lang="en">Rhinoceros</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ρινόκερος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000002"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001091"><rdfs:label xml:lang="el">Ζώα ▶ Θηλαστικό ▶ Ρινόκερος</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Mammal ▶ Rhinoceros</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/common_animals/7000001092"><skos:prefLabel xml:lang="en">Salamander</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σαλαμάνδρα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/common_animals/7000000006"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/thematic_tags/7000001092"><rdfs:label xml:lang="el">Ζώα ▶ Αμφίβιο ▶ Σαλαμάνδρα</rdfs:label>
+<rdfs:label xml:lang="en">Animals ▶ Amphibian ▶ Salamander</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+</rdf:RDF>
