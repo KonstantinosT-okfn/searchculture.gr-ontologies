@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/CatRISv3ProviderLifeCycleStatus"><dc:title xml:lang="en">Provider Life Cycle Status</dc:title>
+<dc:description xml:lang="en">Current status of the Provider/Research infrastucture life-cycle.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-30T12:49:06</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/546349131"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/1040856773"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/664017787"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/670924285"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/546349131"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLifeCycleStatus"/>
+<skos:prefLabel xml:lang="en">Being Upgraded</skos:prefLabel>
+<skos:definition xml:lang="en">The Research Infrastructure is currently being upgraded. It is probable that many services are in containment or unavailable.</skos:definition>
+<dc:identifier>provider_life_cycle_status-being_upgraded</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/1040856773"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLifeCycleStatus"/>
+<skos:prefLabel xml:lang="en">Under Construction</skos:prefLabel>
+<skos:definition xml:lang="en">The Research Infrastructure is under construction.</skos:definition>
+<dc:identifier>provider_life_cycle_status-under_construction</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/664017787"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLifeCycleStatus"/>
+<skos:prefLabel xml:lang="en">Operational</skos:prefLabel>
+<skos:definition xml:lang="en">Τhe Research Infrastructure is constructed and all operations are being offered.</skos:definition>
+<dc:identifier>provider_life_cycle_status-operational</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLifeCycleStatus/670924285"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLifeCycleStatus"/>
+<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+<dc:identifier>provider_life_cycle_status-other</dc:identifier>
+</skos:Concept>
+</rdf:RDF>
