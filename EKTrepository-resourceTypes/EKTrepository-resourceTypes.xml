@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/EKTrepository-resourceTypes"><dc:title xml:lang="en">EKT Repository Types</dc:title>
+<dc:title xml:lang="el">Τύποι Αποθετηρίου ΕΚΤ</dc:title>
+<dc:creator xml:lang="en">National Documentation Center (EKT)</dc:creator>
+<dc:creator xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</dc:creator>
+<dc:contributor xml:lang="el">Μπάρτζη, Κατερίνα</dc:contributor>
+<dc:description xml:lang="el">Οι «Τύποι Αποθετηρίου ΕΚΤ» είναι ένα δίγλωσσο, ιεραρχικό λεξιλόγιο που αναπτύχθηκε από το ΕΚΤ στο πλαίσιο ανάπτυξης του ιδρυματικού του αποθετηρίου «Αριάδνη».
+
+Το λεξιλόγιο ορίζει όρους που προσδιορίζουν το είδος περιεχομένου επιστημονικών και ερευνητικών πόρων. Οι όροι τεκμηριώνονται με ορισμούς, εναλλακτικές ονομασίες, σχέσεις ιεραρχίας με στενότερους και ευρύτερους όρους και συνδέσεις αντιστοιχίσεων με τύπους πόρων άλλων ανοιχτών λεξιλογίων, όπως το Resource Type vocabulary του COAR, τον θησαυρό Art &amp; Architecture Thesaurus του ιδρύματος Getty, το LC Genre/Form Terms (LCGFT) της Βιβλιοθήκης του Κογκρέσου.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-28T13:09:06</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1500568043"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/103368732"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1562459354"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/887413778"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/478598210"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1186885241"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/845176255"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1822532873"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1893487244"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1706939404"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/670565730"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/545630110"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/2104524140"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1931831143"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1818804983"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/700163109"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1965908385"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1761229702"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/321500160"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/958195756"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1293690136"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/360681555"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1981073616"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/392187558"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/2011970682"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1349733865"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/306869226"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/610514820"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1994574905"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1765501124"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/596231662"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1315720591"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/541140624"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/186364474"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/182780982"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/501435978"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/800666165"><skos:prefLabel xml:lang="el">Διαδικτυακή εφαρμογή</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Web application</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1965908385"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300410446"><rdfs:label xml:lang="el">web apps</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1500568043"><skos:prefLabel xml:lang="en">Web portal</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δικτυακή πύλη</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/516978456"><skos:prefLabel xml:lang="en">Book review</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιβλιοκρισία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/478598210"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_ba08"><rdfs:label xml:lang="en">Book review</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1144966137"><skos:prefLabel xml:lang="el">Εκτύπωση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Print</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/182780982"/>
+<skos:definition xml:lang="el">Εικόνες που σχηματίζονται με αναπαραγωγή από τη μία επιφάνεια ή πηγή στην άλλη. Συνήθως δημιουργούνται με μελάνι.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2017027255"><rdfs:label xml:lang="el">Prints</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1963028636"><skos:prefLabel xml:lang="el">Ζωτικά στατιστικά</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Vital statistics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1751838611"/>
+<skos:definition xml:lang="el">Επίσημα δημόσια δεδομένα γεννήσεων, θανάτων, γάμων, διαζυγίων και άλλων γεγονότων που έχουν σχέση με τη ζωή.</skos:definition>
+<skos:definition xml:lang="en">Official public records of births, deaths, marriages, divorces, and other life events.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026207"><rdfs:label xml:lang="el">Vital statistics</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/467257983"><skos:prefLabel xml:lang="en">Poster</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αφίσα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/182780982"/>
+<skos:definition xml:lang="el">Εικονογραφημένα έργα που αναρτούνται για να διαφημίσουν, να προωθήσουν ή να δημοσιοποιήσουν μια δραστηριότητα, ένα προϊόν ή μία υπηρεσία.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026152"><rdfs:label>Posters</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300027221"><rdfs:label xml:lang="el">posters</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/333241722"><skos:prefLabel xml:lang="en">Union catalogue</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ενιαίος κατάλογος</skos:prefLabel>
+<skos:altLabel xml:lang="el">Συλλογικός κατάλογος</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1653691974"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026205"><rdfs:label xml:lang="el">Union catalogs</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/252000576"><skos:prefLabel xml:lang="el">Συνάντηση εργασίας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Working meeting</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1998722521"><skos:prefLabel xml:lang="el">Ιατρική στατιστική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Medical statistics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1751838611"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2019026082"><rdfs:label xml:lang="el">Medical statistics</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1397169993"><skos:prefLabel xml:lang="el">Βιοστατιστικά</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Biostatistics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1751838611"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2019026081"><rdfs:label xml:lang="el">Biostatistics</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1363164768"><skos:prefLabel xml:lang="el">Σεμινάριο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Seminar</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1474895066"/>
+<skos:definition xml:lang="en">Use generally for conferences or courses of instruction for specialists. Use in an academic context for meetings of small groups of advanced students studying a subject in depth under a professor, each student doing some original research, and all exchanging results. (source:http://vocab.getty.edu/page/aat/300069755)</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300069755"><rdfs:label xml:lang="el">seminars</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/103368732"><skos:prefLabel xml:lang="en">Article</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Άρθρο</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1017094458"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/43523713"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/711506516"/>
+<skos:definition xml:lang="el">Composition prepared for publication as an independent portion of a magazine, newspaper, encyclopedia, or other work. (source: MARC http://id.loc.gov/vocabulary/marcgt/art)</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300048715"><rdfs:label>articles</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/vocabulary/marcgt/art"><rdfs:label xml:lang="el">article</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1650280967"><skos:prefLabel xml:lang="el">Προδιαγραφές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Guidelines</skos:prefLabel>
+<skos:altLabel xml:lang="el">Κατευθυντήριες γραμμές</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:definition xml:lang="el">Βέλτιστες πρακτικές σχετικά με μια διαδικασία, μια δραστηριότητα ή ένα θέμα.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300027029"><rdfs:label xml:lang="el">guidelines</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1767461485"><skos:prefLabel xml:lang="en">Doctoral thesis</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διδακτορική διατριβή</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1186885241"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_db06"><rdfs:label xml:lang="en">Doctoral thesis</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/612447968"><skos:prefLabel xml:lang="el">Ερευνητική έκθεση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Research report</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+<skos:definition xml:lang="el">Περιγράφει τα αποτελέσματα ενός ερευνητικού έργου ή παρέχει μιας εις βάθος μελέτη ενός επιστημονικού ζητήματος (επιστημονικές παρατηρήσεις πάνω σε ένα ζήτημα).</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_18ws"><rdfs:label xml:lang="en">Research report</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/972597555"><skos:prefLabel xml:lang="el">Ερωτηματολόγιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Questionnaire</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:definition xml:lang="el">Έγγραφα με ερωτήσεις που υποβάλλονται σε έναν αριθμό ατόμων προκειμένου να ληφθούν στατιστικές πληροφορίες.</skos:definition>
+<skos:definition xml:lang="en">Documents containing a set of questions for submission to a number of persons in order to obtain statistically useful information. source: http://vocab.getty.edu/page/aat/300027265</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300027265"><rdfs:label xml:lang="el">questionnaires</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1562459354"><skos:prefLabel xml:lang="el">Γεωχωρικά δεδομένα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Geospatial data</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026297"><rdfs:label xml:lang="el">Geospatial data</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/887413778"><skos:prefLabel xml:lang="el">Στατιστικός χάρτης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Statistical map</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026610"><rdfs:label xml:lang="el">Statistical maps</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/907825847"><skos:prefLabel xml:lang="el">Εφημερίδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Newspaper</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/958195756"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_2fe3"><rdfs:label xml:lang="en">Newspaper</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1375817081"><skos:prefLabel xml:lang="en">Celebration</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εορταστική εκδήλωση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1769484602"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/543758230"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300152441"><rdfs:label xml:lang="el">celebrations</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1474895066"><skos:prefLabel xml:lang="el">Εκπαιδευτική εκδήλωση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Educational event</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1363164768"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/366232084"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1472456514"/>
+<skos:definition xml:lang="el">Εκδηλώσεις που έχουν ως σκοπό την κατάρτιση και εκπαίδευση ανθρώπων.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300069086"><rdfs:label xml:lang="el">educational events</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/478598210"><skos:prefLabel xml:lang="el">Κριτική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Review</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/516978456"/>
+<skos:definition xml:lang="el">Κριτική ενός δημοσιευμένου έργου άλλου.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_efa0"><rdfs:label xml:lang="el">review</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026168"><rdfs:label>Reviews</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1769484602"><skos:prefLabel xml:lang="en">Cultural event</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολιτιστική εκδήλωση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1375817081"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/429781375"><skos:prefLabel xml:lang="el">Δελτίο τύπου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Press release</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1761229702"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026437"><rdfs:label xml:lang="el">press releases</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1304825216"><skos:prefLabel xml:lang="en">e-info day</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διαδικτυακή ημερίδα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/266478332"><skos:prefLabel xml:lang="el">Γεωγραφική βάση δεδομένων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Geodatabase</skos:prefLabel>
+<skos:altLabel>GDB</skos:altLabel>
+<skos:altLabel xml:lang="en">GIS database</skos:altLabel>
+<skos:altLabel xml:lang="en">Geographic database</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/392187558"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026293"><rdfs:label xml:lang="el">Geodatabases</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/2010809248"><skos:prefLabel xml:lang="en">Roundtables</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Συζητήσεις στρογγυλής τραπέζης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:definition xml:lang="en">Assemblies of people with a common interest for conferences or discussions at which all participants are accorded equal status. (getty:http://vocab.getty.edu/page/aat/300404084)</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300404084"><rdfs:label xml:lang="el">roundtables</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1186885241"><skos:prefLabel xml:lang="en">Thesis</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διατριβή</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1988077695"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1767461485"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1152485780"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_46ec"><rdfs:label xml:lang="en">Thesis</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/845176255"><skos:prefLabel xml:lang="el">Βιβλίο</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1813786752"/>
+<skos:definition xml:lang="el">A non-serial publication that is complete in one volume or a designated finite number of volumes. In physical form, a book is a collection of sheets of paper, parchment or other material bound together along one edge within covers. Books are often identified with an ISBN. http://www.ukoln.ac.uk/repositories/digirep/index/Eprints_Type_Vocabulary_Encoding_Scheme#Book</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://purl.org/eprint/type/Book"><rdfs:label xml:lang="en">Book</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1871457162"><skos:prefLabel xml:lang="en">Annual report</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Έκθεση δραστηριοτήτων (Ετήσια έκθεση)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/856421011"><skos:prefLabel xml:lang="el">Γράφημα/διάγραμμα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Graph/chart</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/182780982"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/vocabulary/marcgt/cha"><rdfs:label xml:lang="el">chart</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1017094458"><skos:prefLabel xml:lang="el">Άρθρο σε εφημερίδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Newspaper article</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/103368732"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_998f"><rdfs:label xml:lang="en">Newspaper article</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1822532873"><skos:prefLabel xml:lang="en">Legislation</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νομοθέτημα</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026611"><rdfs:label xml:lang="el">Statutes and codes</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300055570"><rdfs:label>legislation (declaration of laws)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1284299057"><skos:prefLabel xml:lang="el">Έκθεση για χρηματοδότηση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Report to funding agency</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_18hj"><rdfs:label xml:lang="en">Report to funding agency</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1880243846"><skos:prefLabel xml:lang="en">Confererence poster</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αναρτημένη ανακοίνωση</skos:prefLabel>
+<skos:altLabel xml:lang="el">Poster συνεδρίου</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/306869226"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_6670"><rdfs:label xml:lang="en">Confererence poster</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1893487244"><skos:prefLabel xml:lang="el">Χρονολόγιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Timeline</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300264572"><rdfs:label xml:lang="el">timelines (chronologies)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/2005002991"><skos:prefLabel xml:lang="el">Ανάρτηση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Blog post</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1761229702"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_6947"><rdfs:label xml:lang="en">Blog post</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1706939404"><skos:prefLabel xml:lang="el">Φυλλάδιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Leaflet</skos:prefLabel>
+<skos:definition xml:lang="el">Έντυπο που αποτελείται από ένα φύλλο χαρτιού και προορίζεται κυρίως για δωρεάν διανομή.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300211825"><rdfs:label xml:lang="el">leaflets (printed works)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/767095481"><skos:prefLabel xml:lang="en">Annual Statistical Program</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ετήσιο Στατιστικό Πρόγραμμα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/670565730"><skos:prefLabel xml:lang="el">Ιστότοπος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Website</skos:prefLabel>
+<skos:altLabel xml:lang="el">Δικτυακός τόπος</skos:altLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300265431"><rdfs:label>Web sites</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_7ad9"><rdfs:label xml:lang="el">website</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1751838611"><skos:prefLabel xml:lang="el">Στατιστικές και δείκτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Statistics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1963028636"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1397169993"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1998722521"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026181"><rdfs:label xml:lang="el">Statistics</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1434140604"><skos:prefLabel xml:lang="el">Κατάλογος περιοδικών με ανοιχτή πρόσβαση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Open Access Journals catalogue</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1653691974"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/545630110"><skos:prefLabel xml:lang="en">Dataset</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σύνολο δεδομένων</skos:prefLabel>
+<skos:definition xml:lang="el">Collections of similar or related data that are usually assembled as a matter of record or for research. For electronic systems that allow data to be easily accessed, manipulated, and updated see Databases. (source: http://id.loc.gov/authorities/genreForms/gf2018026119))</skos:definition>
+<skos:definition>Συλλογές παρόμοιων ή σχετικών δεδομένων που συνήθως συγκεντρώνονται για έρευνα. Για ηλεκτρονικά συστήματα που επιτρέπουν την εύκολη πρόσβαση, χειρισμό και ενημέρωση δεδομένων χρησιμοποιείτε τον όρο "Βάση δεδομένων". (πηγή: http://id.loc.gov/authorities/genreForms/gf2018026119.html))</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2018026119"><rdfs:label xml:lang="el">Data sets</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/2104524140"><skos:prefLabel xml:lang="el">Επιχειρηματικό σχέδιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Project/Business plan</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300379867"><rdfs:label xml:lang="el">project management</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1931831143"><skos:prefLabel xml:lang="en">Diary</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ημερολόγιο</skos:prefLabel>
+<skos:altLabel xml:lang="el">Σημειωματάριο</skos:altLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026085"><rdfs:label>Diaries</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300027112"><rdfs:label xml:lang="el">diaries</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/151195023"><skos:prefLabel xml:lang="el">Μαθησιακό αντικείμενο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Learning object</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+<skos:definition xml:lang="el">Υλικό που έχει ως στόχο να μεταδώσει γνώσεις, δεξιότητες, στάσεις.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_e059"><rdfs:label xml:lang="en">Learning object</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1818804983"><skos:prefLabel xml:lang="el">Απόκομμα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Clipping</skos:prefLabel>
+<skos:definition xml:lang="en">Illustrations, pages, articles, or columns of text removed from books, newspapers, journals, or other printed sources and kept for their informational content. source: http://vocab.getty.edu/page/aat/300026867</skos:definition>
+<skos:definition xml:lang="el">Εικονογραφήσεις, σελίδες, άρθρα ή στήλες κειμένου που έχουν αφαιρεθεί από βιβλία, εφημερίδες, περιοδικά ή άλλες έντυπες πηγές και διατηρούνται για το ενημερωτικό τους περιεχόμενο.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026867"><rdfs:label xml:lang="el">clippings (information artifacts)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/700163109"><skos:prefLabel xml:lang="en">Patent</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δίπλωμα ευρεσιτεχνίας</skos:prefLabel>
+<skos:altLabel xml:lang="el">Πατέντα</skos:altLabel>
+<skos:definition xml:lang="el">Έγγραφο που παρέχει αποκλειστικά δικαιώματα στον εφευρέτη ή στον δικαιούχο μιας εφεύρεσης. Πρόκειται για τίτλο προστασίας.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_15cd"><rdfs:label xml:lang="en">Patent</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1703791343"><skos:prefLabel xml:lang="en">Lecture</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διάλεξη</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_8544"><rdfs:label xml:lang="en">Lecture</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026122"><rdfs:label>Lectures</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1965908385"><skos:prefLabel xml:lang="el">Ηλεκτρονικό σύστημα ή υπηρεσία πληροφόρησης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Online system or information service</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/800666165"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1912685976"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1521481434"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1613362968"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1177247870"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://id.loc.gov/vocabulary/marcgt/ons"><rdfs:label xml:lang="el">online system or service</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/726707556"><skos:prefLabel xml:lang="el">Ημερίδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Meeting</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1670629040"><skos:prefLabel xml:lang="el">Ενημερωτικό δελτίο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Newsletter</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/958195756"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026131"><rdfs:label xml:lang="en">Newsletters</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1657560551"><skos:prefLabel xml:lang="en">Research article</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ερευνητικό άρθρο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/711506516"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_2df8fbb1"><rdfs:label xml:lang="en">Research article</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1988077695"><skos:prefLabel xml:lang="el">Μεταπτυχιακή εργασία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Master thesis</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1186885241"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_bdcc"><rdfs:label xml:lang="en">Master thesis</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"><skos:prefLabel xml:lang="en">Report</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Έκθεση</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1871457162"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/322338865"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/342895322"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1185854052"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/612447968"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/767095481"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1284299057"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/896097581"/>
+<skos:definition xml:lang="el">Έκθεση που παρουσιάζει τα ευρήματα μιας έρευνας (με παρουσιάσεις στοιχείων, διαδικασιών ή γεγονότων).  Επίσης, η έκθεση δραστηριοτήτων ενός συλλογικού οργάνου. Γενικά, ο όρος Έκθεση/Αναφορά αφορά μια επίσημη αναφορά πληροφοριών που σχετίζεται με ένα συγκεκριμένο γεγονός ή φαινόμενο. Ενδέχεται να εκδίδεται σε τακτά χρονικά διαστήματα.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_93fc"><rdfs:label xml:lang="en">Report</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1177247870"><skos:prefLabel xml:lang="en">Digital repository</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψηφιακό αποθετήριο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1965908385"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300419319"><rdfs:label xml:lang="el">digital repositories</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1761229702"><skos:prefLabel xml:lang="en">Declaratory document</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Έγγραφο (δηλωτικό)</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/2005002991"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/429781375"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1565475898"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1282534043"/>
+<skos:definition xml:lang="el">Έγγραφο που δηλώνει, καθορίζει ή επεξηγεί κάτι, όπως τις προθέσεις ή τις αποφάσεις ενός προσώπου (φυσικού ή συλλογικού), διάφορα γεγονότα, νόμους κ.λπ.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300169672"><rdfs:label xml:lang="el">declaratory documents</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/711506516"><skos:prefLabel xml:lang="en">Scientific journal article</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Άρθρο σε επιστημονικό περιοδικό</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/103368732"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1842532230"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/883972015"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1657560551"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_6501"><rdfs:label xml:lang="en">Scientific journal article</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/321500160"><skos:prefLabel xml:lang="el">Αφιέρωμα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Special</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1653691974"><skos:prefLabel xml:lang="en">Catalogue</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κατάλογος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1595375758"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1434140604"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/333241722"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/921579761"/>
+<skos:definition xml:lang="en">Enumerations of items, such as a file of bibliographic records or a list of art objects, usually arranged systematically and with descriptive details; may be in book or pamphlet form, on cards, or online. πηγή: http://vocab.getty.edu/page/aat/300026059</skos:definition>
+<skos:definition>Λίστα αντικειμένων συνήθως διατεταγμένα συστηματικά και με περιγραφικές λεπτομέρειες π.χ. αρχείο βιβλιογραφικών εγγραφών, λίστα μουσειακών αντικειμένων. Μπορεί να είναι σε μορφή βιβλίου, φυλλαδίου, σε ηλεκτρονική ή άλλη μορφή.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026059"><rdfs:label xml:lang="el">catalogs (documents)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1565475898"><skos:prefLabel xml:lang="el">Ανακοίνωση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Announcement</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1761229702"/>
+<skos:definition xml:lang="el">Ενημερώσεις για ένα συμβάν ή άλλα νέα. Μπορεί να είναι έντυπες ή προφορικές.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026707"><rdfs:label xml:lang="el">announcements</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/958195756"><skos:prefLabel xml:lang="en">Serial publication</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περιοδική έκδοση</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1670629040"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1621248600"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/256206743"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1372016818"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/907825847"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026174"><rdfs:label xml:lang="en">Serial publication</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1293690136"><skos:prefLabel xml:lang="el">Στοιχεία απογραφής</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Census data</skos:prefLabel>
+<skos:definition xml:lang="en">Official counts of the population of a place or ethnic group that sometimes include data relating to economic and social conditions. For reports about the social, economic, health, or other characteristics of a population that are generally based on estimates calculated through sampling techniques see [Demographic surveys.] For official public records of births, deaths, marriages, divorces, and other life events see [Vital statistics.] Source: http://id.loc.gov/authorities/genreForms/gf2014026059.html</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2017026102"><rdfs:label xml:lang="el">Demographic surveys</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:relatedMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026207"><rdfs:label>Vital statistics</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026059"><rdfs:label xml:lang="el">Census data</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/360681555"><skos:prefLabel xml:lang="el">Ομιλία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Speech</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026363"><rdfs:label xml:lang="el">Speeches</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/860629314"><skos:prefLabel xml:lang="en">Conference paper</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ανακοίνωση σε συνέδριο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/306869226"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_5794"><rdfs:label xml:lang="el">conference paper</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1564810383"><skos:prefLabel xml:lang="en">Conference abstract</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περίληψη σε συνέδριο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/306869226"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1472456514"><skos:prefLabel xml:lang="en">Webinar</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διαδικτυακό σεμινάριο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1474895066"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300310218"><rdfs:label xml:lang="el">webinars</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/691894100"><skos:prefLabel xml:lang="en">Conference proceedings</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πρακτικά συνεδρίου</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/306869226"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/384691388"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_f744"><rdfs:label xml:lang="en">Conference proceedings</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/757598098"><skos:prefLabel xml:lang="en">bibliographic databases</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιβλιογραφική βάση δεδομένων</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/392187558"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300044188"><rdfs:label xml:lang="el">bibliographic databases</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1912685976"><skos:prefLabel xml:lang="en">Content infrastruture</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Υποδομή περιεχομένου</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1965908385"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/770915613"><skos:prefLabel xml:lang="en">Documentary</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ντοκιμαντέρ</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300375156"><rdfs:label xml:lang="el">documentary film</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/896097581"><skos:prefLabel xml:lang="el">Στατιστική έκθεση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Statistical report</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/337681535"><skos:prefLabel xml:lang="en">Discussions (meetings)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Συζητήσεις (συνεδριάσεων)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300404087"><rdfs:label xml:lang="el">discussions (meetings)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1399090170"><skos:prefLabel xml:lang="en">Controlled vocabulary</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ελεγχόμενο λεξιλόγιο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026070"><rdfs:label xml:lang="el">Controlled vocabularies</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1981073616"><skos:prefLabel xml:lang="el">Συνέντευξη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Interview</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026115"><rdfs:label xml:lang="el">Interviews</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/392187558"><skos:prefLabel xml:lang="el">Βάση δεδομένων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Database</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/757598098"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/266478332"/>
+<skos:definition xml:lang="el">Ηλεκτρονικό σύστημα που επιτρέπει την εύκολη πρόσβαση, χειρισμό και ενημέρωση των δεδομένων. Για συλλογές παρόμοιων ή σχετικών δεδομένων για έρευνα, χρησιμοποιείτε Σύνολο δεδομένων. (πηγή: http://id.loc.gov/authorities/genreForms/gf2014026081)</skos:definition>
+<skos:definition xml:lang="en">Electronic system that allow data to be easily accessed, manipulated, and updated. For collections of similar or related data that are usually assembled as a matter of record or for research see Data set. (source: http://id.loc.gov/authorities/genreForms/gf2014026081)</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300028543"><rdfs:label>databases</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026081"><rdfs:label xml:lang="el">Database</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/256206743"><skos:prefLabel xml:lang="el">Επιστημονικό περιοδικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Journal</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/958195756"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_0640"><rdfs:label xml:lang="en">Journal</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1710417137"><skos:prefLabel xml:lang="en">Presentation</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παρουσίαση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:definition xml:lang="el">Spoken or visual representations of information, such as speeches, demonstrations, and slide shows, for the purpose of achieving favorable visibility and persuading an audience to believe or support the presentor's ideas, projects, or goals. (http://vocab.getty.edu/page/aat/300258677)</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh99004360"><rdfs:label xml:lang="el">Poster presentations</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300258677"><rdfs:label xml:lang="el">presentations (communicative events)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1521481434"><skos:prefLabel xml:lang="en">Content aggregator</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Συσσωρευτής περιεχομένου</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1965908385"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/2011970682"><skos:prefLabel xml:lang="en">Preprint</skos:prefLabel>
+<skos:definition xml:lang="el">Προσχέδιο άρθρου, πριν από την αξιολόγηση από ομοτίμους, ακόμη και πριν από επαφή με έναν εκδότη.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_816b"><rdfs:label xml:lang="en">Preprint</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"><skos:prefLabel xml:lang="el">Εκδήλωση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Event</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1521323661"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/726707556"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/252000576"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1304825216"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1195523456"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1769484602"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/2010809248"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1710417137"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/337681535"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1474895066"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300069084"><rdfs:label xml:lang="el">events (activities)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/883972015"><skos:prefLabel xml:lang="en">Data paper</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημοσίευση δεδομένων</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/711506516"/>
+<skos:definition xml:lang="el">Επιστημονική δημοσίευση για ένα σύνολο δεδομένων ή μια ομάδα συνόλων δεδομένων. Δημοσιεύεται με peer-review μορφή σε επιστημονικό περιοδικό.</skos:definition>
+<skos:definition xml:lang="en">A scholarly publication describing a particular dataset or group of dataset, published in the form of a peer-reviewed article in a scholarly journal. source: https://en.wikipedia.org/wiki/Data_publishing#Paper</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_beb9"><rdfs:label xml:lang="el">data paper</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1595375758"><skos:prefLabel xml:lang="el">Κατάλογος επιστημονικών εκδόσεων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Catalogue of scientific publications</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1653691974"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1349733865"><skos:prefLabel xml:lang="en">Letter</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιστολή</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_0857"><rdfs:label xml:lang="en">Letter</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/43523713"><skos:prefLabel xml:lang="el">Άρθρο σε περιοδικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Magazine article</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/103368732"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/306869226"><skos:prefLabel xml:lang="el">Αντικείμενο συνεδρίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Conference object</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/691894100"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1880243846"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/860629314"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1564810383"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_c94f"><rdfs:label xml:lang="en">Conference object</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1152485780"><skos:prefLabel xml:lang="en">Bachelor thesis</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πτυχιακή εργασία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1186885241"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_7a1f"><rdfs:label xml:lang="en">Bachelor thesis</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/610514820"><skos:prefLabel xml:lang="el">Μελέτη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Research</skos:prefLabel>
+<skos:definition xml:lang="en">Recorded results of diligent and systematic inquiry or investigation into a subject made to discover or revise facts, theories, or applications. (source: http://www.getty.edu/vow/AATFullDisplay?find=&amp;logic=AND&amp;note=&amp;subjectid=300254807))</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://www.getty.edu/vow/AATFullDisplay?find=&amp;logic=AND&amp;note=&amp;subjectid=300254807"><rdfs:label xml:lang="el">research (documents)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1994574905"><skos:prefLabel xml:lang="en">Software</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λογισμικό</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1698992001"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_5ce6"><rdfs:label xml:lang="en">Software</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/835979994"><skos:prefLabel xml:lang="el">Πίνακας (με δεδομένα)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Table (Data)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:definition xml:lang="el">Δεδομένα σε μορφή κειμένου τα οποία είναι διατεταγμένα σε στήλες και σειρές. Για γραφικές αναπαρασράσεις χρησιμοποιείτε τον τύπο "Γράφημα".</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026186"><rdfs:label xml:lang="el">Tables (Data)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1765501124"><skos:prefLabel xml:lang="en">Promotional video</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Προωθητικό βίντεο</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_12ce"><rdfs:label xml:lang="en">Video recording</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1621248600"><skos:prefLabel xml:lang="el">Περιοδικό</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Magazine</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/958195756"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_2cd9"><rdfs:label xml:lang="en">Magazine</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1282534043"><skos:prefLabel xml:lang="en">Decree</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Απόφαση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1761229702"/>
+<skos:definition xml:lang="el">Διατάγματα ή αποφάσεις που εκδίδονται από μια αρχή για τη διευθέτηση ενός ζητήματος.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026925"><rdfs:label xml:lang="el">decrees</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/543758230"><skos:prefLabel xml:lang="el">Επετειακή εκδήλωση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Anniversarie</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1375817081"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300069026"><rdfs:label xml:lang="el">anniversaries</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/366232084"><skos:prefLabel xml:lang="el">Εργαστήριο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Workshop</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1474895066"/>
+<skos:definition xml:lang="el">Σεμινάρια υπό τη μορφή εργαστηρίων.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300069765"><rdfs:label xml:lang="el">workshops (seminars)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1618394848"><skos:prefLabel xml:lang="el">Συμπόσιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Symposium</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1521323661"/>
+<skos:definition xml:lang="el">Επιστημονική συνάντηση ειδικών πάνω σε ένα θέμα.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300054792"><rdfs:label xml:lang="en">symposia (conferences)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/596231662"><skos:prefLabel xml:lang="en">Working paper</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κείμενο εργασίας</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_8042"><rdfs:label xml:lang="en">Working paper</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1195523456"><skos:prefLabel xml:lang="el">Υβριδική εκδήλωση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Hybrid event</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:definition xml:lang="el">Μια υβριδικη εκδήλωση είναι ένας συνδυασμός μιας ζωντανής εκδήλωσης με εικονικά διαδικτυακά στοιχεία. Θα μπορούσε να είναι οποιοδήποτε είδος εκδήλωσης, όπως ένα συνέδριο, ένα σεμινάριο, ένα εργαστήριο. Τα οφέλη των υβριδικών εκδηλώσεων είναι ότι αυξάνει ο αριθμός των συμμετεχόντων με χαμηλό σχετικά κόστος.</skos:definition>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"><skos:prefLabel xml:lang="el">Έργο αναφοράς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Reference work</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/835979994"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/22357218"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1399090170"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1751838611"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1653691974"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1650280967"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/419706301"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1372016818"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/972597555"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1858406611"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/268668854"/>
+<skos:definition>A work to which one can refer for information. The information is intended to be found quickly when needed. Reference works are usually referred to for particular pieces of information, rather than read beginning to end. Reference works include dictionaries, encyclopedias, almanacs, atlases, bibliographies, biographical sources, catalogs such as library catalogs etc. (source: https://en.wikipedia.org/wiki/Reference_work)</skos:definition>
+<skos:definition xml:lang="el">Έργα που δεν έχουν ως κύριο σκοπό την ανάγνωση, αλλά την γρήγορη ανάκτηση πληροφοριών. Τέτοιου είδους έργα είναι οι εγκυκλοπαίδειες, τα λεξικά, οι θησαυροί, οι κατάλογοι βιβλιοθηκών κ.λπ. σε ηλεκτρονική ή έντυπη μορφή.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026165"><rdfs:label xml:lang="el">Reference works</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1315720591"><skos:prefLabel xml:lang="en">Calendar</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ημερολόγιο</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/vocabulary/marcgt/cal"><rdfs:label xml:lang="el">calendar</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/541140624"><skos:prefLabel xml:lang="en">Sound recording</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ηχογράφηση</skos:prefLabel>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300028633"><rdfs:label xml:lang="el">sound recordings</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/268668854"><skos:prefLabel xml:lang="el">Ευρετήριο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Index</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026554"><rdfs:label xml:lang="el">indexes (reference sources)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1858406611"><skos:prefLabel xml:lang="en">Demographic survey</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημογραφική έρευνα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:definition xml:lang="el">Αναφορές σχετικά με την υγεία, με κοινωνικά, οικονομικά ή άλλα χαρακτηριστικά ενός πληθυσμού που βασίζονται γενικά σε εκτιμήσεις και υπολογίζονται με δειγματοληψία.</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026059"><rdfs:label xml:lang="el">Census data</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2017026102"><rdfs:label xml:lang="el">Demographic surveys</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1613362968"><skos:prefLabel xml:lang="el">Ψηφιακός χάρτης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Digital map</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1965908385"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2011026199"><rdfs:label xml:lang="el">Digital maps</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1698992001"><skos:prefLabel xml:lang="en">Research software</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λογισμικό έρευνας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1994574905"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_c950"><rdfs:label xml:lang="en">Research software</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/342895322"><skos:prefLabel xml:lang="en">Technical report</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τεχνική έκθεση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+<skos:definition xml:lang="el">Έκθεση που καταγράφει στοιχεία και αποτελέσματα μιας συγκεκριμένης έρευνας ενός τεχνικού ή επιστημονικού ζητήματος. Περιγράφει στοιχεία της έρευνας όπως, την μεθοδολογία, τις δοκιμές και αξιολογήσεις, τα συμπεράσματα.  Η Τεχνική έκθεση καλύπτει τεχνικές πτυχές ενός ζητήματος και απευθύνεται σε κοινότητα τεχνικών (σε σχέση με την γενική «Έκθεση/Αναφορά» που συντάσσεται με τρόπο που να είναι κατανοητή από μια ευρύτερη κοινότητα).</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_18gh"><rdfs:label xml:lang="en">Technical report</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1185854052"><skos:prefLabel xml:lang="en">Project deliverable</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παραδοτέο έργου</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_18op"><rdfs:label xml:lang="en">Project deliverable</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/22357218"><skos:prefLabel xml:lang="el">Γλωσσάριο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Glossary</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:definition xml:lang="el">Αλφαβητική λίστα όρων που σχετίζονται με ένα συγκεκριμένο θέμα ή περιοχή ενδιαφέροντος, συμπεριλαμβανομένων ορισμών ή επεξηγήσεων χρήσης. (πηγή: http://vocab.getty.edu/page/aat/300026189)  )</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026086"><rdfs:label>Dictionaries</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026189"><rdfs:label xml:lang="el">glossaries</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1813786752"><skos:prefLabel xml:lang="el">Μέρος βιβλίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Book part</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/845176255"/>
+<skos:definition xml:lang="en">A defined chapter or section of a book, usually with a separate title or number. http://www.ukoln.ac.uk/repositories/digirep/index/Eprints_Type_Vocabulary_Encoding_Scheme#Book</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_3248"><rdfs:label xml:lang="en">book part</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"><skos:prefLabel xml:lang="el">Έργο για διδασκαλία/εκπαίδευση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Instructional/educational work</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1703791343"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/151195023"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1363164768"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/770915613"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/448048168"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/366232084"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1472456514"/>
+<skos:definition xml:lang="el">Έργα που έχουν ως σκοπό να μεταφέρουν γνώσεις ή και δεξιότητες.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026114"><rdfs:label xml:lang="el">Instructional and educational works</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/186364474"><skos:prefLabel xml:lang="en">Interactive resource</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διαδραστικός πόρος</skos:prefLabel>
+<skos:definition xml:lang="el">Ένας πόρος που απαιτεί αλληλεπίδραση από το χρήστη για να γίνει κατανοητός, να εκτελεστεί ή να βιωθεί. Παραδείγματα περιλαμβάνουν φόρμες σε ιστοσελίδες, μικροεφαρμογές, αντικείμενα εκμάθησης πολυμέσων, περιβάλλοντα εικονικής πραγματικότητας.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_e9a0"><rdfs:label xml:lang="en">Interactive resource</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1521323661"><skos:prefLabel xml:lang="en">Conference</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Συνέδριο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/98336237"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1618394848"/>
+<skos:definition xml:lang="el">Συναντήσεις μεταξύ ατόμων για τη συζήτηση θεμάτων κοινού ενδιαφέροντος και την επίσημη ή δημόσια ανταλλαγή απόψεων.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_c513"><rdfs:label xml:lang="en">Conference</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300054789"><rdfs:label>conferences</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/182780982"><skos:prefLabel xml:lang="el">Εικόνα (μη κινούμενη)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Image (still)</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/2048325071"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1144966137"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/856421011"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/467257983"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/470113222"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_ecc8"><rdfs:label xml:lang="en">Image</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/470113222"><skos:prefLabel xml:lang="el">Φωτογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Photograph</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/182780982"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2017027249"><rdfs:label xml:lang="el">Photographs</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1842532230"><skos:prefLabel xml:lang="el">Άρθρο ανασκόπησης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Review article</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/711506516"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_dcae04bc"><rdfs:label xml:lang="en">Review article</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/322338865"><skos:prefLabel xml:lang="el">Έκθεση πολιτικής (στρατηγική)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Policy report</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/875509950"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_186u"><rdfs:label xml:lang="en">Policy report</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/2048325071"><skos:prefLabel xml:lang="en">Greetings card</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ευχετήρια κάρτα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/182780982"/>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026778"><rdfs:label xml:lang="el">greeting cards</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/1372016818"><skos:prefLabel xml:lang="el">Επετηρίδα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Annual</skos:prefLabel>
+<skos:altLabel xml:lang="en">Yearbook</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/958195756"/>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2014026208"><rdfs:label xml:lang="el">Yearbooks</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+<skos:closeMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300026645"><rdfs:label>annuals (publications)</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/384691388"><skos:prefLabel xml:lang="en">Conference proceeding chapter</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κεφάλαιο σε πρακτικά συνεδρίου</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/691894100"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/419706301"><skos:prefLabel xml:lang="en">Bibliography</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιβλιογραφία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/788949785"/>
+<skos:closeMatch><rdf:Description rdf:about="http://purl.org/coar/resource_type/c_86bc"><rdfs:label xml:lang="en">Bibliography</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/921579761"><skos:prefLabel xml:lang="en">Library catalogue</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κατάλογος βιβλιοθήκης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/1653691974"/>
+<skos:definition xml:lang="el">Δομημένη περιγραφή του περιεχομένου βιβλιοθήκης. Μπορεί να είναι σε οποιαδήποτε μορφή.</skos:definition>
+<skos:closeMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/genreForms/gf2015026003"><rdfs:label xml:lang="el">Library catalogs</rdfs:label>
+</rdf:Description>
+</skos:closeMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/448048168"><skos:prefLabel xml:lang="en">Tutorial</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φροντιστηριακό υλικό</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/EKTrepository-resourceTypes/348791779"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/EKTrepository-resourceTypes/501435978"><skos:prefLabel xml:lang="en">Manual/Guide</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εγχειρίδιο/Οδηγός</skos:prefLabel>
+</skos:Concept>
+</rdf:RDF>
