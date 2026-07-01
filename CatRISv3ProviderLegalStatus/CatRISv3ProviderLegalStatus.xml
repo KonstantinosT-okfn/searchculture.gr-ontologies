@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/CatRISv3ProviderLegalStatus"><dc:title xml:lang="en">Provider Legal Status</dc:title>
+<dc:description xml:lang="en">Legal status of the Provider. The legal status is usually noted in the registration act/statutes. For independent legal entities (1) - legal status of the Provider. For embedded providers (2) - legal status of the hosting legal entity. It is also possible to select Not a legal entity.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-30T12:47:46</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/432641917"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1958496164"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1639836168"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1204230526"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1619850007"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1360043951"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/2071324274"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/766114040"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1530572996"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1780911386"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1565468872"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1931014246"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1458220616"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/630497030"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1865276287"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/2122543199"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1639043473"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/2090724566"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/770799034"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/558631033"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1634472521"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/432641917"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Partnership</skos:prefLabel>
+<dc:identifier>provider_legal_status-partnership</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1958496164"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Non-Governmental Organisation</skos:prefLabel>
+<dc:identifier>provider_legal_status-non_governmental_organisation</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1639836168"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Union</skos:prefLabel>
+<dc:identifier>provider_legal_status-union</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1204230526"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">European Research Infrastructure Consortium (ERIC)</skos:prefLabel>
+<dc:identifier>provider_legal_status-european_research_infrastructure_consortium</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1619850007"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">European Economic Interest Grouping</skos:prefLabel>
+<dc:identifier>provider_legal_status-european_economic_interest_grouping</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1360043951"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Non For Profit Company</skos:prefLabel>
+<dc:identifier>provider_legal_status-non_for_profit_company</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/2071324274"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Public Company</skos:prefLabel>
+<dc:identifier>provider_legal_status-public_company</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/766114040"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Consortium</skos:prefLabel>
+<dc:identifier>provider_legal_status-consortium</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1530572996"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">International or Intergovernmental Organisation or Framework</skos:prefLabel>
+<dc:identifier>provider_legal_status-international_or_intergovernmental_organisation_or_framework</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1780911386"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Foundation</skos:prefLabel>
+<dc:identifier>provider_legal_status-foundation</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1565468872"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Public Legal Entity under Private Law</skos:prefLabel>
+<dc:identifier>provider_legal_status-public_legal_entity_under_private_law</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1931014246"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Not a Legal Entity</skos:prefLabel>
+<dc:identifier>provider_legal_status-not_a_legal_entity</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1458220616"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Public Legal Entity</skos:prefLabel>
+<dc:identifier>provider_legal_status-public_legal_entity</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/630497030"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Association</skos:prefLabel>
+<dc:identifier>provider_legal_status-association</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1865276287"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Corporation</skos:prefLabel>
+<dc:identifier>provider_legal_status-corporation</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/2122543199"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Society</skos:prefLabel>
+<dc:identifier>provider_legal_status-society</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1639043473"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Trust</skos:prefLabel>
+<dc:identifier>provider_legal_status-trust</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/2090724566"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Grouping</skos:prefLabel>
+<dc:identifier>provider_legal_status-grouping</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/770799034"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Private Company</skos:prefLabel>
+<dc:identifier>provider_legal_status-private_company</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/558631033"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Self Employed</skos:prefLabel>
+<dc:identifier>provider_legal_status-self_employed</dc:identifier>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/CatRISv3ProviderLegalStatus/1634472521"><rdf:type rdf:resource="https://www.semantics.gr/authorities/schemanamespaces/catriseu#ProviderLegalStatus"/>
+<skos:prefLabel xml:lang="en">Other</skos:prefLabel>
+<dc:identifier>provider_legal_status-other</dc:identifier>
+</skos:Concept>
+</rdf:RDF>
