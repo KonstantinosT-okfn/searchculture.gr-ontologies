@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/digital-item-types"><dc:title xml:lang="en">Digital item types</dc:title>
+<dc:title xml:lang="el">Τύποι ψηφιακών αντικειμένων</dc:title>
+<dc:creator xml:lang="en">National Documentation Centre (EKT)</dc:creator>
+<dc:creator xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικόυ Περιεχομένου (ΕΚΤ)</dc:creator>
+<dc:description xml:lang="en">The vocabulary "Digital item types" is developed by the National Documentation Centre (EKT). It is hierarchical, bilingual and has been linked to Getty's Art and Architecture Thesaurus. It was created as a tool for cultural content documentation.</dc:description>
+<dc:description xml:lang="el">Το λεξιλόγιο «Τύποι ψηφιακών αντικειμένων» αναπτύσσεται από το  Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ). Είναι ιεραρχικό, δίγλωσσο και έχει διασυνδεθεί με το Θησαυρό Art and Architecture του Getty. Δημιουργήθηκε προκειμενου να χρησιμοποιηθεί για την τεκμηρίωση πολιτιστικού υλικου. 
+</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-31T10:02:23</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/digital-item-types/70760763"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/digital-item-types/2603341"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/digital-item-types/82650203"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/digital-item-types/80074991"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/digital-item-types/70075206"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1670521319"><skos:prefLabel xml:lang="en">Born-digital text</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εξαρχής ψηφιακό κείμενο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/2603341"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1110104286"><skos:prefLabel xml:lang="el">Ψηφιοποιημένη φωτογραφία (σάρωση φωτογραφίας)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Digitized photo (scanned photo)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/980233224"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/386612255"><skos:prefLabel xml:lang="en">3D model produced using handheld scanners</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τρισδιάστατο μοντέλο από σάρωση με σαρωτές χειρός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/241849153"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/70760763"><skos:prefLabel xml:lang="el">Εικόνα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Image</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/77090322"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/980233224"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/334705823"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/241849153"><skos:prefLabel xml:lang="en">3D model from scanning</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τρισδιάστατο μοντέλο από 3D σάρωση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/70075206"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/418561041"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/386612255"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/312105893"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1242778343"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/312105893"><skos:prefLabel xml:lang="en">3D model from Time-of-Flight scanning</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τρισδιάστατο μοντέλο από σάρωση με σαρωτές χρόνου πτήσης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/241849153"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/980233224"><skos:prefLabel xml:lang="en">Digitized image (scanning)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψηφιοποιημένη εικόνα (σάρωση)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/70760763"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1110104286"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1882287408"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300417380"><rdfs:label xml:lang="en">digitized images</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/702849204"><skos:prefLabel xml:lang="en">Digitized sound</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψηφιοποιημένος ήχος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/80074991"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/2603341"><skos:prefLabel xml:lang="el">Κείμενο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Text</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/164127424"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1670521319"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300263751"><rdfs:label xml:lang="en">texts (documents)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/77090322"><skos:prefLabel xml:lang="el">Φωτογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Photograph</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/70760763"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1742017693"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1221270186"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1205381725"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1625000889"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300046300"><rdfs:label xml:lang="en">photographs</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/418561041"><skos:prefLabel xml:lang="en">3D model from Phase-Shift scanning</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τρισδιάστατο μοντέλο από σάρωση με σαρωτές διαφοράς φάσης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/241849153"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1882287408"><skos:prefLabel xml:lang="el">Ψηφιοποιημένα γραφικά (σάρωση γραφικών)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Digitized graphics (scanned)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/980233224"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1242778343"><skos:prefLabel xml:lang="en">3D model produced with Laser Triangulation</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τρισδιάστατο μοντέλο από σάρωση με σαρωτές τριγωνισμού</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/241849153"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/951951115"><skos:prefLabel xml:lang="en">Mixed reality</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχείο μεικτής πραγματικότητας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/1326824538"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/334705823"><skos:prefLabel xml:lang="el">Εξαρχής ψηφιακή εικόνα</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βorn-digital image</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/70760763"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/430566775"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1332557240"/>
+<skos:broadMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300374824"><rdfs:label xml:lang="en">born digital</rdfs:label>
+</rdf:Description>
+</skos:broadMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300215302"><rdfs:label xml:lang="en">digital images</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1742017693"><skos:prefLabel xml:lang="el">Φωτογραφία από εναέρια λήψη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Aerial photography</skos:prefLabel>
+<skos:altLabel xml:lang="el">Αεροφωτογραφία</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/77090322"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/82650203"><skos:prefLabel xml:lang="en">Video</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βίντεο</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/700273992"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/346883033"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/80074991"><skos:prefLabel xml:lang="el">Ήχος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sound</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/702849204"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/344307821"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1221270186"><skos:prefLabel xml:lang="el">Πανοραμική φωτογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Panoramic photograph</skos:prefLabel>
+<skos:altLabel xml:lang="el">Φωτογραφία 360° (QTVR)</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/77090322"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300417905"><rdfs:label xml:lang="en">panoramic photographs</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/346883033"><skos:prefLabel xml:lang="en">Born-digital video</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εξαρχής ψηφιακό βίντεο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/82650203"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/344307821"><skos:prefLabel xml:lang="el">Εξαρχής ψηφιακός ήχος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Born-digital sound</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/80074991"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/70075206"><skos:prefLabel xml:lang="en">3D model</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τρισδιάστατο μοντέλο</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1326824538"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/241849153"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1299056896"><skos:prefLabel xml:lang="el">Αρχείο επαυξημένης πραγματικότητας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Augmented reality</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/1326824538"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300387555"><rdfs:label xml:lang="en">augmented reality</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/164127424"><skos:prefLabel xml:lang="el">Ψηφιοποιημένo κείμενο (σάρωση)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Digitized text (scanning)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/2603341"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1326824538"><skos:prefLabel xml:lang="en">Virtual Reality</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχείο εικονικής πραγματικότητας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/70075206"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/1299056896"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/digital-item-types/951951115"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300238469"><rdfs:label xml:lang="en">virtual reality</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/430566775"><skos:prefLabel xml:lang="el">Εξαρχής ψηφιακά γραφικά</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Born-digital graphics</skos:prefLabel>
+<skos:altLabel xml:lang="en">Computer graphics</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/334705823"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/700273992"><skos:prefLabel xml:lang="en">Digitized video</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ψηφιοποιημένo βίντεο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/82650203"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1332557240"><skos:prefLabel xml:lang="el">Εξαρχής ψηφιακή φωτογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Born-digital photograph</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/334705823"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300417379"><rdfs:label xml:lang="en">digital photographs</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1625000889"><skos:prefLabel xml:lang="en">Reflectance transformation imaging (RTI)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολυωνυμική χαρτογράφηση υφής (RTI)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/77090322"/>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/aat/300390594"><rdfs:label xml:lang="en">reflectance transformation imaging</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/digital-item-types/1205381725"><skos:prefLabel xml:lang="en">360 item photography</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περιστροφική φωτογράφιση</skos:prefLabel>
+<skos:altLabel xml:lang="en">360 spin</skos:altLabel>
+<skos:altLabel xml:lang="en">spin photography</skos:altLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/digital-item-types/77090322"/>
+</skos:Concept>
+</rdf:RDF>
