@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/searchculture-collection-types"><dc:title xml:lang="el">Κατηγορίες συλλογών searchculture.gr</dc:title>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-28T15:50:10</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-30T17:35:27</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Intangible-cultural-heritage-collection"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Historical-Collection--Archive"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Works-of-art-collection"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Cartographic-collection"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Folklore-collection"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Film-Archive"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Photo-collection"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/-Digital-Library"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Archaeological-collection"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-collection-types/Music-collection"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Intangible-cultural-heritage-collection"><skos:prefLabel xml:lang="el">Συλλογή άυλης πολιτιστικής κληρονομιάς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Intangible cultural heritage collection</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Historical-Collection--Archive"><skos:prefLabel xml:lang="el">Ιστορική / Αρχειακή συλλογή</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Historical collection / Archive</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Works-of-art-collection"><skos:prefLabel xml:lang="el">Συλλογή έργων τέχνης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Art collection</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Cartographic-collection"><skos:prefLabel xml:lang="en">Cartographic collection</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χαρτογραφική συλλογή</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Folklore-collection"><skos:prefLabel xml:lang="el">Λαογραφική συλλογή</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ethnology collection</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Film-Archive"><skos:prefLabel xml:lang="en">Film Archive</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ταινιοθήκη</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Photo-collection"><skos:prefLabel xml:lang="el">Φωτογραφική συλλογή</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Photography collection</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/-Digital-Library"><skos:prefLabel xml:lang="el">Ψηφιακή Βιβλιοθήκη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Digital Library</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Archaeological-collection"><skos:prefLabel xml:lang="en">Archaeological collection</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχαιολογική συλλογή</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-collection-types/Music-collection"><skos:prefLabel xml:lang="el">Μουσική συλλογή</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Music collection</skos:prefLabel>
+</skos:Concept>
+</rdf:RDF>
