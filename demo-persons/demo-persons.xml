@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:oadm="https://www.semantics.gr/authorities/schemanamespaces/oadm#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/"><madsrdf:PersonalName rdf:about="http://semantics.gr/authorities/demo-persons/207723232"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Stamatis, Konstantinos</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Σταμάτης, Κωνσταντίνος</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><madsrdf:variantLabel xml:lang="en">Stamatis, Kostas</madsrdf:variantLabel>
+<madsrdf:variantLabel xml:lang="el">Σταμάτης, Κώστας</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:identifiesRWO><madsrdf:RWO><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:hasIdentifier><madsrdf:Identifier><madsrdf:idScheme><rdf:Description rdf:about="http://semantics.gr/authorities/id-schemes/309116599"><rdfs:label xml:lang="en">ORCID</rdfs:label>
+</rdf:Description>
+</madsrdf:idScheme>
+<madsrdf:idValue>0000-0001-9642-7292</madsrdf:idValue>
+</madsrdf:Identifier>
+</madsrdf:hasIdentifier>
+<madsrdf:hasIdentifier><madsrdf:Identifier><madsrdf:idScheme><rdf:Description rdf:about="http://semantics.gr/authorities/id-schemes/895191059"><rdfs:label xml:lang="en">Google Scholar ID</rdfs:label>
+</rdf:Description>
+</madsrdf:idScheme>
+<madsrdf:idValue>J4aJmuIAAAAJ&amp;hl</madsrdf:idValue>
+</madsrdf:Identifier>
+</madsrdf:hasIdentifier>
+<madsrdf:hasIdentifier><madsrdf:Identifier><madsrdf:idScheme><rdf:Description rdf:about="http://semantics.gr/authorities/id-schemes/43274158"><rdfs:label xml:lang="en">Scopus ID</rdfs:label>
+</rdf:Description>
+</madsrdf:idScheme>
+<madsrdf:idValue>57203018988</madsrdf:idValue>
+</madsrdf:Identifier>
+</madsrdf:hasIdentifier>
+</madsrdf:RWO>
+</madsrdf:identifiesRWO>
+<madsrdf:hasExactExternalAuthority><rdf:Description rdf:about="https://www.scopus.com/authid/detail.uri?authorId=57203018988"><rdfs:label xml:lang="en">Stamatis, Kostas K.</rdfs:label>
+</rdf:Description>
+</madsrdf:hasExactExternalAuthority>
+<madsrdf:hasExactExternalAuthority><rdf:Description rdf:about="https://orcid.org/0000-0001-9642-7292"><rdfs:label xml:lang="en">Stamatis, Konstantinos</rdfs:label>
+</rdf:Description>
+</madsrdf:hasExactExternalAuthority>
+<schema:sameAs>https://www.linkedin.com/in/kostasstamatis/</schema:sameAs>
+</madsrdf:PersonalName>
+<madsrdf:PersonalName rdf:about="http://semantics.gr/authorities/demo-persons/1027643424"><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:authoritativeLabel xml:lang="en">Georgiadis, Haris</madsrdf:authoritativeLabel>
+<madsrdf:authoritativeLabel xml:lang="el">Γεωργιάδης, Χάρης</madsrdf:authoritativeLabel>
+<madsrdf:hasVariant><madsrdf:Variant><madsrdf:variantLabel xml:lang="en">Georgiadis, Charis</madsrdf:variantLabel>
+<madsrdf:variantLabel xml:lang="en">Georgiadis, Charalampos</madsrdf:variantLabel>
+<madsrdf:variantLabel xml:lang="en">Georgiadis, Harris</madsrdf:variantLabel>
+<madsrdf:variantLabel xml:lang="el">Γεωργιάδης, Χαράλαμπος</madsrdf:variantLabel>
+</madsrdf:Variant>
+</madsrdf:hasVariant>
+<madsrdf:identifiesRWO><madsrdf:RWO><rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Authority"/>
+<madsrdf:hasIdentifier><madsrdf:Identifier><madsrdf:idScheme><rdf:Description rdf:about="http://semantics.gr/authorities/id-schemes/43274158"><rdfs:label xml:lang="en">Scopus ID</rdfs:label>
+</rdf:Description>
+</madsrdf:idScheme>
+<madsrdf:idValue>14028235400</madsrdf:idValue>
+</madsrdf:Identifier>
+</madsrdf:hasIdentifier>
+<madsrdf:hasIdentifier><madsrdf:Identifier><madsrdf:idScheme><rdf:Description rdf:about="http://semantics.gr/authorities/id-schemes/43274158"><rdfs:label xml:lang="en">Scopus ID</rdfs:label>
+</rdf:Description>
+</madsrdf:idScheme>
+<madsrdf:idValue>57200782225</madsrdf:idValue>
+</madsrdf:Identifier>
+</madsrdf:hasIdentifier>
+<madsrdf:hasIdentifier><madsrdf:Identifier><madsrdf:idScheme><rdf:Description rdf:about="http://semantics.gr/authorities/id-schemes/309116599"><rdfs:label xml:lang="en">ORCID</rdfs:label>
+</rdf:Description>
+</madsrdf:idScheme>
+<madsrdf:idValue>0000-0003-1137-6583</madsrdf:idValue>
+</madsrdf:Identifier>
+</madsrdf:hasIdentifier>
+</madsrdf:RWO>
+</madsrdf:identifiesRWO>
+<madsrdf:hasExactExternalAuthority><rdf:Description rdf:about="https://orcid.org/0000-0003-1137-6583"><rdfs:label xml:lang="en">Georgiadis, Haris</rdfs:label>
+</rdf:Description>
+</madsrdf:hasExactExternalAuthority>
+<madsrdf:hasExactExternalAuthority><rdf:Description rdf:about="https://www.scopus.com/authid/detail.uri?authorId=57200782225"><rdfs:label xml:lang="en">Georgiadis, Haris H.</rdfs:label>
+</rdf:Description>
+</madsrdf:hasExactExternalAuthority>
+<madsrdf:hasExactExternalAuthority><rdf:Description rdf:about="https://www.scopus.com/authid/detail.uri?authorId=14028235400"><rdfs:label xml:lang="en">Georgiadis, Haris H.</rdfs:label>
+</rdf:Description>
+</madsrdf:hasExactExternalAuthority>
+</madsrdf:PersonalName>
+</rdf:RDF>
