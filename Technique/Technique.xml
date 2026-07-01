@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/Technique"><dc:title xml:lang="el">Τεχνική δημιουργίας</dc:title>
+<dc:title xml:lang="en">Creation technique</dc:title>
+<dc:creator xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</dc:creator>
+<dc:creator xml:lang="en">National Documentation Center (EKT)</dc:creator>
+<dc:description xml:lang="el">Το λεξιλόγιο παρέχει εξειδικευμένη ορολογία και περιγραφές της τεχνικής με την οποία έχουν δημιουργηθεί έργα τέχνης και άλλου τύπου αντικείμενα. Εφαρμόζεται για την περιγραφή και ανακάλυψη πολιτιστικών κυρίως πόρων.
+
+Όλοι οι όροι του λεξιλογίου συνδέονται με τον Θησαυρό για τις Τέχνες και την Αρχιτεκτονική (Art &amp; Architecture Thesaurus) του Ιδρύματος Getty και με τον θησαυρό DBpedia της Wikipedia.</dc:description>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by-sa/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-10-22T11:43:46</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Photocopying"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/269691936"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Woodcut"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Colored-pencil"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Collage"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Black-chalk"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Gouache"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/ladompogia"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Etching"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Pencil-drawing"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Linoleum"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/xrwmolithografia"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Microphotography"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Felt-tip-pen"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Printing"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Photolithography"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/Technique/Lithography"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Photocopying"><skos:prefLabel xml:lang="en">Photocopying</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φωτοαντιγραφή</skos:prefLabel>
+<skos:definition xml:lang="el">Τεχνική κατά την οποία μια μηχανή κάνει αντίγραφα εγγράφων και άλλων οπτικών εικόνων σε χαρτί ή πλαστικό φιλμ. Η πιο δημοφιλής μέθοδος είναι η ξηρογραφία (xerography), μια ξηρή διαδικασία που χρησιμοποιεί ηλεκτροστατικά φορτία σε φωτοευαίσθητο φως για να προσελκύσει πρώτα και στη συνέχεια να μεταφέρει σωματίδια γραφίτη σε χαρτί με τη μορφή μιας εικόνας.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053264"><rdfs:label xml:lang="en">Photocopying</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Photocopier"><rdfs:label xml:lang="en">Photocopier</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/269691936"><skos:prefLabel xml:lang="en">Engraving</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χαρακτικό</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053225"><rdfs:label xml:lang="el">engraving (printing process)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Woodcut"><skos:prefLabel xml:lang="en">Woodcut</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ξυλογραφία</skos:prefLabel>
+<skos:definition xml:lang="en">The technique of engraving representations on wooden surfaces.</skos:definition>
+<skos:definition xml:lang="el">Η τεχνική εγχάραξης αναπαραστάσεων σε ξύλινες επιφάνειες.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053296"><rdfs:label xml:lang="en">woodcut (process)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Woodcut"><rdfs:label xml:lang="en">Woodcut</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Colored-pencil"><skos:prefLabel xml:lang="en">Colored pencil</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Έγχρωμο μολύβι</skos:prefLabel>
+<skos:definition xml:lang="en">Pencils of colored wax or other synthetic materials instead of traditional graphite.</skos:definition>
+<skos:definition xml:lang="el">Μολύβια από χρωματιστό κερί ή άλλα συνθετικά υλικά έναντι του παραδοσιακού γραφίτη.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300022441"><rdfs:label xml:lang="en">colored pencils</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh87007531"><rdfs:label xml:lang="en">Colored pencil drawing</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Collage"><skos:prefLabel xml:lang="en">Collage</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κολάζ</skos:prefLabel>
+<skos:definition xml:lang="el">Η τεχνική δημιουργίας συνθέσεων με την συγκόλληση υλικών όπως χαρτί, ύφασμα ή φωτογραφίες σε μία επίπεδη επιφάνεια.</skos:definition>
+<skos:definition xml:lang="en">The technique of creating compositions by welding materials such as paper, cloth or photos on a flat surface.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300138699"><rdfs:label xml:lang="en">collage</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85027965"><rdfs:label xml:lang="en">Collage</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Black-chalk"><skos:prefLabel xml:lang="en">Black chalk</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μαύρη κιμωλία</skos:prefLabel>
+<skos:definition xml:lang="en">Natural chalk from carbon or shale used in the drawing process since the Renaissance.</skos:definition>
+<skos:definition xml:lang="el">Φυσική κιμωλία από άνθρακα ή σχιστόλιθο που χρησιμοποιείται στο σχέδιο από την εποχή της Αναγέννησης.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300080058"><rdfs:label xml:lang="en">black chalk</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Gouache"><skos:prefLabel xml:lang="el">Τέμπερα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Gouache</skos:prefLabel>
+<skos:definition xml:lang="el">Μέθοδος ζωγραφικής με ματ, αδιαφανές χρώμα ακουαρέλας. Η τεχνική της ζωγραφικής με γκουάς διαφέρει από αυτήν της ακουαρέλας στην χρήση των χρωμάτων λόγω διαφορετικής πυκνότητας αυτών.</skos:definition>
+<skos:definition xml:lang="en">Painting method which uses matte, opaque watercolor paint. The technique of gouache painting differs from that of watercolor painting in the use of colors due to their different density.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300404215"><rdfs:label xml:lang="en">gouache</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85056013"><rdfs:label xml:lang="en">Gouache painting</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/ladompogia"><skos:prefLabel xml:lang="el">Ελαιογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Oil painting</skos:prefLabel>
+<skos:definition xml:lang="el">Η πρακτική της ζωγραφικής μέσω λαδομπογιάς, η οποία προέρχεται από μείγμα χρωστικών ουσιών και φυτικών ελαίων. Χρονολογείται ως πρακτική από τον Μεσαίωνα.</skos:definition>
+<skos:definition xml:lang="en">The practice of painting with oil, which comes from a mixture of pigments and vegetable oils. It is dated as a practice from the Middle Ages.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300178684"><rdfs:label xml:lang="en">oil painting</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Etching"><skos:prefLabel xml:lang="el">Χαλκογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Etching</skos:prefLabel>
+<skos:definition xml:lang="en">The procedure of etching a hard metal surface, such as zinc, glass and metal, in order to create drawings.</skos:definition>
+<skos:definition xml:lang="el">Διαδικασία εγχάραξης σε επιφάνειες κάποιου σκληρού υλικού, όπως ψευδαργύρου, γυαλιού και μετάλλου, με σκοπό την δημιουργία σχεδίων.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85045046"><rdfs:label xml:lang="en">Etching</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Etching"><rdfs:label xml:lang="en">Etching</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053840"><rdfs:label xml:lang="en">etching (corroding)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Pencil-drawing"><skos:prefLabel xml:lang="en">Pencil drawing</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σχέδιο με μολύβι</skos:prefLabel>
+<skos:definition xml:lang="el">Τεχνική σχεδίασης σε δισδιάστατα υλικά, συμπεριλαμβανομένου του χαρτιού, με τη χρήση μολυβιού.</skos:definition>
+<skos:definition xml:lang="en">Drawing technique in two-dimensional materials, including paper, using pencil.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh2010105383"><rdfs:label xml:lang="en">Pencil drawing--Technique</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300410334"><rdfs:label xml:lang="en">pencil drawings</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Linoleum"><skos:prefLabel xml:lang="en">Lino-cuts</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Λινοτάπητας</skos:prefLabel>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300041393"><rdfs:label xml:lang="en">linocuts</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/xrwmolithografia"><skos:prefLabel xml:lang="el">Χρωμολιθογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Chromolithography</skos:prefLabel>
+<skos:definition xml:lang="en">The technique of lithography which depicts pictures with color on stones and plates.</skos:definition>
+<skos:definition xml:lang="el">Η τεχνική λιθογραφίας που αποτυπώνει εικόνες με χρώμα σε πέτρες και πλάκες.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85025383"><rdfs:label xml:lang="en">Chromolithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053272"><rdfs:label xml:lang="en">chromolithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Chromolithography"><rdfs:label xml:lang="en">Chromolithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Microphotography"><skos:prefLabel xml:lang="en">Microphotography</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μικροφωτογραφία</skos:prefLabel>
+<skos:definition xml:lang="el">Η μικροφωτογραφία είναι η τέχνη της δημιουργίας φωτογραφiών συρρικνωμένων σε μικροσκοπική κλίμακα.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053550"><rdfs:label xml:lang="en">microphotography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Microphotograph"><rdfs:label xml:lang="en">Microphotograph</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Felt-tip-pen"><skos:prefLabel xml:lang="el">Μαρκαδόρος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Felt-tip pen</skos:prefLabel>
+<skos:definition xml:lang="en">Pen containing ink stock of various colors that gradually transfer ink to the desired surface. They are used in writing, painting and on a number of surfaces.</skos:definition>
+<skos:definition xml:lang="el">Στυλό τα οποία περιέχουν απόθεμα μελάνης διαφόρων χρωμάτων τα οποία μεταφέρουν σταδιακά μελάνη στην επιθυμητή επιφάνεια. Χρησιμοποιούνται στην γραφή, ζωγραφική και σε πλήθος επιφανειών.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300022458"><rdfs:label xml:lang="en">felt-tip pens</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Printing"><skos:prefLabel xml:lang="en">Printing</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εκτύπωση</skos:prefLabel>
+<skos:definition xml:lang="el">Διαδικασία αναπαραγωγής πανομοιότυπων αντιγράφων γραφικής ύλης σε καθορισμένη μορφή.</skos:definition>
+<skos:definition xml:lang="en">Procedure for reproducing identical copies of stationery in a specified format.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053319"><rdfs:label xml:lang="en">printing (process)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Photolithography"><skos:prefLabel xml:lang="el">Φωτολιθογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Photolithography</skos:prefLabel>
+<skos:definition xml:lang="en">The planographic photomechanical process that shares common logic with lithography, following a process of transferring the image onto a linotype or monotype.</skos:definition>
+<skos:definition xml:lang="el">Η επιπεδοτυπική φωτομηχανική διαδικασία που φέρει κοινή λογική με την λιθογραφία ακολουθώντας μια διαδικασία μεταφοράς της εικόνας σε λινοτυπία ή μονοτυπία.</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053275"><rdfs:label xml:lang="en">photolithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://dbpedia.org/page/Photolithography"><rdfs:label xml:lang="en">Photolithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85101379"><rdfs:label xml:lang="en">Photolithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/Technique/Lithography"><skos:prefLabel xml:lang="el">Λιθογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Lithography</skos:prefLabel>
+<skos:definition xml:lang="el">Διαδικασία επιπεδοτυπίας κατά την οποία μία επιφάνεια, συνήθως πέτρα ή επιφάνεια λίπους, προσλαμβάνει μελάνι μόνο σε συγκεκριμένες περιοχές της λόγω χημικής επεξεργασίας δημιουργώντας με αυτόν τον τρόπο διάφορα μοτίβα.</skos:definition>
+<skos:definition xml:lang="en">A printing process in which a surface, usually a stone or a surface of fat, receives ink only in specific regions due to chemical treatment thereby creating various patterns.</skos:definition>
+<skos:relatedMatch><rdf:Description rdf:about="http://dbpedia.org/page/Lithography"><rdfs:label xml:lang="en">Lithography</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/subjects/sh85077598"><rdfs:label xml:lang="en">Lithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300053271"><rdfs:label xml:lang="en">lithography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+</rdf:RDF>
