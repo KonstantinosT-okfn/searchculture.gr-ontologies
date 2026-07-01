@@ -1,0 +1,2117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/LC-gr"><dc:title xml:lang="en">Library of Congress Classification - EKT Version in Greek</dc:title>
+<dc:title xml:lang="el">LC Ταξινομικό Σύστημα στα Ελληνικά</dc:title>
+<dc:creator xml:lang="en">National Documentation Center (EKT)</dc:creator>
+<dc:creator xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</dc:creator>
+<dc:description xml:lang="el">Δημοφιλείς θεματικές κατηγορίες του LC μεταφρασμένες στα Ελληνικά.</dc:description>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-06-11T13:34:30</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/naytikh-episthmh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-k"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/stratiwtikh-episthmh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/glwssa-kai-filologia"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/moysikh"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-dikaioy"><skos:prefLabel xml:lang="el">Ιστορία δικαίου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">History of law</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf#K140-165"><rdfs:label xml:lang="en">LCC: History of law [Subclass K-K140-165]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/hlektronikoi-ypologistes-episthmh-twn-ypologistwn"><skos:prefLabel xml:lang="en">Electronic computers. Computer science</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ηλεκτρονικοί υπολογιστές. Επιστήμη των υπολογιστών</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#QA75.5-76.95"><rdfs:label xml:lang="en">LCC: Electronic computers. Computer science [-QA75.5-76.95]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1532468312"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Επιστήμη Ηλεκτρονικών Υπολογιστών και Πληροφορική</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Computer and Information Sciences</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/bioxhmeia"><skos:prefLabel xml:lang="el">Βιοχημεία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Biochemistry</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/945064826"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Βασική Ιατρική ▶ Ιατρική βιοχημεία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Basic Medicine ▶ Medical Biochemistry</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD415-436"><rdfs:label xml:lang="en">LCC: Biochemistry [-Subclass QD415-436]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/maieytikh-kai-gynaikologia"><skos:prefLabel xml:lang="en">Gynecology and obstetrics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μαιευτική και γυναικολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RG1-991"><rdfs:label xml:lang="en">LCC: Gynecology and obstetrics [-Subclass RG1-991]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1688846931"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Κλινική Ιατρική ▶ Μαιευτική και Γυναικολογία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Clinical Medicine ▶ Obstetrics and Gynecology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/paidiatrikh"><skos:prefLabel xml:lang="en">Pediatrics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παιδιατρική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RJ1-570"><rdfs:label xml:lang="en">LCC: Pediatrics [-Subclass RJ1-570]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/noshleytikh"><skos:prefLabel xml:lang="en">Nursing</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νοσηλευτική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RT1-120"><rdfs:label xml:lang="en">LCC: Nursing [-Subclass RT1-120]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/2121285691"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Επιστήμες Υγείας ▶ Νοσηλευτική</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Health Sciences ▶ Nursing</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/oikologia"><skos:prefLabel xml:lang="el">Οικολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ecology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/biologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QH540-549.5"><rdfs:label xml:lang="en">LCC: Ecology [-Subclass QH540-549.5]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/fysikh-gewgrafia"><skos:prefLabel xml:lang="el">Φυσική γεωγραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Physical geography</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#GB3-5030"><rdfs:label xml:lang="en">LCC: Physical geography [Subclass GB-GB3-5030]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/trapezes"><skos:prefLabel xml:lang="el">Τράπεζες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Banking</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/xrhmatooikonomika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HG1501-3550"><rdfs:label xml:lang="en">LCC: Banking [Subclass HG-HG1501-3550]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ydatokalliergeiaixthyokalliergeia"><skos:prefLabel xml:lang="en">Aquaculture.  Fisheries.  Angling</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Υδατοκαλλιέργεια. Ιχθυοκαλλιέργεια</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-k"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_s.pdf#Subclass SH1-691"><rdfs:label xml:lang="en">LCC: Aquaculture.  Fisheries.  Angling [-Subclass SH1-691]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xhmikh-texnologia"><skos:prefLabel xml:lang="en">Chemical technolgy</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χημική τεχνολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TP1-1185"><rdfs:label xml:lang="en">LCC: Chemical technolgy [-Subclass TP1-1185]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/naytikh-episthmh"><skos:prefLabel xml:lang="en">Naval Science</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ναυτική Επιστήμη</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/naytikh-episthmh-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_v.pdf"><rdfs:label xml:lang="en">LCC: Naval Science [Class V]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mikrobiologia"><skos:prefLabel xml:lang="el">Μικροβιολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Microbiology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/iologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anosologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QR1-502"><rdfs:label xml:lang="en">LCC: Microbiology [-Subclass QR1-502]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1879170508"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Βιολογία ▶ Μικροβιολογία</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Biological sciences ▶ Microbiology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/iologia"><skos:prefLabel xml:lang="en">Virology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/mikrobiologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QR355-502"><rdfs:label xml:lang="en">LCC: Virology [-Subclass QR355-502]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/825634792"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Βιολογία ▶ Ιολογία</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Biological sciences ▶ Virology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/politikes-episthmes-genika-"><skos:prefLabel xml:lang="en">Political Science (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πολιτικές Επιστήμες (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#JA1-92"><rdfs:label xml:lang="en">LCC: Political Science (General) [Subclass JA-JA1-92]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/fysikh-genika"><skos:prefLabel xml:lang="en">Physics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φυσική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/optikh-fws"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/atomikh-fysikh-symp-moriakh-fysikh-sxetikothta-kbantikh-thewria-kai-fysikh-stereas-katastashs"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QC1-999"><rdfs:label xml:lang="en">LCC: Physics [-Subclass QC1-999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ontologia"><skos:prefLabel xml:lang="en">Ontology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οντολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BD300-450"><rdfs:label xml:lang="en">LCC: Ontology [Subclass BD-BD300-450]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/eraldikh"><skos:prefLabel xml:lang="en">Heraldry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εραλδική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CR1-6305"><rdfs:label xml:lang="en">LCC: Heraldry [Subclass CR-CR1-6305]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/periballontikh-ygeia"><skos:prefLabel xml:lang="en">Environmental health</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περιβαλλοντική υγεία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RA565-600"><rdfs:label xml:lang="en">LCC: Environmental health [-Subclass RA565-600]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anaparagwgh"><skos:prefLabel xml:lang="en">Reproduction</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αναπαραγωγή</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/biologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QH471-489"><rdfs:label xml:lang="en">LCC: Reproduction [-Subclass QH471-489]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikh-allagh"><skos:prefLabel xml:lang="en">Social change</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κοινωνική αλλαγή</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM831-901"><rdfs:label xml:lang="en">LCC: Social change [Subclass HM-HM831-901]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/iatrikh-dhmosia-ygeia"><skos:prefLabel xml:lang="el">Ιατρική-Δημόσια υγεία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Medicine - public aspects</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RA1-1270"><rdfs:label xml:lang="en">LCC: Medicine - public aspects [-Subclass RA1-1270]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/methodologia"><skos:prefLabel xml:lang="en">Methodology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μεθοδολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BD240-260"><rdfs:label xml:lang="en">LCC: Methodology [Subclass BD-BD240-260]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/arxaia-istoria"><skos:prefLabel xml:lang="el">Αρχαία Ιστορία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ancient history</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#D51-90"><rdfs:label xml:lang="en">LCC: Ancient history [Subclass D-D51-90]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/258629352"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Ιστορία και Αρχαιολογία ▶ Ιστορία ▶ Αρχαία ιστορία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ History and Archaeology ▶ History ▶ Ancient history</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/emporio"><skos:prefLabel xml:lang="en">Commerce</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εμπόριο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HF1-6182"><rdfs:label xml:lang="en">LCC: Commerce [Subclass HF-HF1-6182]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"><skos:prefLabel xml:lang="en">Geography, Anthropology, Recreation</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γεωγραφία, Ανθρωπολογία, Αναψυχή</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xartes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/hthh-kai-ethima"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anapsyxh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anthrwpologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/fysikh-gewgrafia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/periballontikes-episthmes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/folklorlaografia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf"><rdfs:label xml:lang="en">LCC: Geography, Anthropology, Recreation [Class G]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/zwgrafikh"><skos:prefLabel xml:lang="en">Painting</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ζωγραφική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/toixografia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#ND25-3416"><rdfs:label xml:lang="en">LCC: Painting [Subclass ND-ND25-3416]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/sylloges"><skos:prefLabel xml:lang="el">Συλλογές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Collections</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass Ζ662-664"><rdfs:label xml:lang="el">LCC: Collections [-Subclass Ζ662-664]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/periballontikes-episthmes"><skos:prefLabel xml:lang="en">Environmental sciences</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιστήμες περιβάλλοντος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#GE1-350"><rdfs:label xml:lang="en">LCC: Environmental sciences [Subclass GE-GE1-350]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/857626052"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Γεωεπιστήμες και Επιστήμες Περιβάλλοντος ▶ Επιστήμες περιβάλλοντος</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Earth and related Environmental Sciences ▶ Environmental Sciences</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ergasia-ergatikh-taksh"><skos:prefLabel xml:lang="en">Labor. Work. Working class</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εργασία. Εργατική τάξη</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/129301186"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Οικονομικά και Επιχειρήσεις ▶ Εργασιακές σχέσεις και Εργασία</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Economics and Business ▶ Industrial Relations and Labor</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HD4801-8943"><rdfs:label xml:lang="en">LCC: Labor. Work. Working class [Subclass HD-HD4801-8943]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/pathologia"><skos:prefLabel xml:lang="el">Παθολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pathology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RB1-214"><rdfs:label xml:lang="en">LCC: Pathology [-Subclass RB1-214]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/443443459"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Βασική Ιατρική ▶ Παθολογοανατομία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Basic Medicine ▶ Pathology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/pneymatikh-idiokthsia"><skos:prefLabel xml:lang="el">Πνευματική Ιδιοκτησία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Intellectual property</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf#K7550-7582"><rdfs:label xml:lang="en">LCC: Intellectual property [Subclass K-K7550-7582]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/statistikh"><skos:prefLabel xml:lang="en">Statistics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Στατιστική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HA1-4737"><rdfs:label xml:lang="en">LCC: Statistics [Subclass HA-HA1-4737]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/analytikh-xhmeia"><skos:prefLabel xml:lang="el">Αναλυτική χημεία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Analytical chemistry</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD71-142"><rdfs:label xml:lang="en">LCC: Analytical chemistry [-Subclass QD71-142]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/348665612"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Χημεία ▶ Αναλυτική χημεία</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Chemical sciences ▶ Analytical Chemistry</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/texnes-genika"><skos:prefLabel xml:lang="el">Τέχνες (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Arts in general</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1689702079"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#NX1-820"><rdfs:label xml:lang="en">LCC: Arts in general [Subclass NX-NX1-820]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1235402297"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Τέχνες (Τέχνες, Ιστορία της Τέχνης, Ερμηνευτικές Τέχνες, Μουσική)</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Arts (arts, history of arts, performing arts, music)</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xartes"><skos:prefLabel xml:lang="el">Χάρτες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Maps</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#G3180-9980"><rdfs:label xml:lang="en">LCC: Maps [Subclass G-G3180-9980]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-genika"><skos:prefLabel xml:lang="el">Κοινωνικές επιστήμες (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Social Sciences (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#H1-99"><rdfs:label xml:lang="en">LCC: Social Sciences (General) [Subclass H-H1-99]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/thrhskeytiko-dikaio"><skos:prefLabel xml:lang="en">Religious law in general</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θρησκευτικό δίκαιο</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf#KB1-4855"><rdfs:label xml:lang="en">LCC: Religious law in general [Subclass KB-KB1-4855]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikh-istoria-kai-synthhkes-koinwnika-problhmata-koinwnikes-metarrythmiseis"><skos:prefLabel xml:lang="en">Social history and conditions. Social problems.Social reform</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κοινωνική ιστορία και συνθήκες. Κοινωνικά προβλήματα. Κοινωνικές μεταρρυθμίσεις</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1466393864"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Κοινωνιολογία ▶ Κοινωνικά θέματα</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Sociology ▶ Social Issues</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/476062211"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Άλλες Κοινωνικές Επιστήμες ▶ Ιστορία των Κοινωνικών επιστημών</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Other Social Sciences ▶ History of Social Sciences</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HN1-995"><rdfs:label xml:lang="en">LCC: Social history and conditions. Social problems.Social reform [Subclass HN-HN1-995]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xrhsh-ths-ghs"><skos:prefLabel xml:lang="en">Land use</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χρήση της γης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HD101-1395.5"><rdfs:label xml:lang="en">LCC: Land use [Subclass HD-HD101-1395.5]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anosologia"><skos:prefLabel xml:lang="en">Immunology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ανοσολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/mikrobiologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QR180-189.5"><rdfs:label xml:lang="en">LCC: Immunology [-Subclass QR180-189.5]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1744263763"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Βασική Ιατρική ▶ Ανοσολογία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Basic Medicine ▶ Immunology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/odontiatrikh"><skos:prefLabel xml:lang="en">Dentistry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οδοντιατρική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RK1-715"><rdfs:label xml:lang="en">LCC: Dentistry [-Subclass RK1-715]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/neoterh-ellada"><skos:prefLabel xml:lang="en">Modern Greece</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νεότερη Ελλάδα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DF701-951"><rdfs:label xml:lang="en">LCC: Modern Greece [Subclass DF-DF701-951]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/fwtoxhmeia"><skos:prefLabel xml:lang="en">Photochemistry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φωτοχημεία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD701-731"><rdfs:label xml:lang="en">LCC: Photochemistry [-Subclass QD701-731]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/neoplasmata-ogkoi-ogkologia-per-karkinos-kakinogones-oysies"><skos:prefLabel xml:lang="en">Neoplasms.  Tumors.  Oncology (Incl.cancer, carcinogens)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νεοπλάσματα. Όγκοι. Ογκολογία (περ. Καρκίνος, κακινογόνες ουσίες)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/eswterikh-iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RC254-282"><rdfs:label xml:lang="en">LCC: Neoplasms.  Tumors.  Oncology (Incl.cancer, carcinogens) [-Subclass RC254-282]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ethnikismos"><skos:prefLabel xml:lang="el">Εθνικισμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Nationalism</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikh-thewria-to-kratos"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#JC311-314"><rdfs:label xml:lang="en">LCC: Nationalism [Subclass JC-JC311-314]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mathhmatika"><skos:prefLabel xml:lang="en">Mathematics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μαθηματικά</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QA1-939"><rdfs:label xml:lang="en">LCC: Mathematics [-Subclass QA1-939]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/375615523"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Μαθηματικά</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Mathematics</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ekseliksh"><skos:prefLabel xml:lang="el">Εξέλιξη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Evolution</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/biologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QH359-425"><rdfs:label xml:lang="en">LCC: Evolution [-Subclass QH359-425]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/periodika"><skos:prefLabel xml:lang="el">Περιοδικά</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Periodicals</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AP1-(271)"><rdfs:label xml:lang="en">LCC: Periodicals [Subclass AP-AP1-(271)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/kynhgi"><skos:prefLabel xml:lang="en">Hunting sports</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κυνήγι</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-k"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_s.pdf#Subclass SK1-664"><rdfs:label xml:lang="en">LCC: Hunting sports [-Subclass SK1-664]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xhmeia-genika"><skos:prefLabel xml:lang="en">Chemistry (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χημεία (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD1-65"><rdfs:label xml:lang="en">LCC: Chemistry (General) [-Subclass QD1-65]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/moysikh-119"><skos:prefLabel xml:lang="el">Μουσική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Music</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/moysikh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_m.pdf#M1-5000"><rdfs:label xml:lang="en">LCC: Music [Subclass M-M1-5000]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/metafysikh"><skos:prefLabel xml:lang="en">Metaphysics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μεταφυσική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BD95-131"><rdfs:label xml:lang="en">LCC: Metaphysics [Subclass BD-BD95-131]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/hthikh"><skos:prefLabel xml:lang="en">Ethics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ηθική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BJ1-1725"><rdfs:label xml:lang="en">LCC: Ethics [Subclass BJ-BJ1-1725]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/386348561"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Φιλοσοφία, Ηθική και Θρησκεία ▶ Ηθική</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Philosophy, Ethics and Religion ▶ Ethics</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/toyrkokratia-1453-1821"><skos:prefLabel xml:lang="el">Τουρκοκρατία, 1453-1821</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Turkish rule, 1453-1821</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DF801-801.9"><rdfs:label xml:lang="en">LCC: Turkish rule, 1453-1821 [Subclass DF-DF801-801.9]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"><skos:prefLabel xml:lang="en">Auxiliary sciences of History</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βοηθητικές επιστήμες της Ιστορίας</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/epigrafes-epigrafikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-toy-politismoy"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/diplwmatia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaies-epigrafes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sygxrones-epigrafes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/genealogia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/eraldikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaiologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikes-epigrafes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/nomismatikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sfragides"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/biografia"/>
+<skos:notation xml:lang="en">LC Class C</skos:notation>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/476062211"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Άλλες Κοινωνικές Επιστήμες ▶ Ιστορία των Κοινωνικών επιστημών</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Other Social Sciences ▶ History of Social Sciences</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf"><rdfs:label xml:lang="en">LCC: Auxiliary sciences of History  [Class C]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/naytikh-episthmh-genika"><skos:prefLabel xml:lang="el">Ναυτική Επιστήμη (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Naval Science (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/naytikh-episthmh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_v.pdf#Subclass V"><rdfs:label xml:lang="en">LCC: Naval Science (General) [-Subclass V]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ennalaktikh-iatrikh"><skos:prefLabel xml:lang="en">Botanic, Thomsonian, and eclectic medicine</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ενναλακτική ιατρική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RV1-431"><rdfs:label xml:lang="en">LCC: Botanic, Thomsonian, and eclectic medicine [-Subclass RV1-431]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-gnwshs-kai-mathhshs-anthrwpistikes-episthmes"><skos:prefLabel xml:lang="en">History of scholarship and learning. The humanities</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιστορία γνώσης και μάθησης. Ανθρωπιστικές επιστήμες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AZ(20)-999"><rdfs:label xml:lang="en">LCC: History of scholarship and learning. The humanities [Subclass AZ-AZ(20)-999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anagennhsiakh"><skos:prefLabel xml:lang="en">Renaissance</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αναγεννησιακή</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#B770-785"><rdfs:label xml:lang="en">LCC: Renaissance [Subclass B-B770-785]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mesaiwnikes-epigrafes"><skos:prefLabel xml:lang="en">Medieval Inscriptions (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μεσαιωνικές επιγραφές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/epigrafes-epigrafikh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CN755"><rdfs:label xml:lang="en">LCC: Medieval Inscriptions (General) [Subclass CN-CN755]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/gewrgia-k"><skos:prefLabel xml:lang="el">Γεωργία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Agriculture</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/kynhgi"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ydatokalliergeiaixthyokalliergeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/kalliergeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/kthnotrofia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dasokomia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_s.pdf"><rdfs:label xml:lang="en">LCC: Agriculture [Class S]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/nomismatikh"><skos:prefLabel xml:lang="el">Νομισματική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Numismatics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CJ1-6661"><rdfs:label xml:lang="en">LCC: Numismatics [Subclass CJ-CJ1-6661]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xrhma"><skos:prefLabel xml:lang="en">Money</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χρήμα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/xrhmatooikonomika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HG201-1496"><rdfs:label xml:lang="en">LCC: Money [Subclass HG-HG201-1496]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/atomikh-fysikh-symp-moriakh-fysikh-sxetikothta-kbantikh-thewria-kai-fysikh-stereas-katastashs"><skos:prefLabel xml:lang="en">Atomic physics (Incl. molecular physics, relativity, quantum theory, and solid state physics)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ατομική φυσική (συμπ. μοριακή φυσική, σχετικότητα, κβαντική θεωρία και φυσική στερεάς κατάστασης)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/fysikh-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QC170-197"><rdfs:label xml:lang="en">LCC: Atomic physics (Incl. molecular physics, relativity, quantum theory, and solid state physics) [-Subclass QC170-197]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/biografia"><skos:prefLabel xml:lang="en">Biography</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιογραφία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CT21-9999"><rdfs:label xml:lang="en">LCC: Biography [Subclass CT-CT21-9999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria"><skos:prefLabel xml:lang="en">History</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιστορία</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikh-ellada-byzantinh-aytokratoria-323-1453-"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politikh-kai-diplwmatikh-istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/neoterh-istoria-1453-"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesogeios-ellhnorwmaikos-kosmos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaia-istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/toyrkokratia-1453-1821"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-balkanikhs-xersonhsoy"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-kentrikhs-eyrwphs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/20os-aiwnas"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikh-istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/stratiwtikh-kai-naytikh-istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/neoterh-ellada"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaia-ellada"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/rwmaikh-epoxh-140-px-323476-mx"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf"><rdfs:label xml:lang="en">LCC: History [Class D]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1744568145"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Ιστορία και Αρχαιολογία ▶ Ιστορία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ History and Archaeology ▶ History</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-toy-politismoy"><skos:prefLabel xml:lang="el">Ιστορία του Πολιτισμού</skos:prefLabel>
+<skos:prefLabel xml:lang="en">History of Civilization</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1235402297"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Τέχνες (Τέχνες, Ιστορία της Τέχνης, Ερμηνευτικές Τέχνες, Μουσική)</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Arts (arts, history of arts, performing arts, music)</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CB3-482"><rdfs:label xml:lang="en">LCC: History of Civilization [Subclass CB-CB3-482]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/sfragides"><skos:prefLabel xml:lang="en">Seals</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σφραγίδες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CD5001-6471"><rdfs:label xml:lang="en">LCC: Seals [Subclass CD-CD5001-6471]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mesaiwnikh-ellada-byzantinh-aytokratoria-323-1453-"><skos:prefLabel xml:lang="el">Μεσαιωνική Ελλάδα, Βυζαντινή Αυτοκρατορία 323-1453</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Medieval Greece. Byzantine Empire, 323-1453</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DF501-649"><rdfs:label xml:lang="en">LCC: Medieval Greece. Byzantine Empire, 323-1453 [Subclass DF-DF501-649]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/sylloges-seires-ta-apanta-syggrafewn-kai-poihtwn"><skos:prefLabel xml:lang="el">Συλλογές. Σειρές. Τα Άπαντα συγγραφέων και ποιητών</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Collections.  Series.  Collected works</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AC1-999"><rdfs:label xml:lang="en">LCC: Collections.  Series.  Collected works [Subclass AC-AC1-999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/leksika-kai-alla-genika-erga-anaforas"><skos:prefLabel xml:lang="el">Λεξικά και άλλα γενικά έργα αναφοράς</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Dictionaries and other general reference works</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AG2-600"><rdfs:label xml:lang="en">LCC: Dictionaries and other general reference works [Subclass AG-AG2-600]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anapsyxh"><skos:prefLabel xml:lang="el">Αναψυχή</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Recreation.Leisure</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#GV1-1860"><rdfs:label xml:lang="en">LCC: Recreation.Leisure [Subclass GV-GV1-1860]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/politismos"><skos:prefLabel xml:lang="el">Πολιτισμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Culture</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM621-656"><rdfs:label xml:lang="en">LCC: Culture [Subclass HM-HM621-656]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/fysiologia"><skos:prefLabel xml:lang="el">Φυσιολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Physiology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QP1-(981)"><rdfs:label xml:lang="en">LCC: Physiology [-Subclass QP1-(981)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/apodhmia-kai-metanasteysh"><skos:prefLabel xml:lang="en">Emigration and immigration</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αποδημία και μετανάστευση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#JV6001-9480"><rdfs:label xml:lang="en">LCC: Emigration and immigration [Subclass JV-JV6001-9480]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anorganh-xhmeia"><skos:prefLabel xml:lang="en">Inorganic chemistry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ανόργανη χημεία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD146-197"><rdfs:label xml:lang="en">LCC: Inorganic chemistry [-Subclass QD146-197]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ekpaideysh-thewria-kai-praktikh"><skos:prefLabel xml:lang="el">Εκπαίδευση. Θεωρία και πρακτική.</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Theory and practice of education</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anwterhanwtath-ekpaideysh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/deyterobathmia-ekpaideysh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/prwtobathmia-ekpaideysh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_l.pdf#LB5-3640"><rdfs:label xml:lang="en">LCC: Theory and practice of education [Subclass LB-LB5-3640]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/gewgrafia-genika"><skos:prefLabel xml:lang="en">Geography (General).</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γεωγραφία (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#G1-922"><rdfs:label xml:lang="en">LCC: Geography (General). [Subclass G-G1-922]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/farmakeytikh-xhmeia"><skos:prefLabel xml:lang="el">Φαρμακευτική χημεία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pharmaceutical chemistry</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/farmakeytikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RS400-431"><rdfs:label xml:lang="en">LCC: Pharmaceutical chemistry [-Subclass RS400-431]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/optikh-fws"><skos:prefLabel xml:lang="en">Optics. Light</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οπτική. Φώς</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/fysikh-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/fasmatoskopia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QC350-467"><rdfs:label xml:lang="en">LCC: Optics. Light [-Subclass QC350-467]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1486793204"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Φυσική ▶ Οπτική</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Physical sciences ▶ Optics</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/biologikh-mhxanikh"><skos:prefLabel xml:lang="en">Bioengineering</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιολογική μηχανική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TA164"><rdfs:label xml:lang="en">LCC: Bioengineering [-Subclass TA164]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ekpaideysh-genika"><skos:prefLabel xml:lang="en">Education (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εκπαίδευση (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_l.pdf#L7-991"><rdfs:label xml:lang="en">LCC: Education (General) [Subclass L-L7-991]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/genika-erga"><skos:prefLabel xml:lang="el">Γενικά έργα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">General Works</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/moyseia-syllektes-kai-praktikes-sylloghs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-gnwshs-kai-mathhshs-anthrwpistikes-episthmes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/egkyklopaideies"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sylloges-seires-ta-apanta-syggrafewn-kai-poihtwn"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/eyrethria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/periodika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/leksika-kai-alla-genika-erga-anaforas"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/efhmerides"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf"><rdfs:label xml:lang="en">LCC: General Works [Class A]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/toksikologia"><skos:prefLabel xml:lang="en">Toxicology.  Poisons</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τοξικολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RA1190-1270"><rdfs:label xml:lang="en">LCC: Toxicology.  Poisons [-Subclass RA1190-1270]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1264267103"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Βασική Ιατρική ▶ Τοξικολογία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Basic Medicine ▶ Toxicology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/zwoologia"><skos:prefLabel xml:lang="en">Zoology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ζωολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QL1-991"><rdfs:label xml:lang="en">LCC: Zoology [-Subclass QL1-991]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/64475998"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Βιολογία ▶ Ζωολογία</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Biological sciences ▶ Zoology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/iatrikh"><skos:prefLabel xml:lang="en">Medicine</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιατρική</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh-dhmosia-ygeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/noshleytikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/paidiatrikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/maieytikh-kai-gynaikologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/eswterikh-iatrikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dermatologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/periballontikh-ygeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/pathologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/1651950207"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xeiroyrgikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/wtorinolaryggologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/neoplasmata-ogkoi-ogkologia-per-karkinos-kakinogones-oysies"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ennalaktikh-iatrikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/odontiatrikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/alla-systhmata-iatrikhs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/omoiopathhtikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/pathologia-genikaa"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/farmakeytikh-xhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ofthalmologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/farmakeytikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/therapeytikh-farmakologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/toksikologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/farmakeytikh-texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf"><rdfs:label xml:lang="en">LCC: Medicine [Class R]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/hlektronikes-plhroforiakes-phges"><skos:prefLabel xml:lang="en">Electronic information resources</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ηλεκτρονικές πληροφοριακές πηγές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/plhroforiakes-phges-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/baseis-dedomenwn"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass ZA4050 -4480"><rdfs:label xml:lang="en">LCC: Electronic information resources [-Subclass ZA4050 -4480]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mesaiwnikh"><skos:prefLabel xml:lang="en">Medieval</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μεσαιωνική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#B720-765"><rdfs:label xml:lang="en">LCC: Medieval [Subclass B-B720-765]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mhxanikh-genika-politikh-mhxanikh-genika"><skos:prefLabel xml:lang="el">Μηχανική (Γενικά). Πολιτική μηχανική (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Engineering (General). Civil engineering (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TA1-2040"><rdfs:label xml:lang="en">LCC: Engineering (General). Civil engineering (General)  [-Subclass TA1-2040]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dikaio-toy-polemoy"><skos:prefLabel xml:lang="el">Δίκαιο του πολέμου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Law of war and neutrality. Jus belli</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf#KZ6378-6795"><rdfs:label xml:lang="en">LCC: Law of war and neutrality. Jus belli [Subclass KZ-KZ6378-6795]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/logikh"><skos:prefLabel xml:lang="el">Λογική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Logic</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BC1-199"><rdfs:label xml:lang="en">LCC: Logic [Subclass BC-BC1-199]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/rwmaikh-epoxh-140-px-323476-mx"><skos:prefLabel xml:lang="en">Roman epoch, 140 B.C.-323/476 A.D.</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ρωμαϊκή εποχή, 140 π.Χ.-323/476 μ.Χ.</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DF239-241"><rdfs:label xml:lang="en">LCC: Roman epoch, 140 B.C.-323/476 A.D. [Subclass DF-DF239-241]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/epigrafes-epigrafikh"><skos:prefLabel xml:lang="en">Inscriptions. Epigraphy</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Επιγραφές. Επιγραφική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaies-epigrafes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikes-epigrafes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sygxrones-epigrafes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CN1-1355"><rdfs:label xml:lang="en">LCC: Inscriptions. Epigraphy [Subclass CN-CN1-1355]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/klasikh-filologia"><skos:prefLabel xml:lang="el">Κλασική φιλολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Classical philology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/glwssa-kai-filologia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_p.pdf#PA1-199"><rdfs:label xml:lang="en">LCC: Classical philology [Subclass PA-PA1-199]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dikaio-ths-thalassas"><skos:prefLabel xml:lang="el">Δίκαιο της θάλασσας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Law of the sea</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf#KZA1002-(4205)"><rdfs:label xml:lang="en">LCC: Law of the sea [Subclass KZ-KZA1002-(4205)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/eswterikh-iatrikh"><skos:prefLabel xml:lang="el">Εσωτερική ιατρική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Internal medicine</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/neoplasmata-ogkoi-ogkologia-per-karkinos-kakinogones-oysies"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RC31-1245"><rdfs:label xml:lang="en">LCC: Internal medicine [-Subclass RC31-1245]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/arxaies-epigrafes"><skos:prefLabel xml:lang="en">Ancient Inscriptions</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχαίες επιγραφές</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/epigrafes-epigrafikh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:definition xml:lang="en">test</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CN120-740"><rdfs:label xml:lang="en">LCC: Ancient Inscriptions [Subclass CN-CN120-740]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/1651950207"><skos:prefLabel xml:lang="en">Medicine (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιατρική (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:notation xml:lang="en">R5-920</skos:notation>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/arxaiologia"><skos:prefLabel xml:lang="en">Archaeology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχαιολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="http://id.loc.gov/authorities/classification/CC1-CC960"><rdfs:label xml:lang="en">Archaeology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CC1-960"><rdfs:label xml:lang="en">LCC: Archaeology [Subclass CC-CC1-960]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1317206802"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Ιστορία και Αρχαιολογία ▶ Αρχαιολογία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ History and Archaeology ▶ Archaeology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/thrhskeytikh-texnh"><skos:prefLabel xml:lang="en">Religious art</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θρησκευτική τέχνη</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#NK1648-1678"><rdfs:label xml:lang="en">LCC: Religious art [Subclass NK-NK1648-1678]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/stratiwtikh-episthmh"><skos:prefLabel xml:lang="en">Military Science</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Στρατιωτική Επιστήμη</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/stratiwtikh-episthmh-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_u.pdf"><rdfs:label xml:lang="en">LCC: Military Science [Class U]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xhmika-proionta-paragwgh-xrhsh-klp"><skos:prefLabel xml:lang="en">Chemicals: Manufacture, use etc.</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χημικά προϊόντα: Παραγωγή, χρήση κλπ</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TP200-248"><rdfs:label xml:lang="en">LCC: Chemicals: Manufacture, use etc. [-Subclass TP200-248]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/islam"><skos:prefLabel xml:lang="en">Islam</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ισλάμ</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thrhskeia"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BP1-253"><rdfs:label xml:lang="en">LCC: Islam [Subclass BP-BP1-253]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xrhmatooikonomika"><skos:prefLabel xml:lang="en">Finance</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χρηματοοικονομικά</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/trapezes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xrhma"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HG1-9999"><rdfs:label xml:lang="en">LCC: Finance [Subclass HG-HG1-9999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/563252329"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Οικονομικά και Επιχειρήσεις ▶ Χρηματοοικονομικά</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Economics and Business ▶ Finance</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/politikes-episthmes"><skos:prefLabel xml:lang="el">Πολιτικές Επιστήμες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political Sciences</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ethnikismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politikh-thewria-to-kratos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/diethneis-sxeseis"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes-genika-"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politikh-gewgrafia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/apoikies-kai-apoikismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/apodhmia-kai-metanasteysh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/topikh-aytodioikhsh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf"><rdfs:label xml:lang="en">LCC: Political Sciences [Class J]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1897501259"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Πολιτικές  Επιστήμες</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Political Science</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/plhroforikh"><skos:prefLabel xml:lang="en">Information technology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πληροφορική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1576462243"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Επιστήμη Ηλεκτρονικών Υπολογιστών και Πληροφορική ▶ Επιστήμη ηλεκτρονικών υπολογιστών</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Computer and Information Sciences ▶ Computer Science</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass T58.5-58.64"><rdfs:label xml:lang="en">LCC: Information technology [-Subclass T58.5-58.64]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"><skos:prefLabel xml:lang="en">Philosophy, Psychology, Religion</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φιλοσοφία, Ψυχολογία, Θρησκεία</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/logikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/metafysikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ontologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/hthikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xristianismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sygxronh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/thrhskeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/islam"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/psyxologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/methodologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anagennhsiakh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ioydaismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/kosmologia"/>
+<skos:notation xml:lang="en">Class B</skos:notation>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/900007644"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Φιλοσοφία, Ηθική και Θρησκεία ▶ Φιλοσοφία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Philosophy, Ethics and Religion ▶ Philosophy</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/462105886"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Φιλοσοφία, Ηθική και Θρησκεία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Philosophy, Ethics and Religion</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf"><rdfs:label xml:lang="en">LCC: Philosophy, Psychology, Religion [Class B]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/arxaia-ellada"><skos:prefLabel xml:lang="en">Ancient Greece</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχαία Ελλάδα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DF10-289"><rdfs:label xml:lang="en">LCC: Ancient Greece [Subclass DF-DF10-289]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/toixografia"><skos:prefLabel xml:lang="en">Mural painting</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τοιχογραφία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/zwgrafikh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#ND2550-2733"><rdfs:label xml:lang="en">LCC: Mural painting [Subclass ND-ND2550-2733]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-ths-ekpaideyshs"><skos:prefLabel xml:lang="el">Ιστορία της εκπαίδευσης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">History of Education</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_l.pdf#LA5-2396"><rdfs:label xml:lang="en">LCC: History of Education [Subclass LA-LA5-2396]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/gewrgia-genika"><skos:prefLabel xml:lang="el">Γεωργία (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Agriculture (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-k"/>
+<skos:notation xml:lang="en">S1-(972)</skos:notation>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_s.pdf#Subclass S1-(972)"><rdfs:label xml:lang="en">LCC: Agriculture (General) [-Subclass S1-(972)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mesogeios-ellhnorwmaikos-kosmos"><skos:prefLabel xml:lang="el">Μεσόγειος. Ελληνορωμαϊκός κόσμος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Mediterranean Region. The Greco-Roman World</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DE1-100"><rdfs:label xml:lang="en">LCC: Mediterranean Region. The Greco-Roman World [Subclass DE-DE1-100]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/organikh-xhmeia"><skos:prefLabel xml:lang="el">Οργανική χημεία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Organic chemistry</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD241-441"><rdfs:label xml:lang="en">LCC: Organic chemistry [-Subclass QD241-441]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1451294058"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Χημεία ▶ Οργανική χημεία</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Chemical sciences ▶ Organic Chemistry</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/plhroforiakes-phges-genika"><skos:prefLabel xml:lang="en">Information resources (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πληροφοριακές πηγές (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/yphresies-plhroforhshs-kentra-plhroforhshs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/hlektronikes-plhroforiakes-phges"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass ZA"><rdfs:label xml:lang="en">LCC: Information resources (General) [-Subclass ZA ]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ekpaideysh"><skos:prefLabel xml:lang="el">Εκπαίδευση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Education</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh-thewria-kai-praktikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anwterhanwtath-ekpaideysh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-ekpaideyshs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/deyterobathmia-ekpaideysh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/prwtobathmia-ekpaideysh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_l.pdf"><rdfs:label xml:lang="en">LCC: Education [Class L]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1287684337"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Εκπαίδευση</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Education</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/entypa-mesa-ksylografies"><skos:prefLabel xml:lang="el">Έντυπα μέσα. Ξυλογραφίες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Printmaking and engraving</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#NE1-978"><rdfs:label xml:lang="en">LCC: Printmaking and engraving [Subclass NE-NE1-978]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anthrwpinh-anatomia"><skos:prefLabel xml:lang="el">Ανθρώπινη ανατομία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Human Anatomy</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QM1-695"><rdfs:label xml:lang="en">LCC: Human Anatomy [-Subclass QM1-695]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/kyttarologia"><skos:prefLabel xml:lang="en">Cytology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κυτταρολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/biologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QH573-671"><rdfs:label xml:lang="en">LCC: Cytology [-Subclass QH573-671]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1328079014"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Βιολογία ▶ Βιολογία κυττάρου</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Biological sciences ▶ Cell Biology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ofthalmologia"><skos:prefLabel xml:lang="en">Opthalmology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οφθαλμολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RE1-999"><rdfs:label xml:lang="en">LCC: Opthalmology [-Subclass RE1-999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/348295530"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Κλινική Ιατρική ▶ Οφθαλμολογία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Clinical Medicine ▶ Ophthalmology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/aktinoxhmeia"><skos:prefLabel xml:lang="en">Radiation chemistry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ακτινοχημεία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD625-655"><rdfs:label xml:lang="en">LCC: Radiation chemistry [-Subclass QD625-655]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"><skos:prefLabel xml:lang="el">Ιστορία της Ελλάδας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">History of Greece</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikh-ellada-byzantinh-aytokratoria-323-1453-"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/neoterh-ellada"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/toyrkokratia-1453-1821"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaia-ellada"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/20os-aiwnas"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/rwmaikh-epoxh-140-px-323476-mx"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DF10-951"><rdfs:label xml:lang="en">LCC: History of Greece [Subclass DF-DF10-951]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1922359575"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Ιστορία και Αρχαιολογία ▶ Ιστορία ▶ Ελληνική ιστορία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ History and Archaeology ▶ History ▶ Greek history</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dikaio-genika"><skos:prefLabel xml:lang="en">Law in general</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δίκαιο (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-dikaioy"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/pneymatikh-idiokthsia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf#K1-7720"><rdfs:label xml:lang="en">LCC: Law in general [Subclass K-K1-7720]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/botanikh"><skos:prefLabel xml:lang="el">Βοτανική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Botany</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QK1-989"><rdfs:label xml:lang="en">LCC: Botany [-Subclass QK1-989]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1220948595"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Βιολογία ▶ Επιστήμη των φυτών</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Biological sciences ▶ Plant Science</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-ths-balkanikhs-xersonhsoy"><skos:prefLabel xml:lang="el">Ιστορία της Βαλκανικής Χερσονήσου</skos:prefLabel>
+<skos:prefLabel xml:lang="en">History of Balkan Peninsula</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DR1-2285"><rdfs:label xml:lang="en">LCC: History of Balkan Peninsula [Subclass DR-DR1-2285]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/fasmatoskopia"><skos:prefLabel xml:lang="en">Spectroscopy</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φασματοσκοπία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/optikh-fws"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QC450-467"><rdfs:label xml:lang="en">LCC: Spectroscopy [-Subclass QC450-467]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"><skos:prefLabel xml:lang="el">Κοινωνιολογία (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Sociology (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikos-elegxos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikh-allagh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikh-psyxologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikoi-thesmoi"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/omades-kai-organismoi"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnika-systhmata"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikh-domh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM(1)-1281"><rdfs:label xml:lang="en">LCC: Sociology (General) [Subclass HM-HM(1)-1281]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikh-psyxologia"><skos:prefLabel xml:lang="el">Κοινωνική ψυχολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Social psychology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM1001-1281"><rdfs:label xml:lang="en">LCC: Social psychology [Subclass HM-HM1001-1281]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/634790691"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Ψυχολογία και Γνωσιακή Επιστήμη ▶ Κοινωνική ψυχολογία</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Psychology and Cognitive Sciences ▶ Social Psychology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/politikh-thewria-to-kratos"><skos:prefLabel xml:lang="el">Πολιτική θεωρία. Το κράτος</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political Theory. The state</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ethnikismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politikh-gewgrafia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#JC11-605"><rdfs:label xml:lang="en">LCC: Political Theory. The state [Subclass JC-JC11-605]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/oikonomikh-anaptyksh-sxediasmos"><skos:prefLabel xml:lang="el">Οικονομική ανάπτυξη, σχεδιασμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Economic growth, development, planning</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HD72-88"><rdfs:label xml:lang="en">LCC: Economic growth, development, planning [Subclass HD-HD72-88]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/omoiopathhtikh"><skos:prefLabel xml:lang="el">Ομοιοπαθητική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Homeopathy</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RX1-681"><rdfs:label xml:lang="en">LCC: Homeopathy [-Subclass RX1-681]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/bibliothhkes-genika"><skos:prefLabel xml:lang="en">Libraries (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιβλιοθήκες (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass Z719-723"><rdfs:label xml:lang="en">LCC: Libraries (General) [-Subclass Z719-723]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/biologia-genika"><skos:prefLabel xml:lang="en">Biology (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιολογία (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anaparagwgh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/kyttarologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ekseliksh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/oikologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/genetikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QH301-705.5"><rdfs:label xml:lang="en">LCC: Biology (General) [-Subclass QH301-705.5]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mesaiwnikh-kai-nea-ellhnikh-glwssa"><skos:prefLabel xml:lang="el">Μεσαιωνική και νέα ελληνική γλώσσα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Medieval and modern Greek language</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/glwssa-kai-filologia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_p.pdf#PA1000-1179"><rdfs:label xml:lang="en">LCC: Medieval and modern Greek language [Subclass PA-PA1000-1179]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dermatologia"><skos:prefLabel xml:lang="el">Δερματολογια</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Dermatology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RL1-803"><rdfs:label xml:lang="en">LCC: Dermatology [-Subclass RL1-803]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/888357866"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Κλινική Ιατρική ▶ Δερματολογία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Clinical Medicine ▶ Dermatology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/biomhxania"><skos:prefLabel xml:lang="en">Industry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιομηχανία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HD2321-4730.9"><rdfs:label xml:lang="en">LCC: Industry [Subclass HD-HD2321-4730.9]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/plhroforiaka-systhmata-dioikhshs"><skos:prefLabel xml:lang="en">Management information systems</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πληροφοριακά συστήματα διοίκησης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass T58.6-58.62"><rdfs:label xml:lang="en">LCC: Management information systems [-Subclass T58.6-58.62]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikoi-thesmoi"><skos:prefLabel xml:lang="en">Social institutions</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κοινωνικοί θεσμοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM826"><rdfs:label xml:lang="en">LCC: Social institutions [Subclass HM-HM826]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/thetikes-episthmes-genika"><skos:prefLabel xml:lang="en">Science (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θετικές Επιστήμες (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass Q1-390"><rdfs:label xml:lang="en">LCC: Science (General) [-Subclass Q1-390]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"><skos:prefLabel xml:lang="en">Science</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θετικές Επιστήμες</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/zwoologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xhmeia-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anaparagwgh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/organikh-xhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/analytikh-xhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/kyttarologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anthrwpinh-anatomia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/botanikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/gewlogia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/genetikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/atomikh-fysikh-symp-moriakh-fysikh-sxetikothta-kbantikh-thewria-kai-fysikh-stereas-katastashs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/krystallografia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/bioxhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/astronomia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/hlektronikoi-ypologistes-episthmh-twn-ypologistwn"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/aktinoxhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/fasmatoskopia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anosologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/fysiologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anorganh-xhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/fysikh-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/fysikh--thewrhtikh-xhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/fwtoxhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mathhmatika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/iologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ekseliksh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/oikologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/optikh-fws"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mikrobiologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/biologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf"><rdfs:label xml:lang="en">LCC: Science [Class Q]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/372415443"><rdfs:label xml:lang="el">Φυσικές Επιστήμες</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xeiroyrgikh"><skos:prefLabel xml:lang="en">Surgery</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Χειρουργική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RD1-811"><rdfs:label xml:lang="en">LCC: Surgery [-Subclass RD1-811]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1677450016"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Κλινική Ιατρική ▶ Χειρουργική</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Clinical Medicine ▶ Surgery</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/yphresies-plhroforhshs-kentra-plhroforhshs"><skos:prefLabel xml:lang="en">Information services.Information centers</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Υπηρεσίες πληροφόρησης. Κέντρα πληροφόρησης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/plhroforiakes-phges-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass ZA3150-3159"><rdfs:label xml:lang="en">LCC: Information services.Information centers [-Subclass ZA3150-3159]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/mesaiwnikh-istoria"><skos:prefLabel xml:lang="el">Μεσαιωνική Ιστορία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Medieval history</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#D111-203"><rdfs:label xml:lang="en">LCC: Medieval history [Subclass D-D111-203]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/20os-aiwnas"><skos:prefLabel xml:lang="en">20th century</skos:prefLabel>
+<skos:prefLabel xml:lang="el">20ος αιώνας</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-ths-elladas"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DF833-854.32"><rdfs:label xml:lang="en">LCC: 20th century [Subclass DF-DF833-854.32]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/hlektrikh-mhxanikh-hektronikh-pyrinikh-mhxanikh"><skos:prefLabel xml:lang="el">Ηλεκτρική μηχανική. Ηεκτρονική. Πυρινική μηχανικη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Electrical engineering. Electronics. Nuclear engineering</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/498351331"><rdfs:label xml:lang="el">Επιστήμες Μηχανικού και Τεχνολογία ▶ Επιστήμη Ηλεκτρολόγου Μηχανικού, Ηλεκτρονικού Μηχανικού, Μηχανικού Η/Υ ▶ Ηλεκτρική και Ηλεκτρονική Μηχανική</rdfs:label>
+<rdfs:label xml:lang="en">Engineering and Technology ▶ Electrical engineering, Electronic engineering, Information engineering ▶ Electrical and Electronic Engineering</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1830758108"><rdfs:label xml:lang="el">Επιστήμες Μηχανικού και Τεχνολογία ▶ Επιστήμη Μηχανολόγου Μηχανικού ▶ Πυρηνική ενέργεια και Μηχανική</rdfs:label>
+<rdfs:label xml:lang="en">Engineering and Technology ▶ Mechanical Engineering ▶ Nuclear Energy and Engineering</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TK1-9971"><rdfs:label xml:lang="en">LCC: Electrical engineering. Electronics. Nuclear engineering [-Subclass TK1-9971]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/glwssa-kai-filologia"><skos:prefLabel xml:lang="en">Language and Literature</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γλώσσα και φιλολογία</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/klasikh-filologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikh-kai-nea-ellhnikh-glwssa"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/filologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_p.pdf"><rdfs:label xml:lang="en">LCC: Language and Literature [Class P]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/473724010"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Γλώσσα και Λογοτεχνία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Languages and literature</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/alla-systhmata-iatrikhs"><skos:prefLabel xml:lang="el">Αλλα συστήματα ιατρικής</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Other systems of medicine</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RZ201-999"><rdfs:label xml:lang="en">LCC: Other systems of medicine [-Subclass RZ201-999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/fysikh--thewrhtikh-xhmeia"><skos:prefLabel xml:lang="en">Physical and theoretical chemistry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φυσική &amp; θεωρητική χημεία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/947481908"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Φυσική ▶ Ατομική, Μοριακή και Χημική Φυσική</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Physical sciences ▶ Atomic, Molecular and Chemical Physics</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD450-801"><rdfs:label xml:lang="en">LCC: Physical and theoretical chemistry [-Subclass QD450-801]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1480702000"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Χημεία ▶ Φυσική και Θεωρητική χημεία</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Chemical sciences ▶ Physical and Theoretical Chemistry</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/baseis-dedomenwn"><skos:prefLabel xml:lang="en">Databases</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βάσεις δεδομένων</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/hlektronikes-plhroforiakes-phges"/>
+<skos:definition xml:lang="el">Βάσεις δεδομένων</skos:definition>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass ZA4450-4460"><rdfs:label xml:lang="en">LCC: Databases [-Subclass ZA4450-4460]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/prwtobathmia-ekpaideysh"><skos:prefLabel xml:lang="el">Πρωτοβάθμια εκπαίδευση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Elementary education</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh-thewria-kai-praktikh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_l.pdf#LB1555-1602"><rdfs:label xml:lang="en">LCC: Elementary education [Subclass LB-LB1555-1602]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/pathologia-genikaa"><skos:prefLabel xml:lang="en">Medicine (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Παθολογία (Γενικά)α</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass R5-920"><rdfs:label xml:lang="en">LCC: Medicine (General) [-Subclass R5-920]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/topikh-aytodioikhsh"><skos:prefLabel xml:lang="el">Τοπική αυτοδιοίκηση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Local government</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#Js39-8500"><rdfs:label xml:lang="en">LCC: Local government [Subclass JS-Js39-8500]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/moyseia-syllektes-kai-praktikes-sylloghs"><skos:prefLabel xml:lang="en">Museums. Collectors and collecting</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μουσεία. Συλλέκτες και πρακτικές συλλογής</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AM1-(501)"><rdfs:label xml:lang="en">LCC: Museums. Collectors and collecting [Subclass AM-AM1-(501)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/hthh-kai-ethima"><skos:prefLabel xml:lang="en">Manners and Customs</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ήθη και έθιμα</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#GT1-7070"><rdfs:label xml:lang="en">LCC: Manners and Customs [Subclass GT-GT1-7070]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/metafores-kai-epikoinwnies"><skos:prefLabel xml:lang="el">Μεταφορές και επικοινωνίες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Transportation and communications</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HE1-9990"><rdfs:label xml:lang="en">LCC: Transportation and communications [Subclass HE-HE1-9990]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/gewrgia"><skos:prefLabel xml:lang="el">Γεωργία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Agriculture</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HD1401-2210"><rdfs:label xml:lang="en">LCC: Agriculture [Subclass HD-HD1401-2210]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/neoterh-istoria-1453-"><skos:prefLabel xml:lang="en">Modern history, 1453-</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Νεότερη Ιστορία, 1453-</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#D(204)-(475)"><rdfs:label xml:lang="en">LCC: Modern history, 1453- [Subclass D-D(204)-(475)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/sygxronh"><skos:prefLabel xml:lang="el">Σύγχρονη</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Modern</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#B790-5802"><rdfs:label xml:lang="en">LCC: Modern [Subclass B-B790-5802]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/stratiwtikh-kai-naytikh-istoria"><skos:prefLabel xml:lang="en">Military and naval history</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Στρατιωτική και ναυτική ιστορία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#D25-27"><rdfs:label xml:lang="en">LCC: Military and naval history [Subclass D-D25-27]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias-genika"><skos:prefLabel xml:lang="el">Βοηθητικές επιστήμες της Ιστορίας (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Auxiliary sciences of History (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:notation xml:lang="en">C1-51</skos:notation>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#C1-51"><rdfs:label xml:lang="en">LCC: Auxiliary sciences of History (General)  [Class C-C1-51]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-genika"><skos:prefLabel xml:lang="el">Ιστορία (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">History (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/stratiwtikh-kai-naytikh-istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politikh-kai-diplwmatikh-istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/neoterh-istoria-1453-"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaia-istoria"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikh-istoria"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#D1-2027"><rdfs:label xml:lang="en">LCC: History (General) [Subclass D-D1-2027]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/periballontikh-texnologia-ygeionomikh-mhxanikh"><skos:prefLabel xml:lang="en">Environmental technology. Sanitary engineering</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Περιβαλλοντική τεχνολογία. Υγειονομική μηχανική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TD1-1066"><rdfs:label xml:lang="en">LCC: Environmental technology. Sanitary engineering [-Subclass TD1-1066]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/bibliothhkonomia-episthmhs-ths-plhroforhshs"><skos:prefLabel xml:lang="el">Βιβλιοθηκονομία. Επιστήμης της πληροφόρησης</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Library Science. Information Science</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass Z665-718.8"><rdfs:label xml:lang="en">LCC: Library Science. Information Science [-Subclass Z665-718.8]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/920304102"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ ΜΜΕ και Επικοινωνίες ▶ Επιστήμη πληροφόρησης</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Media and Communications ▶ Information science</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/astronomia"><skos:prefLabel xml:lang="el">Αστρονομία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Astronomy</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QB1-991"><rdfs:label xml:lang="en">LCC: Astronomy [-Subclass QB1-991]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/diethneis-sxeseis"><skos:prefLabel xml:lang="el">Διεθνείς σχέσεις</skos:prefLabel>
+<skos:prefLabel xml:lang="en">International relations</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#JZ5-6530"><rdfs:label xml:lang="en">LCC: International relations [Subclass JZ-JZ5-6530]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1398413511"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Πολιτικές  Επιστήμες ▶ Διεθνείς σχέσεις</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Political Science ▶ International Relations</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/efarmosmenh-optikh-fwtonikh"><skos:prefLabel xml:lang="el">Εφαρμοσμένη οπτική. Φωτονική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Applied optics. Photonics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/127339766"><rdfs:label xml:lang="el">Φυσικές Επιστήμες ▶ Φυσική ▶ Εφαρμοσμένη φυσική</rdfs:label>
+<rdfs:label xml:lang="en">Natural Sciences ▶ Physical sciences ▶ Applied Physics</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TA1501-1820"><rdfs:label xml:lang="en">LCC: Applied optics. Photonics [-Subclass TA1501-1820]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/xristianismos"><skos:prefLabel xml:lang="el">Χριστιανισμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Christianity</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thrhskeia"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BR1-1725"><rdfs:label xml:lang="en">LCC: Christianity [Subclass BR-BR1-1725]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dikaio-twn-ethnwn"><skos:prefLabel xml:lang="el">Δίκαιο των Εθνών</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Law of nations</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf#KZ2-6795"><rdfs:label xml:lang="en">LCC: Law of nations [Subclass KZ-KZ2-6795]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/wtorinolaryggologia"><skos:prefLabel xml:lang="en">Otorhinolaryngology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ωτορινολαρυγγολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RF 1-547"><rdfs:label xml:lang="en">LCC: Otorhinolaryngology  [-Subclass RF 1-547]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/91749739"><rdfs:label xml:lang="el">Ιατρική και Επιστήμες Υγείας ▶ Κλινική Ιατρική ▶ Ωτορινολαρυγγολογία</rdfs:label>
+<rdfs:label xml:lang="en">Medical and Health Sciences ▶ Clinical Medicine ▶ Otorhinolaryngology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/biotexnologia"><skos:prefLabel xml:lang="el">Βιοτεχνολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Biotechnology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass TP248.13-248.65"><rdfs:label xml:lang="en">LCC: Biotechnology [-Subclass TP248.13-248.65]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anthrwpologia"><skos:prefLabel xml:lang="en">Anthropology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ανθρωπολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#GN1-890"><rdfs:label xml:lang="en">LCC: Anthropology [Subclass GN-GN1-890]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1704272530"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Κοινωνιολογία ▶ Ανθρωπολογία</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Sociology ▶ Anthropology</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/ioydaismos"><skos:prefLabel xml:lang="el">Ιουδαϊσμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Judaism</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thrhskeia"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BM1-990"><rdfs:label xml:lang="en">LCC: Judaism [Subclass BM-BM1-990]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/egkyklopaideies"><skos:prefLabel xml:lang="en">Encyclopedias</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εγκυκλοπαίδειες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AE1-(90)"><rdfs:label xml:lang="en">LCC: Encyclopedias [Subclass AE-AE1-(90)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/arxitektonikh"><skos:prefLabel xml:lang="el">Αρχιτεκτονική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Architecture</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/594125384"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Τέχνες (Τέχνες, Ιστορία της Τέχνης, Ερμηνευτικές Τέχνες, Μουσική) ▶ Αρχιτεκτονικός σχεδιασμός</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Arts (arts, history of arts, performing arts, music) ▶ Architectural design</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#NA1-9428"><rdfs:label xml:lang="en">LCC: Architecture [Subclass NA-NA1-9428]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/diplwmatia"><skos:prefLabel xml:lang="en">Diplomatics</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διπλωματία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CD1-511"><rdfs:label xml:lang="en">LCC: Diplomatics [Subclass CD-CD1-511]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"><skos:prefLabel xml:lang="el">Κοινωνικές επιστήμες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Social Sciences</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikos-elegxos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikh-allagh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/biomhxania"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xrhmatooikonomika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/emporio"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/omades-kai-organismoi"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/metafores-kai-epikoinwnies"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dhmosia-oikonomika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/oikonomikh-istoria-kai-synthhkes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ergasia-ergatikh-taksh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sosialismos-kommoynismos-anarxismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikoi-thesmoi"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xrhma"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnika-systhmata"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/statistikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikh-domh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/h-oikogeneia-gamos-gynaikes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/trapezes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xrhsh-ths-ghs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikh-istoria-kai-synthhkes-koinwnika-problhmata-koinwnikes-metarrythmiseis"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/politismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dhmografia-plhthysmos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikh-psyxologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/oikonomikh-anaptyksh-sxediasmos"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf"><rdfs:label xml:lang="en">LCC: Social Sciences [Class H]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/765226599"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/farmakeytikh-texnologia"><skos:prefLabel xml:lang="el">Φαρμακευτική τεχνολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Pharmaceutical technology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/farmakeytikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RS192-199"><rdfs:label xml:lang="en">LCC: Pharmaceutical technology [-Subclass RS192-199]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikos-elegxos"><skos:prefLabel xml:lang="en">Social control</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κοινωνικός έλεγχος</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM661-696"><rdfs:label xml:lang="en">LCC: Social control [Subclass HM-HM661-696]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/politikh-kai-diplwmatikh-istoria"><skos:prefLabel xml:lang="el">Πολιτική και διπλωματική ιστορία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political and diplomatic history</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#D31-34"><rdfs:label xml:lang="en">LCC: Political and diplomatic history [Subclass D-D31-34]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/glyptikh"><skos:prefLabel xml:lang="en">Sculpture</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γλυπτική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#NB1-1952"><rdfs:label xml:lang="en">LCC: Sculpture [Subclass NB-NB1-1952]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/sygxrones-epigrafes"><skos:prefLabel xml:lang="el">Σύγχρονες επιγραφές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Modern Inscriptions (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/epigrafes-epigrafikh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CN760"><rdfs:label xml:lang="en">LCC: Modern Inscriptions (General) [Subclass CN-CN760]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/anwterhanwtath-ekpaideysh"><skos:prefLabel xml:lang="el">Ανώτατη εκπαίδευση</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Higher education</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh-thewria-kai-praktikh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_l.pdf#LB2300-2430"><rdfs:label xml:lang="en">LCC: Higher education [Subclass LB-LB2300-2430]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/psyxologia"><skos:prefLabel xml:lang="el">Ψυχολογία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Psychology</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BF1-990"><rdfs:label xml:lang="en">LCC: Psychology [Subclass BF-BF1-990]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/apoikies-kai-apoikismos"><skos:prefLabel xml:lang="el">Αποικίες και αποικισμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Colonies and colonization</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#JV1-5397"><rdfs:label xml:lang="en">LCC: Colonies and colonization [Subclass JV-JV1-5397]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/omades-kai-organismoi"><skos:prefLabel xml:lang="en">Groups and organizations</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ομάδες και οργανισμοί</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM711-806"><rdfs:label xml:lang="en">LCC: Groups and organizations [Subclass HM-HM711-806]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"><skos:prefLabel xml:lang="el">Βιβλιογραφία, Βιβλιοθηκονομία. Πληροφοριακές πηγές</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Bibliography.Library Science.Information resources</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/baseis-dedomenwn"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/yphresies-plhroforhshs-kentra-plhroforhshs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/hlektronikes-plhroforiakes-phges"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sylloges"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/plhroforiakes-phges-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/bibliothhkonomia-episthmhs-ths-plhroforhshs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/bibliothhkes-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf"><rdfs:label xml:lang="en">LCC: Bibliography.Library Science.Information resources [Class Z]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/kthnotrofia"><skos:prefLabel xml:lang="el">Κτηνοτροφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Animal culture</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-k"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_s.pdf#Subclass SF1-1100"><rdfs:label xml:lang="en">LCC: Animal culture [-Subclass SF1-1100]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/deyterobathmia-ekpaideysh"><skos:prefLabel xml:lang="en">Secondary education. High schools</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δευτεροβάθμια εκπαίδευση</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/ekpaideysh-thewria-kai-praktikh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_l.pdf#LB1603-1696.6"><rdfs:label xml:lang="en">LCC: Secondary education. High schools [Subclass LB-LB1603-1696.6]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/gewlogia"><skos:prefLabel xml:lang="en">Geology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γεωλογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QE1-996.5"><rdfs:label xml:lang="en">LCC: Geology [-Subclass QE1-996.5]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/krystallografia"><skos:prefLabel xml:lang="el">Κρυσταλλογραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Crystallography</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QD901-999"><rdfs:label xml:lang="en">LCC: Crystallography [-Subclass QD901-999]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/texnologia-genika"><skos:prefLabel xml:lang="el">Τεχνολογία (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Technology (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf#Subclass T1-995"><rdfs:label xml:lang="en">LCC: Technology (General) [-Subclass T1-995]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnika-systhmata"><skos:prefLabel xml:lang="el">Κοινωνικά συστήματα</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Social systems</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM701"><rdfs:label xml:lang="en">LCC: Social systems [Subclass HM-HM701]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/therapeytikh-farmakologia"><skos:prefLabel xml:lang="en">Therapeutics.Pharmacology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θεραπευτική. Φαρμακολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RM1-950"><rdfs:label xml:lang="en">LCC: Therapeutics.Pharmacology [-Subclass RM1-950]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/h-oikogeneia-gamos-gynaikes"><skos:prefLabel xml:lang="en">The family. Marriage. Women</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Η οικογένεια. Γάμος. Γυναίκες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HQ1-2044"><rdfs:label xml:lang="en">LCC: The family. Marriage. Women [Subclass HQ-HQ1-2044]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/1995939969"><skos:prefLabel xml:lang="en">Bioengineering</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εμβιομηχανική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia"/>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/diakosmhtikes-texnes"><skos:prefLabel xml:lang="en">Decorative Arts</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Διακοσμητικές τέχνες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/kales-texnes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf#NK1-(9990)"><rdfs:label xml:lang="en">LCC: Decorative Arts [Subclass NK-NK1-(9990)]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/kalliergeia"><skos:prefLabel xml:lang="en">Plant culture</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλλιέργεια</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-k"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_s.pdf#Subclass SB1-1110"><rdfs:label xml:lang="en">LCC: Plant culture [-Subclass SB1-1110]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/bibliografia-genika"><skos:prefLabel xml:lang="en">General Bibliography</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γενική βιβλιογραφία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bibliografia-bibliothhkonomia-plhroforiakes-phges"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_z.pdf#Subclass Z1001-1121"><rdfs:label xml:lang="en">LCC: Bibliography (General) [-Subclass Z1001-1121]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/politikh-gewgrafia"><skos:prefLabel xml:lang="el">Πολιτική γεωγραφία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Political geography</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikh-thewria-to-kratos"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/politikes-episthmes"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_j.pdf#JC319-323"><rdfs:label xml:lang="en">LCC: Political geography [Subclass JC-JC319-323]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/arxaia"><skos:prefLabel xml:lang="en">Ancient</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Αρχαία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#B108-708"><rdfs:label xml:lang="en">LCC: Ancient [Subclass B-B108-708]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dhmografia-plhthysmos"><skos:prefLabel xml:lang="el">Δημογραφία. Πληθυσμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Demography. Population.</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HB848-3697"><rdfs:label xml:lang="en">LCC: Demography. Population. [Subclass HB-HB848-3697]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/31210251"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Κοινωνιολογία ▶ Δημογραφία</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Sociology ▶ Demography</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dasokomia"><skos:prefLabel xml:lang="en">Forestry</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δασοκομία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewrgia-k"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_s.pdf#Subclass SD1-669.5"><rdfs:label xml:lang="en">LCC: Forestry [-Subclass SD1-669.5]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/texnologia"><skos:prefLabel xml:lang="en">Technology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Τεχνολογία</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/1995939969"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/efarmosmenh-optikh-fwtonikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/plhroforiaka-systhmata-dioikhshs"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/hlektrikh-mhxanikh-hektronikh-pyrinikh-mhxanikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/biotexnologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/periballontikh-texnologia-ygeionomikh-mhxanikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xhmikh-texnologia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mhxanikh-genika-politikh-mhxanikh-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xhmika-proionta-paragwgh-xrhsh-klp"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/plhroforikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/biologikh-mhxanikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/texnologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_t.pdf"><rdfs:label xml:lang="en">LCC: Technology [Class T]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/eyrethria"><skos:prefLabel xml:lang="el">Ευρετήρια</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Indexes</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AI1-21"><rdfs:label xml:lang="en">LCC: Indexes [Subclass AI-AI1-21]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/genealogia"><skos:prefLabel xml:lang="en">Genealogy</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Γενεαλογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/bohthhtikes-episthmes-ths-istorias"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_c.pdf#CS13090"><rdfs:label xml:lang="en">LCC: Genealogy [Subclass CS-CS13090]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/folklorlaografia"><skos:prefLabel xml:lang="en">Folklore</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φολκλόρ/Λαογραφία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/gewgrafia-anthrwpologia-anapsyxh"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_g.pdf#GR1-950"><rdfs:label xml:lang="en">LCC: Folklore [Subclass GR-GR1-950]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/thrhskeia"><skos:prefLabel xml:lang="en">Religion (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Θρησκεία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/ioydaismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/xristianismos"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/islam"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BL1-50"><rdfs:label xml:lang="en">LCC: Religion (General) [Subclass BL-BL1-50]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/469083439"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Φιλοσοφία, Ηθική και Θρησκεία ▶ Θρησκεία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Philosophy, Ethics and Religion ▶ Religion</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dhmosia-oikonomika"><skos:prefLabel xml:lang="en">Public finance</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δημόσια οικονομικά</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HJ9-9940"><rdfs:label xml:lang="en">LCC: Public finance [Subclass HJ-HJ9-9940]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/kales-texnes"><skos:prefLabel xml:lang="en">Fine Arts</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Καλές τέχνες</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/entypa-mesa-ksylografies"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/texnes-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/glyptikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/thrhskeytikh-texnh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/zwgrafikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxitektonikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/diakosmhtikes-texnes"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/toixografia"/>
+<skos:relatedMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1689702079"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_n.pdf"><rdfs:label xml:lang="en">LCC: Fine Arts [Class N]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/istoria-ths-kentrikhs-eyrwphs"><skos:prefLabel xml:lang="en">History of Central Europe</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Ιστορία της κεντρικής Ευρώπης</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/istoria"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_d.pdf#DAW1001-1051"><rdfs:label xml:lang="en">LCC: History of Central Europe [Subclass DAW-DAW1001-1051]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/oikonomikh-istoria-kai-synthhkes"><skos:prefLabel xml:lang="en">Economic history and conditions</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Οικονομική ιστορία και συνθήκες</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HC10-1085"><rdfs:label xml:lang="en">LCC: Economic history and conditions [Subclass HC-HC10-1085]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/sosialismos-kommoynismos-anarxismos"><skos:prefLabel xml:lang="en">Socialism. Communism. Anarchism</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Σοσιαλισμός, Κομμουνισμός, Αναρχισμός</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HX1-970.7"><rdfs:label xml:lang="en">LCC: Socialism. Communism. Anarchism [Subclass HX-HX1-970.7]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/filosofia-genika"><skos:prefLabel xml:lang="el">Φιλοσοφία (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Philosophy (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/anagennhsiakh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/mesaiwnikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/arxaia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/sygxronh"/>
+<skos:note xml:lang="en">LCC Class B</skos:note>
+<skos:notation xml:lang="en">B1-5802</skos:notation>
+<skos:exactMatch rdf:resource="http://id.loc.gov/authorities/classification/B1-B5802"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#B1-5802"><rdfs:label xml:lang="en">LCC: Philosophy (General) [Subclass B-B1-5802]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/900007644"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Φιλοσοφία, Ηθική και Θρησκεία ▶ Φιλοσοφία</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Philosophy, Ethics and Religion ▶ Philosophy</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/moysikh"><skos:prefLabel xml:lang="el">Μουσική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Music</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/moysikh-119"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_m.pdf"><rdfs:label xml:lang="en">LCC: Music [Class M]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/50124579"><rdfs:label xml:lang="el">Ανθρωπιστικές Επιστήμες και Τέχνες ▶ Τέχνες (Τέχνες, Ιστορία της Τέχνης, Ερμηνευτικές Τέχνες, Μουσική) ▶ Ερμηνευτικές τέχνες ▶ Μουσική</rdfs:label>
+<rdfs:label xml:lang="en">Humanities and the Arts ▶ Arts (arts, history of arts, performing arts, music) ▶ Performing arts ▶ Music</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/kosmologia"><skos:prefLabel xml:lang="en">Cosmology</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Κοσμολογία</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/filosofia-psyxologia-thrhskeia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_b.pdf#BD493-701"><rdfs:label xml:lang="en">LCC: Cosmology [Subclass BD-BD493-701]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/farmakeytikh"><skos:prefLabel xml:lang="en">Pharmacy and materia medica</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Φαρμακευτική</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/iatrikh"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/farmakeytikh-xhmeia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/farmakeytikh-texnologia"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf#Subclass RS1-441"><rdfs:label xml:lang="en">LCC: Pharmacy and materia medica [-Subclass RS1-441]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/genetikh"><skos:prefLabel xml:lang="el">Γενετική</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Genetics</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/thetikes-episthmes"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/biologia-genika"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_q.pdf#Subclass QH426-470"><rdfs:label xml:lang="en">LCC: Genetics [-Subclass QH426-470]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/stratiwtikh-episthmh-genika"><skos:prefLabel xml:lang="en">Military Science (General)</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Στρατιωτική Επιστήμη (Γενικά)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/stratiwtikh-episthmh"/>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/https://www.loc.gov/aba/cataloging/classification/lcco/lcco_u.pdf#Subclass U"><rdfs:label xml:lang="en">LCC: Military Science (General) [-Subclass U]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/efhmerides"><skos:prefLabel xml:lang="el">Εφημερίδες</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Newspapers</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/genika-erga"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_a.pdf#AN"><rdfs:label xml:lang="en">LCC: Newspapers [Subclass AN-AN]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/dikaio"><skos:prefLabel xml:lang="el">Δίκαιο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Law</skos:prefLabel>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/istoria-dikaioy"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/thrhskeytiko-dikaio"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio-genika"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio-toy-polemoy"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/pneymatikh-idiokthsia"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio-ths-thalassas"/>
+<skos:narrower rdf:resource="http://semantics.gr/authorities/LC-gr/dikaio-twn-ethnwn"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_k.pdf"><rdfs:label xml:lang="en">LCC: Law [Class K]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://semantics.gr/authorities/EKT-voc-classifier/1073297819"><rdfs:label xml:lang="el">Κοινωνικές Επιστήμες ▶ Νομική Επιστήμη ▶ Δίκαιο</rdfs:label>
+<rdfs:label xml:lang="en">Social Sciences ▶ Law ▶ Law</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/filologia-genika"><skos:prefLabel xml:lang="el">Φιλολογία (Γενικά)</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Philology (General)</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/glwssa-kai-filologia"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_p.pdf#P1-1091"><rdfs:label xml:lang="en">LCC: Philology (General) [Subclass P-P1-1091]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/LC-gr/koinwnikh-domh"><skos:prefLabel xml:lang="el">Κοινωνική δομή</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Social structure</skos:prefLabel>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwniologia-genika"/>
+<skos:broader rdf:resource="http://semantics.gr/authorities/LC-gr/koinwnikes-episthmes-"/>
+<skos:exactMatch><rdf:Description rdf:about="https://www.loc.gov/aba/cataloging/classification/lcco/lcco_h.pdf#HM706"><rdfs:label xml:lang="en">LCC: Social structure [Subclass HM-HM706]</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+</rdf:RDF>
