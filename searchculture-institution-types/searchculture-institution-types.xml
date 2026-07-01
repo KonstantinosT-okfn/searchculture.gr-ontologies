@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/searchculture-institution-types"><dc:title xml:lang="el">Κατηγορίες φορέων searchculture.gr</dc:title>
+<dc:title xml:lang="en">Types of institutions of searchculture.gr</dc:title>
+<dc:creator xml:lang="el">Εθνικό Κέντρο Τεκμηρίωσης και Ηλεκτρονικού Περιεχομένου (ΕΚΤ)</dc:creator>
+<dc:creator xml:lang="en">National Documentation Center (EKT)</dc:creator>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-13T11:11:20</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-14T15:38:40</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/1013136832"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Association"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Cultural-institution--Archive"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Research-Institution"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Scientific-Institution"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/2081598048"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/313966976"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Religious-and-Ecclesiastical-Institution"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Municipality"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/259355360"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Educational-Institution"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Ephorate-of-Antiquities"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Public-or-Municipal-Library"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/Museum"/>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/searchculture-institution-types/834600864"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/1013136832"><skos:prefLabel xml:lang="en">Gallery</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Πινακοθήκη</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Association"><skos:prefLabel xml:lang="el">Σωματείο / Ένωση / Συνεταιρισμός</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Association / Society</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Cultural-institution--Archive"><skos:prefLabel xml:lang="el">Αρχείο</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Archive</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Research-Institution"><skos:prefLabel xml:lang="el">Ερευνητικός Φορέας/ Επιστημονική Εταιρεία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Research/ Scientific Institution</skos:prefLabel>
+<skos:relatedMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300343398"><rdfs:label xml:lang="el">research centers (institutions)</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+<skos:exactMatch><rdf:Description rdf:about="http://vocabularies.unesco.org/browser/thesaurus/en/page/concept4893"><rdfs:label xml:lang="el">Research centres</rdfs:label>
+</rdf:Description>
+</skos:exactMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Scientific-Institution"><skos:prefLabel xml:lang="el">Εταιρεία</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Company</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/2081598048"><skos:prefLabel xml:lang="en">Ministry of Culture Supervised Organizations</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εποπτευόμενοι Φορείς Υπουργείου Πολιτισμού</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/313966976"><skos:prefLabel xml:lang="el">Φορέας Παραστατικών Τεχνών</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Performing Arts Organization</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Religious-and-Ecclesiastical-Institution"><skos:prefLabel xml:lang="el">Θρησκευτικός / Εκκλησιαστικός Φορέας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Religious Institution</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Municipality"><skos:prefLabel xml:lang="en">Municipality</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Δήμος / Δημοτική Επιχείρηση</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/259355360"><skos:prefLabel xml:lang="el">Πολιτιστικός Φορέας</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Cultural Organization</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Educational-Institution"><skos:prefLabel xml:lang="en">Educational / Academic Institution</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εκπαιδευτικός / Ακαδημαϊκός Φορέας</skos:prefLabel>
+<skos:relatedMatch><rdf:Description rdf:about="http://vocab.getty.edu/page/aat/300386368"><rdfs:label xml:lang="el">educational institutions</rdfs:label>
+</rdf:Description>
+</skos:relatedMatch>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Ephorate-of-Antiquities"><skos:prefLabel xml:lang="en">Ephorate of Antiquities</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Εφορεία αρχαιοτήτων</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Public-or-Municipal-Library"><skos:prefLabel xml:lang="en">Library</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Βιβλιοθήκη</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/Museum"><skos:prefLabel xml:lang="en">Museum</skos:prefLabel>
+<skos:prefLabel xml:lang="el">Μουσείο</skos:prefLabel>
+</skos:Concept>
+<skos:Concept rdf:about="http://semantics.gr/authorities/searchculture-institution-types/834600864"><skos:prefLabel xml:lang="el">Υπηρεσίες και Διευθύνσεις Υπουργείου Πολιτισμού</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Ministry of Culture- Core services</skos:prefLabel>
+</skos:Concept>
+</rdf:RDF>
