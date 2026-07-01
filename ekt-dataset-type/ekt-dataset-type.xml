@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:ekt="https://www.semantics.gr/authorities/schemanamespaces/ekt#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#"><skos:ConceptScheme rdf:about="http://semantics.gr/authorities/vocabularies/ekt-dataset-type"><dc:title xml:lang="en">EKT dataset types</dc:title>
+<dc:title xml:lang="el">Τύποι dataset ΕΚΤ </dc:title>
+<dc:rights rdf:resource="https://creativecommons.org/licenses/by/4.0/deed.el"/>
+<dc:format>application/rdf+xml</dc:format>
+<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-16T14:20:59</dcterms:created>
+<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-03-27T09:58:04</dcterms:modified>
+<skos:hasTopConcept rdf:resource="http://semantics.gr/authorities/ekt-dataset-type/CHO_COLLECTION"/>
+</skos:ConceptScheme>
+<skos:Concept rdf:about="http://semantics.gr/authorities/ekt-dataset-type/CHO_COLLECTION"><skos:prefLabel xml:lang="el">Συλλογή εγγραφών μεταδεδομένων πολιτιστικών τεκμηρίων</skos:prefLabel>
+<skos:prefLabel xml:lang="en">Collection of cultural heritage objects metadata records</skos:prefLabel>
+</skos:Concept>
+</rdf:RDF>
