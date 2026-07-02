@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vocabsservices.getty.edu/Schemas/AAT/AATGetSubject.xsd">
+  <Subject Subject_ID="300006752">
+    <Parent_Relationships>
+      <Preferred_Parent>
+        <Parent_Subject_ID>300006742</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>welfare buildings [300006742], health and welfare buildings [300006652], institutional buildings [300132384], single built works by function [300004894], single built works by specific type [300004795], single built works (built environment) [300004790], Single Built Works (hierarchy name) [300004789], Built Environment (hierarchy name) [300264550], Objects Facet [300264092]</Parent_String>
+        <Hier_Rel_Type>Genus/Species-BTG</Hier_Rel_Type>
+      </Preferred_Parent>
+    </Parent_Relationships>
+    <Descriptive_Notes>
+      <Descriptive_Note>
+        <Note_Text>Buildings used as refuges for the sick or destitute who need care rather than medical treatment; for institutional facilities treating the mentally ill, use "psychiatric hospitals" or "psychiatric clinics," and for those treating the chronically ill, use "sanatoriums."</Note_Text>
+        <Note_Language>English</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000099620/Legacy AAT data</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>Designa un edificio utilizado como asilo para los enfermos o desvalidos que necesitan cuidados más que tratamiento médico. Para instalaciones institucionales que tratan enferemdades mentales, usar "hospital psiquiátrico" o "clínica psiquiátrica"; y para aquéllos que tratan enfermedades crónicas, usar "sanatorio".</Note_Text>
+        <Note_Language>Spanish</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000051034/TAA database (2000-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>Aanduiding voor gebouwen die werden gebruikt voor de opvang van zieken en behoeftigen die eerder verzorging nodig hadden dan medische behandeling; gebruik 'psychiatrische ziekenhuizen' of 'psychiatrische klinieken' voor instellingen die geesteszieken behandelen en 'sanatoria' voor instellingen waar chronisch zieken worden behandeld.</Note_Text>
+        <Note_Language>Dutch</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+          </Note_Source>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000052381/Van Dale Engels-Nederlands (1989)</Source_ID>
+            </Source>
+          </Note_Source>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000099099/Van Dale groot woordenboek (1994)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>Gebäude, das als Zuflucht für Kranke oder Mittellose genutzt wird, die eher Fürsorge denn eine medizinische Behandlung benötigen; für eine institutionelle Einrichtung, in der psychisch Erkrankte behandelt werden, siehe "geschlossene Anstalt" oder "Psychiatrische Klinik", für jene, die chronisch Kranke behandeln, siehe "Sanatorium".</Note_Text>
+        <Note_Language>German</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000232/IfM-SMB-PK</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000122134/IfM Berlin</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>設計用來收容生病或窮人的建物，特別是針對那些需要生活照顧而非醫藥治療的人；至於治療精神異常的機構性設施，使用「精神病院」或「精神科診所」，而若要指稱治療長期疾病的場所，則使用「療養院」一詞。</Note_Text>
+        <Note_Language>Chinese (traditional)</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+    </Descriptive_Notes>
+    <Record_Type>Concept</Record_Type>
+    <Merged_Status>Merged</Merged_Status>
+    <Sort_Order>1</Sort_Order>
+    <Terms>
+      <Preferred_Term>
+        <Term_Text>asylums</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000006752</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>welfare buildings</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Plural Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000088/GCI</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000046657/Avery Index (1963-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000014901/Hamlin, Forms and Functions of 20th Century Architecture (1952)</Source_ID>
+            </Source>
+            <Page>IND</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000024811/CDMARC Subjects: LCSH (1988-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000046682/Random House Dictionary of the English Language (1987)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000035251/RILA, Subject Headings (1975-1990)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000077471/Sturgis, Dictionary of Architecture and Building (1901)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000042061/Webster's Third New International Dictionary (1961)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051089/AATA database (2002-) </Source_ID>
+            </Source>
+            <Page>120681 checked 26 January 2012</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000008771/Roberts, Construction Industry Thesaurus (1976)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000035111/RIBA, Architectural Keywords (1982)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000039651/Canadian Thesaurus of Construction Science and Technology (1978)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000052735/Nomenclature 3.0 for Museum Cataloging (2010)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>asylum</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000290938</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>welfare building</Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000159/CHIN / RCIP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000299/AASLH</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106160/Nomenclature database (2018-)</Source_ID>
+            </Source>
+            <Page>http://nomenclature.info/nom/846; scheme: Nomenclature-Objects</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106165/AASLH data (2016-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106166/Nomenclature for Museum Cataloging / Nomenclature pour le catalogage translation project (2016-)</Source_ID>
+            </Source>
+            <Page>846</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106167/CHIN / RCIP translation (2016-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>homes</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000246731</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>asylums</Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000024811/CDMARC Subjects: LCSH (1988-)</Source_ID>
+            </Source>
+            <Page>homes (institutions)</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>asilos</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000415082</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Plural Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051214/Comité, Plural del término en singular</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>asilo</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000415083</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000049666/Gran Enciclopedia Larousse (1973)</Source_ID>
+            </Source>
+            <Page>2:754</Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>gestichten</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000467515</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70261/Dutch</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000052381/Van Dale Engels-Nederlands (1989)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000099099/Van Dale groot woordenboek (1994)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>gesticht</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000467516</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70261/Dutch</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000052381/Van Dale Engels-Nederlands (1989)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000099099/Van Dale groot woordenboek (1994)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>Heime</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000603500</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70101/German</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>Wohlfahrtsgebäude</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Plural Noun</Part_of_Speech>
+            <Lang_Stat>
+            </Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000232/IfM-SMB-PK</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000122169/AAT-Deutsch (2012-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>Heim</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000603501</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70101/German</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>Wohlfahrtsgebäude</Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>
+            </Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000232/IfM-SMB-PK</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000083634/Duden [online] (2011-)</Source_ID>
+            </Source>
+            <Page>http://www.duden.de/node/641690/revisions/1172058/view</Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000083630/GND - Gemeinsame Normdatei</Source_ID>
+            </Source>
+            <Page>http://d-nb.info/gnd/4213713-5</Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000083657/Wortschatz Universität Leipzig [online] (1998 -)</Source_ID>
+            </Source>
+            <Page>"Heim", accessed 24 October 2013</Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>asile</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000780232</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70271/French</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>masculine singular noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000159/CHIN / RCIP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000299/AASLH</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106165/AASLH data (2016-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106160/Nomenclature database (2018-)</Source_ID>
+            </Source>
+            <Page>http://nomenclature.info/nom/846; scheme: Nomenclature-Objects</Page>
+            <Preferred>Alternate Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106166/Nomenclature for Museum Cataloging / Nomenclature pour le catalogage translation project (2016-)</Source_ID>
+            </Source>
+            <Page>846</Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000106167/CHIN / RCIP translation (2016-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Alternate Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>收容所</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000889311</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72551/Chinese (traditional)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>社會福利建築</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116243/經濟部智慧財產局－本國專利技術名詞中英對照查詢資料庫</Source_ID>
+            </Source>
+            <Page>April  13, 2012</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116249/國家教育研究院－雙語詞彙、學術名詞暨辭書資訊網</Source_ID>
+            </Source>
+            <Page>April  13, 2012</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116250/智慧藏百科全書網</Source_ID>
+            </Source>
+            <Page>April  13, 2012</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116251/牛津當代大辭典</Source_ID>
+            </Source>
+            <Page>93</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116252/建築學英漢辭典</Source_ID>
+            </Source>
+            <Page>31</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>shou jung so</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000889315</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72582/Chinese (transliterated Wade-Giles)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>shou rong suo</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000889313</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72586/Chinese (transliterated Pinyin without tones)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>shōu róng suǒ</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000889314</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72584/Chinese (transliterated Hanyu Pinyin)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>庇護所</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000889312</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72551/Chinese (traditional)</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>收容所</Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116244/國家教育研究院－雙語詞彙、學術名詞暨辭書資訊網</Source_ID>
+            </Source>
+            <Page>April  13, 2012</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116245/智慧藏百科全書網</Source_ID>
+            </Source>
+            <Page>April  13, 2012</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116246/牛津當代大辭典</Source_ID>
+            </Source>
+            <Page>93</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116247/遠東實用英漢辭典</Source_ID>
+            </Source>
+            <Page>85</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000116248/經濟部智慧財產局－本國專利技術名詞中英對照查詢資料庫</Source_ID>
+            </Source>
+            <Page>April  13, 2012</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+    </Terms>
+    <Subject_Contributors>
+      <Subject_Contributor>
+        <Contributor_id>10000000/VP</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000088/GCI</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000205/AAT-Ned</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000159/CHIN / RCIP</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000299/AASLH</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000232/IfM-SMB-PK</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+      </Subject_Contributor>
+    </Subject_Contributors>
+    <Subject_Sources>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000051089/AATA database (2002-) </Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000035111/RIBA, Architectural Keywords (1982)</Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000052381/Van Dale Engels-Nederlands (1989)</Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000099099/Van Dale groot woordenboek (1994)</Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000106160/Nomenclature database (2018-)</Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000106165/AASLH data (2016-)</Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000106166/Nomenclature for Museum Cataloging / Nomenclature pour le catalogage translation project (2016-)</Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000106167/CHIN / RCIP translation (2016-)</Source_ID>
+        </Source>
+      </Subject_Source>
+    </Subject_Sources>
+  </Subject>
+</Vocabulary>

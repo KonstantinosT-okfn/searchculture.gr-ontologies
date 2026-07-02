@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vocabsservices.getty.edu/Schemas/AAT/AATGetSubject.xsd">
+  <Subject Subject_ID="300124132">
+    <Parent_Relationships>
+      <Preferred_Parent>
+        <Parent_Subject_ID>300054624</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>information management [300054624], information handling functions [300075493], functions by general context [300069727], functions (activities) [300138088], Functions (hierarchy name) [300054593], Activities Facet [300264090]</Parent_String>
+        <Hier_Rel_Type>Genus/Species-BTG</Hier_Rel_Type>
+      </Preferred_Parent>
+    </Parent_Relationships>
+    <Descriptive_Notes>
+      <Descriptive_Note>
+        <Note_Text>Area of information management concerned with achieving economy and efficiency in the creation, use, handling, control, maintenance, and disposition of records.</Note_Text>
+        <Note_Language>English</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000001521/ALA Glossary (1983)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>Área de administración de la información preocupada por lograr economía y eficiencia en la creación, uso, manejo, control, mantenimiento, y ordenamiento de registros.</Note_Text>
+        <Note_Language>Spanish</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000051034/TAA database (2000-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>Een gebied van het informatiebeheer dat zich bezig houdt met het bereiken van zuinigheid en efficiëntie bij het maken, gebruiken, hanteren, beheren, onderhouden en ordenen van records.</Note_Text>
+        <Note_Language>Dutch</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+          </Note_Source>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000099099/Van Dale groot woordenboek (1994)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>為資訊管理的領域，旨在檔案製作、使用、處理、控制、維護與配置過程中達到經濟節約與效率。</Note_Text>
+        <Note_Language>Chinese (traditional)</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+      </Descriptive_Note>
+    </Descriptive_Notes>
+    <Record_Type>Concept</Record_Type>
+    <Merged_Status>Merged</Merged_Status>
+    <Sort_Order>1</Sort_Order>
+    <Terms>
+      <Preferred_Term>
+        <Term_Text>records management</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000124132</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000088/GCI</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000001521/ALA Glossary (1983)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000046657/Avery Index (1963-)</Source_ID>
+            </Source>
+            <Page>(source AAT)</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000048328/Contributed as a candidate term</Source_ID>
+            </Source>
+            <Page>Candidate term - AVERY - 11/88</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000012551/Duckett, Modern Manuscripts (1975)</Source_ID>
+            </Source>
+            <Page>343</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000025211/Library Literature (1921-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051089/AATA database (2002-) </Source_ID>
+            </Source>
+            <Page>128060 checked 26 January 2012</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>management, record</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000174697</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>management, records</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000153021</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>record management</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000174696</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000048328/Contributed as a candidate term</Source_ID>
+            </Source>
+            <Page>Candidate term - MMA Clearinghouse - 7/88.</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>manejo de registros</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000438031</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051505/Amat, Vocabulario de información y documentación automatizada (2003)</Source_ID>
+            </Source>
+            <Page>20</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>archiefbeheer</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000491329</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70261/Dutch</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000099099/Van Dale groot woordenboek (1994)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>記錄管理</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000771573</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72551/Chinese (traditional)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000100615/國家教育研究院－雙語詞彙、學術名詞暨辭書資訊網</Source_ID>
+            </Source>
+            <Page>June 15, 2012</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>chi lu kuan li</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000771577</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72582/Chinese (transliterated Wade-Giles)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>ji lu guan li</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000771575</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72586/Chinese (transliterated Pinyin without tones)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>jì lù guǎn lǐ</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000771576</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72584/Chinese (transliterated Hanyu Pinyin)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>檔案管理</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000771574</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72551/Chinese (traditional)</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+    </Terms>
+    <Associative_Relationships>
+      <Associative_Relationship>
+        <Relationship_Type>produces</Relationship_Type>
+        <Related_Subject_ID>
+          <VP_Subject_ID>300026685</VP_Subject_ID>
+        </Related_Subject_ID>
+        <Historic_Flag>Current</Historic_Flag>
+      </Associative_Relationship>
+    </Associative_Relationships>
+    <Subject_Contributors>
+      <Subject_Contributor>
+        <Contributor_id>10000000/VP</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000088/GCI</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000205/AAT-Ned</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+      </Subject_Contributor>
+    </Subject_Contributors>
+    <Subject_Sources>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000051089/AATA database (2002-) </Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000024811/CDMARC Subjects: LCSH (1988-)</Source_ID>
+        </Source>
+      </Subject_Source>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000099099/Van Dale groot woordenboek (1994)</Source_ID>
+        </Source>
+      </Subject_Source>
+    </Subject_Sources>
+  </Subject>
+</Vocabulary>

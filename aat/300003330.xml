@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vocabsservices.getty.edu/Schemas/AAT/AATGetSubject.xsd">
+  <Subject Subject_ID="300003330">
+    <Parent_Relationships>
+      <Preferred_Parent>
+        <Parent_Subject_ID>300003312</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>steps (staircase units) [300003312], steps and step components [300052381], stair components [300003284], stairs and stair components [300073803], circulation elements [300003217], architectural elements [300000885], components by specific context [300241584], components (objects parts) [300241583], Components (hierarchy name) [300241490], Objects Facet [300264092]</Parent_String>
+        <Hier_Rel_Type>Genus/Species-BTG</Hier_Rel_Type>
+      </Preferred_Parent>
+    </Parent_Relationships>
+    <Descriptive_Notes>
+      <Descriptive_Note>
+        <Note_Text>Steps, more or less wedge-shaped, whose tread is wider at one end than the other.</Note_Text>
+        <Note_Language>English</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000010761/Harris, Dictionary of Architecture and Construction (1975)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>Min of meer wigvormige treden waarvan de aantrede aan de ene kant breder is dan aan de andere kant.</Note_Text>
+        <Note_Language>Dutch</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>指階面兩端寬度不一的楔型台階。</Note_Text>
+        <Note_Language>Chinese (traditional)</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+      </Descriptive_Note>
+    </Descriptive_Notes>
+    <Record_Type>Concept</Record_Type>
+    <Merged_Status>Merged</Merged_Status>
+    <Sort_Order>1</Sort_Order>
+    <Terms>
+      <Preferred_Term>
+        <Term_Text>winders</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000003330</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Plural Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000010761/Harris, Dictionary of Architecture and Construction (1975)</Source_ID>
+            </Source>
+            <Page>illustration</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000027101/Smit, Means Illustrated Construction Dictionary (1985)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000032401/Fleming et al., Penguin Dictionary of Architecture (1981)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000033931/Putnam and Carlson, Architectural and Building Trades Dictionary (1974)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000042061/Webster's Third New International Dictionary (1961)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000008771/Roberts, Construction Industry Thesaurus (1976)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000035571/ROOT Thesaurus (1981)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000038881/Stein, Construction Glossary (1980)</Source_ID>
+            </Source>
+            <Page>236</Page>
+            <Preferred>Alternate Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>steps, radial</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000166747</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>steps, tapered</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000166748</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>steps, wheel</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000166750</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>tapered steps</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000003332</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000008771/Roberts, Construction Industry Thesaurus (1976)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>tapered treads</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000003333</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000038881/Stein, Construction Glossary (1980)</Source_ID>
+            </Source>
+            <Page>236</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000035571/ROOT Thesaurus (1981)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>treads, tapered</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000209727</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>wheeling steps</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000003335</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000010761/Harris, Dictionary of Architecture and Construction (1975)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>wheel steps</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000003334</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000010761/Harris, Dictionary of Architecture and Construction (1975)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>radial steps</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000077036</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000010761/Harris, Dictionary of Architecture and Construction (1975)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>winder</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000288562</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>peldaños de abanico</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000412731</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Plural Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051214/Comité, Plural del término en singular</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>peldaño de abanico</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000412732</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051034/TAA database (2000-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>peldaño de vuelta</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000412733</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051215/Putnam y Carlson, Diccionario de Arquitectura, Construcción y Obras Públicas (1998)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>peldaño radial</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000412734</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000051221/Chambers, Diccionario científico y tecnológico (1979)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>peldaños curvados</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000395938</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Plural Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>peldaño curvado</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000380195</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70641/Spanish</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000048512/Tesauro de Arte &amp; Arquitectura (TAA) [online] (2000-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>commode steps</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000380196</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>winders</Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000048512/Tesauro de Arte &amp; Arquitectura (TAA) [online] (2000-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>wenteltraptreden</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000465046</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70261/Dutch</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>wenteltraptrede</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000465047</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70261/Dutch</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>楔型台階</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000752691</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72551/Chinese (traditional)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000102216/建築學英漢辭典</Source_ID>
+            </Source>
+            <Page>465</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>hsieh hsing t'ai chieh</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000752694</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72582/Chinese (transliterated Wade-Giles)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>xie xing tai jie</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000752692</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72586/Chinese (transliterated Pinyin without tones)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>xiè xíng tái jiē</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000752693</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72584/Chinese (transliterated Hanyu Pinyin)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+    </Terms>
+    <Subject_Contributors>
+      <Subject_Contributor>
+        <Contributor_id>10000000/VP</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000131/CDBP-SNPC</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000205/AAT-Ned</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+      </Subject_Contributor>
+    </Subject_Contributors>
+    <Subject_Sources>
+      <Subject_Source>
+        <Source>
+          <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+        </Source>
+      </Subject_Source>
+    </Subject_Sources>
+  </Subject>
+</Vocabulary>

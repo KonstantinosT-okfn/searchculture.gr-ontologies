@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vocabsservices.getty.edu/Schemas/AAT/AATGetSubject.xsd">
+  <Subject Subject_ID="300310265">
+    <Parent_Relationships>
+      <Preferred_Parent>
+        <Parent_Subject_ID>300265956</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>Reptilia (class) [300265956], Vertebrata (subphylum) [300265720], Chordata (phylum) [300266513], Animalia (kingdom) [300249395], Eukaryota (domain) [300265677], living organisms (entities) [300390503], Living Organisms (hierarchy name) [300265673], Agents Facet [300264089]</Parent_String>
+        <Hier_Rel_Type>Genus/Species-BTG</Hier_Rel_Type>
+      </Preferred_Parent>
+      <Non-Preferred_Parent>
+        <Parent_Subject_ID>300310228</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>Archosauria (infraclass) [300310228], Diapsida (subclass) [300310518], Reptilia (class) [300265956], Vertebrata (subphylum) [300265720], Chordata (phylum) [300266513], Animalia (kingdom) [300249395], Eukaryota (domain) [300265677], living organisms (entities) [300390503], Living Organisms (hierarchy name) [300265673], Agents Facet [300264089]</Parent_String>
+        <Hier_Rel_Type>Genus/Species-BTG</Hier_Rel_Type>
+      </Non-Preferred_Parent>
+    </Parent_Relationships>
+    <Descriptive_Notes>
+      <Descriptive_Note>
+        <Note_Text>Order of aquatic or amphibious reptiles with a robust body and tail, short sturdy limbs, a strong flattened and elongate skull with nostrils at tip of snout, and a well-developed secondary palate. Dating from the Paleocene to present, including three living families, eight genera, and 23 species of crocodiles, gavials, caimans, and alligators.</Note_Text>
+        <Note_Language>English</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000093795/Encyclopedia Britannica Online (2002-)</Source_ID>
+            </Source>
+          </Note_Source>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000047696/Natural History Museum, London (2000-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>Orde van zeereptielen en amfibische reptielen met een robuust lichaam en een robuuste staart, korte stevige ledematen, een sterke afgeplatte en langwerpige schedel met neusgaten aan de punt van de snuit en een goed ontwikkeld secundair gehemelte. De eerste soorten ontstonden in het Paleoceen. De orde omvat 3 levende families, 8 genera en 23 soorten krokodillen, gavialen, kaaimannen en alligators.</Note_Text>
+        <Note_Language>Dutch</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>屬水生或兩棲爬蟲類動物綱；具有強健的身體與尾巴、短而結實的四肢，以及發展良好的次生顎。鱷目可追溯至古新世時期，包含三個現存的科、八屬，以及二十三種鱷魚、長吻鱷、凱門鱷及短吻鱷。</Note_Text>
+        <Note_Language>Chinese (traditional)</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+    </Descriptive_Notes>
+    <Record_Type>Concept</Record_Type>
+    <Merged_Status>Merged</Merged_Status>
+    <Sort_Order>1</Sort_Order>
+    <Terms>
+      <Preferred_Term>
+        <Term_Text>Crocodilia</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000395243</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>order</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Loan Term</Lang_Stat>
+          </Term_Language>
+          <Term_Language>
+            <Language>70431/Latin</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>order</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+          <Term_Language>
+            <Language>70261/Dutch</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>orde</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+          <Term_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000047701/Tree of Life Web Project (1995-)</Source_ID>
+            </Source>
+            <Page>accessed 14 August 2008</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000047696/Natural History Museum, London (2000-)</Source_ID>
+            </Source>
+            <Page>accessed 14 August 2008</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000093795/Encyclopedia Britannica Online (2002-)</Source_ID>
+            </Source>
+            <Page>accessed 14 August 2008</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000047484/Animal Diversity Web (1995-)</Source_ID>
+            </Source>
+            <Page>accessed 14 August 2008</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>crocadilians</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000395245</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000093795/Encyclopedia Britannica Online (2002-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000114707/Oxford English Dictionary Online (2002-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>crocadilian</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000395246</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Alternate Descriptor</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000114707/Oxford English Dictionary Online (2002-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>Crocodylia</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000395244</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70431/Latin</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000093795/Encyclopedia Britannica Online (2002-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>鱷目</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000859287</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72551/Chinese (traditional)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>目</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000112141/智慧藏百科全書網</Source_ID>
+            </Source>
+            <Page>September 5, 2011</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000112142/大英百科全書線上繁體中文版</Source_ID>
+            </Source>
+            <Page>September 5, 2011</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000112143/脊椎動物學（上）</Source_ID>
+            </Source>
+            <Page> 276</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000112144/國家教育研究院－雙語詞彙、學術名詞暨辭書資訊網</Source_ID>
+            </Source>
+            <Page>September 5, 2011</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>e mu</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000859288</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72586/Chinese (transliterated Pinyin without tones)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+          <Term_Language>
+            <Language>72582/Chinese (transliterated Wade-Giles)</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>è mù</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000859289</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>72584/Chinese (transliterated Hanyu Pinyin)</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000079740/AS-Academia Sinica data (2014-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+    </Terms>
+    <Associative_Relationships>
+      <Associative_Relationship>
+        <Relationship_Type>related to</Relationship_Type>
+        <Related_Subject_ID>
+          <VP_Subject_ID>300445090</VP_Subject_ID>
+        </Related_Subject_ID>
+        <Historic_Flag>Current</Historic_Flag>
+      </Associative_Relationship>
+    </Associative_Relationships>
+    <Subject_Contributors>
+      <Subject_Contributor>
+        <Contributor_id>10000000/VP</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000205/AAT-Ned</Contributor_id>
+      </Subject_Contributor>
+      <Subject_Contributor>
+        <Contributor_id>10000250/AS-Academia Sinica</Contributor_id>
+      </Subject_Contributor>
+    </Subject_Contributors>
+  </Subject>
+</Vocabulary>

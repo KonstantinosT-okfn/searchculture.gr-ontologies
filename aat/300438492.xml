@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vocabsservices.getty.edu/Schemas/AAT/AATGetSubject.xsd">
+  <Subject Subject_ID="300438492">
+    <Parent_Relationships>
+      <Preferred_Parent>
+        <Parent_Subject_ID>300438499</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>Hopi pottery styles [300438499], Hopi (culture or style) [300017763], Western Pueblo [300017762], Pueblo (Native American style) [300017746], Southwestern Native American [300017723], Native North American [300017442], Native American [300017437], The Americas [300016617], styles, periods, and cultures by region [300111079], Styles and Periods (hierarchy name) [300015646], Styles and Periods Facet [300264088]</Parent_String>
+        <Hier_Rel_Type>Genus/Species-BTG</Hier_Rel_Type>
+      </Preferred_Parent>
+    </Parent_Relationships>
+    <Descriptive_Notes>
+      <Descriptive_Note>
+        <Note_Text>Defines type of pottery popularized by Nampeyo (ca. 1860-1942) and other female Hopi-Tewa and Hopi potters in the late 19th century to early 20th century. Utilizes the same techniques and visual program as historical Sikyatki pottery from the 14th to 16th centuries: a golden-hued patina due to high temperature firing and black and red curvilinear designs often featuring birds and dragonflies. Nampeyo is often credited as being one of the first to revamp this style, but other Hopi-Tewa and Hopi women were likely involved as well. Potters used the Sikyatki visual framework as a base for new works that were often traded and sold to Native and non-Native audiences in the 20th century. </Note_Text>
+        <Note_Language>English</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000109163/Crown, The Archaeology of Crafts Learning (2014)</Source_ID>
+            </Source>
+          </Note_Source>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000109169/Arizona State Museum [online] (2020)</Source_ID>
+            </Source>
+          </Note_Source>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000109167/Pacific Grove Museum of Natural History [online] (2020-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+    </Descriptive_Notes>
+    <Record_Type>Concept</Record_Type>
+    <Merged_Status>Not Merged</Merged_Status>
+    <Sort_Order>1</Sort_Order>
+    <Terms>
+      <Preferred_Term>
+        <Term_Text>Sikyatki Revival style</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000831397</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Singular Noun</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000109163/Crown, The Archaeology of Crafts Learning (2014)</Source_ID>
+            </Source>
+            <Page>77; accessed 28 January 2020</Page>
+            <Preferred>Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000109168/Dallas Museum of Art [online] (2017)</Source_ID>
+            </Source>
+            <Page>"Sikyatki Revival style," accessed 28 January 2020, "Sikyatki Revival bowl,"</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000109167/Pacific Grove Museum of Natural History [online] (2020-)</Source_ID>
+            </Source>
+            <Page>"Sikyatki Revival style," accessed 28 January 2020, "Treasures from the Basement: Pottery of the Hopi Nation,"</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>Sikyatki Revival</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000831399</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000047028/National Museum of the American Indian (2005-)</Source_ID>
+            </Source>
+            <Page>"Sikyatki Revival," accessed 28 January 2020, "Sikyatki Revival Jar,"</Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+    </Terms>
+    <Associative_Relationships>
+      <Associative_Relationship>
+        <Relationship_Type>followed</Relationship_Type>
+        <Related_Subject_ID>
+          <VP_Subject_ID>300438491</VP_Subject_ID>
+        </Related_Subject_ID>
+        <Historic_Flag>Current</Historic_Flag>
+      </Associative_Relationship>
+    </Associative_Relationships>
+    <Subject_Contributors>
+      <Subject_Contributor>
+        <Contributor_id>10000000/VP</Contributor_id>
+      </Subject_Contributor>
+    </Subject_Contributors>
+  </Subject>
+</Vocabulary>

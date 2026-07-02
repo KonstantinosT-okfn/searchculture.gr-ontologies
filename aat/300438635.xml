@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vocabsservices.getty.edu/Schemas/AAT/AATGetSubject.xsd">
+  <Subject Subject_ID="300438635">
+    <Parent_Relationships>
+      <Preferred_Parent>
+        <Parent_Subject_ID>300379245</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>months [300379245], size/dimension units for duration [300379250], size/dimensions by unit [300379096], size/dimensions [300266035], form attributes [300226816], attributes and properties by specific type [300226808], Attributes and Properties (hierarchy name) [300123559], Physical Attributes Facet [300264087]</Parent_String>
+        <Hier_Rel_Type>Instance-BTI</Hier_Rel_Type>
+      </Preferred_Parent>
+      <Non-Preferred_Parent>
+        <Parent_Subject_ID>300404487</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>French republican calendar [300404487], dating systems by specific type [300404467], dating systems [300404573], dates and dating systems [300404572], multidisciplinary concepts [300163707], Associated Concepts (hierarchy name) [300055126], Associated Concepts Facet [300264086]</Parent_String>
+        <Hier_Rel_Type>Whole/Part-BTP</Hier_Rel_Type>
+      </Non-Preferred_Parent>
+    </Parent_Relationships>
+    <Record_Type>Guide Term</Record_Type>
+    <Merged_Status>Not Merged</Merged_Status>
+    <Sort_Order>1</Sort_Order>
+    <Terms>
+      <Preferred_Term>
+        <Term_Text>months for the French Republican calendar</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000832720</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Non Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Used For Term</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+      </Preferred_Term>
+    </Terms>
+    <Subject_Contributors>
+      <Subject_Contributor>
+        <Contributor_id>10000000/VP</Contributor_id>
+      </Subject_Contributor>
+    </Subject_Contributors>
+  </Subject>
+</Vocabulary>

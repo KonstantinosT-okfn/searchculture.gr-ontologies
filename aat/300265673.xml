@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vocabulary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vocabsservices.getty.edu/Schemas/AAT/AATGetSubject.xsd">
+  <Subject Subject_ID="300265673">
+    <Parent_Relationships>
+      <Preferred_Parent>
+        <Parent_Subject_ID>300264089</Parent_Subject_ID>
+        <Relationship_Type>Parent/Child</Relationship_Type>
+        <Historic_Flag>Current</Historic_Flag>
+        <Parent_String>Agents Facet [300264089]</Parent_String>
+        <Hier_Rel_Type>Genus/Species-BTG</Hier_Rel_Type>
+      </Preferred_Parent>
+    </Parent_Relationships>
+    <Descriptive_Notes>
+      <Descriptive_Note>
+        <Note_Text>The Living Organisms hierarchy consists of terms for plants and animals intended for cataloging art, architecture, and related disciplines. It is not comprehensive: it grows as needed by contributions. Records include common names as well as scientific names for plants and animals, where appropriate (e.g., "Canis lupus" and "gray wolves"). Note that this hierarchy does not duplicate scientific taxonomies: it includes levels and records that are inappropriate for a scientific taxonomy but are necessary for the target audience of the AAT. The hierarchy combines living and extinct animals and plants, animals or plants by location and context (e.g., "waterfowl"), common names that have no direct counterpart in a scientific taxonomy because they do not correspond to a single species or genus (e.g., a generic "zebra"), groups of animals (e.g., "flocks"), components of animals (e.g., "paws"), and other divisions that are not part of a scientific taxonomy. Levels found in a scientific taxonomic tree occasionally may be omitted here. Records for animals or plants may be linked through Associative Relationships to records for the products derived from them, particularly when the product is unique and used to produce architecture or art (e.g., "calfs (animals)" [are] source of "vellum (parchment)"). The preferred scientific names and the basic underlying structure of the AAT hierarchies are usually derived from encyclopedia and other authoritative general reference sources rather than the most recent scientific taxonomies: taxonomic classifications have been in flux since the 1980s and many competing classifications exist, some based on traditional morphological evidence and others on analyses of molecular data. It is out of scope for the AAT to reflect the most current developments in this field.</Note_Text>
+        <Note_Language>English</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000099620/Legacy AAT data</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+      <Descriptive_Note>
+        <Note_Text>De hiërarchie 'Organismen' bestaat uit termen voor planten en dieren, bedoeld voor het catalogiseren van kunst, architectuur en aanverwante gebieden. De hiërarchie is niet compleet, maar groeit waar nodig door nieuwe bijdragen. Er zijn zowel records met gewone namen als records met wetenschappelijke namen voor planten en dieren, al naar gelang deze van toepassing zijn (bijvoorbeeld 'Canis lupus' en 'grijze wolven'). Deze hiërarchie kopieert geen wetenschappelijke taxonomieën; zij bevat niveaus en records die niet geschikt zijn voor een wetenschappelijke taxonomie maar wel nodig zijn voor de doelgroep van de AAT. De hiërarchie combineert levende en uitgestorven dieren en planten, dieren of planten naar locatie en context (bijvoorbeeld 'watervogels'), gewone namen die geen directe tegenhanger hebben in een wetenschappelijke taxonomie omdat ze niet met één soort of geslacht corresponderen (bijvoorbeeld de generieke term 'zebra'), groepen dieren (bijvoorbeeld 'kuddes'), delen van dieren (bijvoorbeeld 'poten') en andere onderverdelingen die niet bij een wetenschappelijke taxonomie horen. Soms worden niveaus van een wetenschappelijke taxonomische structuur hier weggelaten. Records voor dieren of planten kunnen door middel van 'Associative Relationships' gekoppeld zijn aan records voor de producten die hiervan zijn afgeleid, vooral wanneer het product uniek is en wordt gebruikt voor de productie van architectuur of kunst (bijvoorbeeld 'kalveren (dieren)' [zijn] bron van 'velijn'). De wetenschappelijke voorkeursnamen en de onderliggende basisstructuur van de AAT-hiërarchieën zijn gewoonlijk afgeleid van encyclopedieën en andere gezaghebbende naslagwerken, en niet van de nieuwste wetenschappelijke taxonomieën; taxonomische classificaties zijn sinds de jaren 80 van de 20ste eeuw in beweging en er bestaan veel concurrerende classificaties, waarvan sommige gebaseerd zijn op traditioneel morfologisch materiaal en andere op analyses van moleculaire gegevens. Het is niet de taak van de AAT om de nieuwste ontwikkelingen op dit gebied te presenteren.</Note_Text>
+        <Note_Language>Dutch</Note_Language>
+        <Note_Contributors>
+          <Note_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+          </Note_Contributor>
+        </Note_Contributors>
+        <Note_Sources>
+          <Note_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+          </Note_Source>
+        </Note_Sources>
+      </Descriptive_Note>
+    </Descriptive_Notes>
+    <Record_Type>Hierarchy Name</Record_Type>
+    <Merged_Status>Not Merged</Merged_Status>
+    <Sort_Order>3</Sort_Order>
+    <Terms>
+      <Preferred_Term>
+        <Term_Text>Living Organisms</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000308956</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70051/English</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>hierarchy name</Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>N/A</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000000/VP</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000094828/Getty Vocabulary Program rules</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Non Preferred</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Preferred_Term>
+      <Non-Preferred_Term>
+        <Term_Text>Levende Organismen</Term_Text>
+        <Display_Name>N/A</Display_Name>
+        <Historic_Flag>Current</Historic_Flag>
+        <Vernacular>Undetermined</Vernacular>
+        <Term_ID>1000834451</Term_ID>
+        <Term_Languages>
+          <Term_Language>
+            <Language>70261/Dutch</Language>
+            <Preferred>Preferred</Preferred>
+            <Qualifier>
+            </Qualifier>
+            <Term_Type>Descriptor</Term_Type>
+            <Part_of_Speech>Undetermined</Part_of_Speech>
+            <Lang_Stat>Undetermined</Lang_Stat>
+          </Term_Language>
+        </Term_Languages>
+        <Term_Contributors>
+          <Term_Contributor>
+            <Contributor_id>10000205/AAT-Ned</Contributor_id>
+            <Preferred>Preferred</Preferred>
+          </Term_Contributor>
+        </Term_Contributors>
+        <Term_Sources>
+          <Term_Source>
+            <Source>
+              <Source_ID>2000113770/AAT-Ned (1994-)</Source_ID>
+            </Source>
+            <Page>
+            </Page>
+            <Preferred>Unknown</Preferred>
+          </Term_Source>
+        </Term_Sources>
+      </Non-Preferred_Term>
+    </Terms>
+    <Subject_Contributors>
+      <Subject_Contributor>
+        <Contributor_id>10000000/VP</Contributor_id>
+      </Subject_Contributor>
+    </Subject_Contributors>
+  </Subject>
+</Vocabulary>
